@@ -1,0 +1,94 @@
+{
+  "random_state": 42,
+  "data": {
+    "train": "data/adult.data",
+    "test": "data/adult.test"
+  },
+  "target": "y = 1 if income is >50K, else 0",
+  "model_inputs": {
+    "numeric_no_scaling": [
+      "age",
+      "education_num",
+      "capital_gain_log",
+      "capital_loss_log",
+      "hours_per_week"
+    ],
+    "one_hot": [
+      "workclass",
+      "marital_status",
+      "occupation",
+      "relationship",
+      "race",
+      "native_country"
+    ],
+    "one_hot_encoder": "OneHotEncoder(handle_unknown='ignore'), fit on original training rows only",
+    "not_inputs": [
+      "sex",
+      "income",
+      "row_id",
+      "group"
+    ]
+  },
+  "decision_tree": {
+    "criterion": "gini",
+    "max_depth": 8,
+    "min_samples_leaf": 20,
+    "class_weight": null,
+    "random_state": 42
+  },
+  "folds": {
+    "method": "StratifiedKFold",
+    "n_splits": 5,
+    "shuffle": true,
+    "random_state": 42,
+    "stratified_on": "sex + '|' + income",
+    "file": "outputs/folds.csv"
+  },
+  "samplers": {
+    "baseline": "none",
+    "ros": {
+      "sampler": "RandomOverSampler",
+      "sampling_strategy": "not majority",
+      "random_state": 42
+    },
+    "smotenc": {
+      "sampler": "SMOTENC",
+      "k_neighbors": 5,
+      "sampling_strategy": "not majority",
+      "random_state": 42,
+      "scaled_continuous": [
+        "age",
+        "hours_per_week",
+        "capital_gain_log",
+        "capital_loss_log"
+      ],
+      "scaler": "StandardScaler fit on original training rows only",
+      "categorical": [
+        "education_num",
+        "workclass",
+        "marital_status",
+        "occupation",
+        "relationship",
+        "race",
+        "native_country"
+      ],
+      "education_num": "string category during SMOTE-NC, int afterwards",
+      "rounding": "none"
+    },
+    "rus": {
+      "sampler": "RandomUnderSampler",
+      "sampling_strategy": "not minority",
+      "random_state": 42
+    },
+    "resampled_on": "sex + '|' + income, rebuilt into sex and y afterwards"
+  },
+  "final_test": "each condition refit on all of adult.data, predicts all of adult.test",
+  "exact_match_rule": "matches_train = 1 if all 15 raw columns (fnlwgt and income included, test income period stripped) equal at least one adult.data row",
+  "versions": {
+    "python": "3.14.7",
+    "pandas": "3.0.5",
+    "numpy": "2.5.2",
+    "scikit-learn": "1.9.0",
+    "imbalanced-learn": "0.14.2"
+  }
+}
