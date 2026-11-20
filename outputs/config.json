@@ -85,7 +85,7 @@
   "final_test": "each condition refit on all of adult.data, predicts all of adult.test",
   "exact_match_rule": "matches_train = 1 if all 15 raw columns (fnlwgt and income included, test income period stripped) equal at least one adult.data row",
   "versions": {
-    "python": "3.14.7",
+    "python": "3.14.2",
     "pandas": "3.0.5",
     "numpy": "2.5.2",
     "scikit-learn": "1.9.0",

@@ -65125,14 +65125,14 @@ cv,smotenc,1,6,Female,0,0
 cv,smotenc,1,9,Male,1,1
 cv,smotenc,1,13,Male,0,0
 cv,smotenc,1,16,Male,0,0
-cv,smotenc,1,19,Female,1,1
-cv,smotenc,1,23,Male,0,1
+cv,smotenc,1,19,Female,1,0
+cv,smotenc,1,23,Male,0,0
 cv,smotenc,1,31,Male,0,0
 cv,smotenc,1,36,Male,0,0
 cv,smotenc,1,42,Male,0,1
 cv,smotenc,1,44,Male,0,0
 cv,smotenc,1,45,Male,1,1
-cv,smotenc,1,53,Male,1,0
+cv,smotenc,1,53,Male,1,1
 cv,smotenc,1,59,Male,0,0
 cv,smotenc,1,78,Female,0,0
 cv,smotenc,1,89,Female,1,1
@@ -65180,8 +65180,8 @@ cv,smotenc,1,247,Female,0,0
 cv,smotenc,1,253,Male,0,0
 cv,smotenc,1,254,Male,0,0
 cv,smotenc,1,256,Female,0,0
-cv,smotenc,1,258,Female,0,0
-cv,smotenc,1,260,Female,0,1
+cv,smotenc,1,258,Female,0,1
+cv,smotenc,1,260,Female,0,0
 cv,smotenc,1,264,Male,0,0
 cv,smotenc,1,272,Male,0,1
 cv,smotenc,1,277,Female,0,0
@@ -65210,7 +65210,7 @@ cv,smotenc,1,392,Male,0,0
 cv,smotenc,1,393,Male,1,1
 cv,smotenc,1,399,Male,1,1
 cv,smotenc,1,401,Female,0,0
-cv,smotenc,1,412,Female,0,0
+cv,smotenc,1,412,Female,0,1
 cv,smotenc,1,417,Female,0,0
 cv,smotenc,1,419,Female,0,0
 cv,smotenc,1,432,Female,0,1
@@ -65311,8 +65311,8 @@ cv,smotenc,1,870,Male,1,1
 cv,smotenc,1,875,Male,1,1
 cv,smotenc,1,886,Male,0,0
 cv,smotenc,1,887,Male,0,0
-cv,smotenc,1,891,Male,0,1
-cv,smotenc,1,892,Female,0,1
+cv,smotenc,1,891,Male,0,0
+cv,smotenc,1,892,Female,0,0
 cv,smotenc,1,897,Female,0,0
 cv,smotenc,1,903,Male,0,0
 cv,smotenc,1,904,Male,0,0
@@ -65402,7 +65402,7 @@ cv,smotenc,1,1349,Male,0,0
 cv,smotenc,1,1351,Male,1,1
 cv,smotenc,1,1353,Male,0,1
 cv,smotenc,1,1359,Male,0,0
-cv,smotenc,1,1365,Female,0,0
+cv,smotenc,1,1365,Female,0,1
 cv,smotenc,1,1366,Female,0,1
 cv,smotenc,1,1368,Male,1,1
 cv,smotenc,1,1373,Male,0,1
@@ -65478,7 +65478,7 @@ cv,smotenc,1,1718,Male,1,1
 cv,smotenc,1,1719,Male,0,1
 cv,smotenc,1,1728,Female,1,1
 cv,smotenc,1,1729,Male,0,0
-cv,smotenc,1,1733,Male,0,1
+cv,smotenc,1,1733,Male,0,0
 cv,smotenc,1,1734,Male,0,0
 cv,smotenc,1,1737,Female,0,0
 cv,smotenc,1,1738,Male,1,0
@@ -65511,12 +65511,12 @@ cv,smotenc,1,1854,Male,0,0
 cv,smotenc,1,1859,Female,1,1
 cv,smotenc,1,1864,Male,1,1
 cv,smotenc,1,1887,Male,1,1
-cv,smotenc,1,1891,Female,0,0
+cv,smotenc,1,1891,Female,0,1
 cv,smotenc,1,1900,Male,0,0
 cv,smotenc,1,1914,Male,0,0
 cv,smotenc,1,1915,Male,1,1
 cv,smotenc,1,1933,Female,1,0
-cv,smotenc,1,1937,Female,0,1
+cv,smotenc,1,1937,Female,0,0
 cv,smotenc,1,1938,Male,1,1
 cv,smotenc,1,1943,Female,1,1
 cv,smotenc,1,1954,Male,0,0
@@ -65627,7 +65627,7 @@ cv,smotenc,1,2369,Male,0,0
 cv,smotenc,1,2373,Male,0,1
 cv,smotenc,1,2376,Female,0,0
 cv,smotenc,1,2378,Female,0,0
-cv,smotenc,1,2379,Male,0,0
+cv,smotenc,1,2379,Male,0,1
 cv,smotenc,1,2383,Female,0,0
 cv,smotenc,1,2384,Female,0,0
 cv,smotenc,1,2391,Male,0,0
@@ -65798,7 +65798,7 @@ cv,smotenc,1,3322,Male,0,1
 cv,smotenc,1,3328,Male,1,1
 cv,smotenc,1,3336,Female,1,1
 cv,smotenc,1,3349,Female,1,1
-cv,smotenc,1,3359,Male,1,1
+cv,smotenc,1,3359,Male,1,0
 cv,smotenc,1,3363,Male,0,1
 cv,smotenc,1,3364,Female,0,0
 cv,smotenc,1,3368,Male,1,1
@@ -65832,7 +65832,7 @@ cv,smotenc,1,3477,Male,1,1
 cv,smotenc,1,3479,Female,0,1
 cv,smotenc,1,3485,Male,1,1
 cv,smotenc,1,3487,Female,0,0
-cv,smotenc,1,3503,Female,0,0
+cv,smotenc,1,3503,Female,0,1
 cv,smotenc,1,3507,Male,0,0
 cv,smotenc,1,3509,Female,0,0
 cv,smotenc,1,3511,Female,0,0
@@ -66028,7 +66028,7 @@ cv,smotenc,1,4436,Male,0,1
 cv,smotenc,1,4437,Female,1,0
 cv,smotenc,1,4439,Male,0,0
 cv,smotenc,1,4446,Female,0,0
-cv,smotenc,1,4453,Female,0,0
+cv,smotenc,1,4453,Female,0,1
 cv,smotenc,1,4455,Male,0,0
 cv,smotenc,1,4460,Female,0,0
 cv,smotenc,1,4480,Male,0,1
@@ -66065,7 +66065,7 @@ cv,smotenc,1,4620,Male,0,1
 cv,smotenc,1,4634,Male,0,1
 cv,smotenc,1,4651,Male,0,1
 cv,smotenc,1,4652,Female,0,0
-cv,smotenc,1,4656,Female,1,1
+cv,smotenc,1,4656,Female,1,0
 cv,smotenc,1,4662,Male,0,0
 cv,smotenc,1,4678,Female,0,1
 cv,smotenc,1,4681,Male,0,1
@@ -66103,12 +66103,12 @@ cv,smotenc,1,4859,Male,0,0
 cv,smotenc,1,4861,Male,0,0
 cv,smotenc,1,4872,Male,1,1
 cv,smotenc,1,4896,Male,0,0
-cv,smotenc,1,4905,Female,1,1
+cv,smotenc,1,4905,Female,1,0
 cv,smotenc,1,4906,Female,1,1
 cv,smotenc,1,4921,Male,0,0
 cv,smotenc,1,4922,Male,0,0
 cv,smotenc,1,4923,Male,1,1
-cv,smotenc,1,4924,Female,0,0
+cv,smotenc,1,4924,Female,0,1
 cv,smotenc,1,4933,Female,0,0
 cv,smotenc,1,4958,Female,0,0
 cv,smotenc,1,4960,Female,0,0
@@ -66181,7 +66181,7 @@ cv,smotenc,1,5264,Male,1,1
 cv,smotenc,1,5272,Female,0,0
 cv,smotenc,1,5275,Male,1,1
 cv,smotenc,1,5277,Male,0,0
-cv,smotenc,1,5285,Female,1,0
+cv,smotenc,1,5285,Female,1,1
 cv,smotenc,1,5288,Male,0,0
 cv,smotenc,1,5299,Male,0,1
 cv,smotenc,1,5309,Male,1,1
@@ -66295,7 +66295,7 @@ cv,smotenc,1,5811,Female,0,1
 cv,smotenc,1,5815,Male,0,1
 cv,smotenc,1,5818,Male,0,0
 cv,smotenc,1,5823,Male,0,1
-cv,smotenc,1,5835,Male,0,0
+cv,smotenc,1,5835,Male,0,1
 cv,smotenc,1,5842,Female,0,0
 cv,smotenc,1,5846,Female,0,0
 cv,smotenc,1,5855,Male,0,1
@@ -66331,7 +66331,7 @@ cv,smotenc,1,6048,Female,0,0
 cv,smotenc,1,6050,Male,0,1
 cv,smotenc,1,6052,Male,0,0
 cv,smotenc,1,6053,Female,0,0
-cv,smotenc,1,6055,Male,0,0
+cv,smotenc,1,6055,Male,0,1
 cv,smotenc,1,6057,Male,0,0
 cv,smotenc,1,6062,Male,0,1
 cv,smotenc,1,6078,Male,0,0
@@ -66347,10 +66347,10 @@ cv,smotenc,1,6133,Male,0,0
 cv,smotenc,1,6135,Male,1,1
 cv,smotenc,1,6147,Male,1,1
 cv,smotenc,1,6148,Female,0,0
-cv,smotenc,1,6153,Male,0,1
+cv,smotenc,1,6153,Male,0,0
 cv,smotenc,1,6157,Male,0,0
 cv,smotenc,1,6166,Male,0,0
-cv,smotenc,1,6169,Female,0,0
+cv,smotenc,1,6169,Female,0,1
 cv,smotenc,1,6179,Male,1,1
 cv,smotenc,1,6190,Female,0,0
 cv,smotenc,1,6202,Male,0,1
@@ -66383,11 +66383,11 @@ cv,smotenc,1,6313,Male,1,1
 cv,smotenc,1,6320,Male,0,0
 cv,smotenc,1,6324,Male,1,1
 cv,smotenc,1,6326,Female,0,0
-cv,smotenc,1,6331,Female,1,1
+cv,smotenc,1,6331,Female,1,0
 cv,smotenc,1,6345,Male,0,0
 cv,smotenc,1,6348,Male,0,0
 cv,smotenc,1,6349,Male,1,1
-cv,smotenc,1,6354,Female,0,0
+cv,smotenc,1,6354,Female,0,1
 cv,smotenc,1,6358,Female,0,0
 cv,smotenc,1,6370,Female,0,0
 cv,smotenc,1,6371,Male,0,1
@@ -66456,9 +66456,9 @@ cv,smotenc,1,6698,Male,0,1
 cv,smotenc,1,6700,Male,0,1
 cv,smotenc,1,6702,Male,0,0
 cv,smotenc,1,6703,Male,1,1
-cv,smotenc,1,6705,Male,0,0
+cv,smotenc,1,6705,Male,0,1
 cv,smotenc,1,6707,Female,0,0
-cv,smotenc,1,6709,Female,0,0
+cv,smotenc,1,6709,Female,0,1
 cv,smotenc,1,6711,Male,0,0
 cv,smotenc,1,6721,Male,0,0
 cv,smotenc,1,6724,Male,0,1
@@ -66471,14 +66471,14 @@ cv,smotenc,1,6753,Female,0,1
 cv,smotenc,1,6761,Male,0,1
 cv,smotenc,1,6762,Female,0,1
 cv,smotenc,1,6769,Male,1,1
-cv,smotenc,1,6778,Female,0,0
+cv,smotenc,1,6778,Female,0,1
 cv,smotenc,1,6784,Male,0,0
 cv,smotenc,1,6786,Male,0,0
 cv,smotenc,1,6789,Female,0,0
 cv,smotenc,1,6791,Female,0,0
 cv,smotenc,1,6793,Female,0,0
 cv,smotenc,1,6794,Female,0,0
-cv,smotenc,1,6799,Female,0,0
+cv,smotenc,1,6799,Female,0,1
 cv,smotenc,1,6801,Female,0,0
 cv,smotenc,1,6808,Male,0,1
 cv,smotenc,1,6810,Female,0,0
@@ -66618,7 +66618,7 @@ cv,smotenc,1,7426,Female,0,0
 cv,smotenc,1,7436,Female,0,0
 cv,smotenc,1,7437,Male,0,0
 cv,smotenc,1,7444,Female,0,0
-cv,smotenc,1,7446,Female,0,0
+cv,smotenc,1,7446,Female,0,1
 cv,smotenc,1,7450,Female,1,1
 cv,smotenc,1,7453,Female,0,0
 cv,smotenc,1,7454,Male,0,0
@@ -66686,7 +66686,7 @@ cv,smotenc,1,7808,Male,0,1
 cv,smotenc,1,7811,Male,1,1
 cv,smotenc,1,7818,Male,1,1
 cv,smotenc,1,7820,Female,0,0
-cv,smotenc,1,7825,Female,0,0
+cv,smotenc,1,7825,Female,0,1
 cv,smotenc,1,7827,Male,0,0
 cv,smotenc,1,7828,Female,0,1
 cv,smotenc,1,7831,Male,1,1
@@ -66829,7 +66829,7 @@ cv,smotenc,1,8595,Female,0,0
 cv,smotenc,1,8599,Male,0,1
 cv,smotenc,1,8600,Male,0,0
 cv,smotenc,1,8603,Female,0,0
-cv,smotenc,1,8606,Male,0,0
+cv,smotenc,1,8606,Male,0,1
 cv,smotenc,1,8610,Male,1,0
 cv,smotenc,1,8613,Male,1,1
 cv,smotenc,1,8615,Female,0,0
@@ -66871,9 +66871,9 @@ cv,smotenc,1,8807,Female,0,0
 cv,smotenc,1,8809,Male,1,0
 cv,smotenc,1,8812,Female,0,0
 cv,smotenc,1,8819,Female,0,0
-cv,smotenc,1,8821,Male,0,1
+cv,smotenc,1,8821,Male,0,0
 cv,smotenc,1,8836,Male,1,1
-cv,smotenc,1,8837,Female,0,1
+cv,smotenc,1,8837,Female,0,0
 cv,smotenc,1,8838,Male,0,0
 cv,smotenc,1,8841,Male,0,1
 cv,smotenc,1,8844,Male,0,0
@@ -66901,7 +66901,7 @@ cv,smotenc,1,8992,Male,0,0
 cv,smotenc,1,8999,Male,0,0
 cv,smotenc,1,9008,Male,1,1
 cv,smotenc,1,9012,Female,0,0
-cv,smotenc,1,9017,Female,1,0
+cv,smotenc,1,9017,Female,1,1
 cv,smotenc,1,9018,Male,0,0
 cv,smotenc,1,9021,Male,1,1
 cv,smotenc,1,9029,Male,1,1
@@ -66966,7 +66966,7 @@ cv,smotenc,1,9339,Female,0,0
 cv,smotenc,1,9352,Male,1,1
 cv,smotenc,1,9355,Male,0,0
 cv,smotenc,1,9361,Male,0,0
-cv,smotenc,1,9365,Male,0,0
+cv,smotenc,1,9365,Male,0,1
 cv,smotenc,1,9369,Female,0,0
 cv,smotenc,1,9373,Male,0,1
 cv,smotenc,1,9377,Female,0,0
@@ -66980,7 +66980,7 @@ cv,smotenc,1,9424,Female,0,0
 cv,smotenc,1,9426,Male,0,0
 cv,smotenc,1,9427,Male,0,1
 cv,smotenc,1,9430,Male,0,0
-cv,smotenc,1,9439,Male,1,1
+cv,smotenc,1,9439,Male,1,0
 cv,smotenc,1,9443,Male,0,1
 cv,smotenc,1,9448,Female,0,0
 cv,smotenc,1,9451,Male,0,0
@@ -66991,10 +66991,10 @@ cv,smotenc,1,9498,Female,0,0
 cv,smotenc,1,9505,Male,0,0
 cv,smotenc,1,9506,Male,1,1
 cv,smotenc,1,9509,Female,0,1
-cv,smotenc,1,9515,Female,0,0
+cv,smotenc,1,9515,Female,0,1
 cv,smotenc,1,9516,Male,1,1
 cv,smotenc,1,9519,Male,0,0
-cv,smotenc,1,9521,Female,1,1
+cv,smotenc,1,9521,Female,1,0
 cv,smotenc,1,9526,Male,0,1
 cv,smotenc,1,9527,Male,0,0
 cv,smotenc,1,9529,Male,1,1
@@ -67056,7 +67056,7 @@ cv,smotenc,1,9757,Male,0,0
 cv,smotenc,1,9759,Male,0,1
 cv,smotenc,1,9761,Male,1,1
 cv,smotenc,1,9763,Female,0,0
-cv,smotenc,1,9765,Male,0,1
+cv,smotenc,1,9765,Male,0,0
 cv,smotenc,1,9767,Male,0,1
 cv,smotenc,1,9768,Female,0,0
 cv,smotenc,1,9769,Male,1,1
@@ -67141,13 +67141,13 @@ cv,smotenc,1,10204,Female,0,0
 cv,smotenc,1,10208,Male,1,1
 cv,smotenc,1,10212,Male,1,1
 cv,smotenc,1,10218,Male,1,1
-cv,smotenc,1,10221,Female,0,0
+cv,smotenc,1,10221,Female,0,1
 cv,smotenc,1,10239,Female,0,0
 cv,smotenc,1,10243,Male,0,1
 cv,smotenc,1,10245,Male,0,0
 cv,smotenc,1,10250,Male,0,0
 cv,smotenc,1,10260,Male,0,0
-cv,smotenc,1,10262,Female,0,0
+cv,smotenc,1,10262,Female,0,1
 cv,smotenc,1,10267,Male,1,0
 cv,smotenc,1,10273,Male,0,0
 cv,smotenc,1,10279,Female,0,0
@@ -67258,7 +67258,7 @@ cv,smotenc,1,10825,Female,0,0
 cv,smotenc,1,10827,Male,0,1
 cv,smotenc,1,10829,Male,1,1
 cv,smotenc,1,10830,Female,0,0
-cv,smotenc,1,10834,Female,1,1
+cv,smotenc,1,10834,Female,1,0
 cv,smotenc,1,10837,Female,0,0
 cv,smotenc,1,10838,Male,0,0
 cv,smotenc,1,10841,Male,0,0
@@ -67297,7 +67297,7 @@ cv,smotenc,1,10994,Male,1,0
 cv,smotenc,1,11005,Male,0,0
 cv,smotenc,1,11011,Male,0,1
 cv,smotenc,1,11014,Male,0,0
-cv,smotenc,1,11020,Male,0,0
+cv,smotenc,1,11020,Male,0,1
 cv,smotenc,1,11024,Male,0,0
 cv,smotenc,1,11025,Male,1,1
 cv,smotenc,1,11030,Male,0,0
@@ -67321,7 +67321,7 @@ cv,smotenc,1,11116,Male,1,1
 cv,smotenc,1,11119,Male,0,0
 cv,smotenc,1,11137,Female,0,0
 cv,smotenc,1,11144,Male,0,1
-cv,smotenc,1,11147,Female,1,1
+cv,smotenc,1,11147,Female,1,0
 cv,smotenc,1,11152,Male,1,0
 cv,smotenc,1,11153,Male,1,1
 cv,smotenc,1,11154,Female,0,0
@@ -67340,7 +67340,7 @@ cv,smotenc,1,11249,Male,0,1
 cv,smotenc,1,11252,Male,0,0
 cv,smotenc,1,11256,Male,0,0
 cv,smotenc,1,11260,Male,1,1
-cv,smotenc,1,11262,Female,0,0
+cv,smotenc,1,11262,Female,0,1
 cv,smotenc,1,11265,Male,0,1
 cv,smotenc,1,11266,Male,1,1
 cv,smotenc,1,11274,Male,0,0
@@ -67374,7 +67374,7 @@ cv,smotenc,1,11433,Male,0,0
 cv,smotenc,1,11434,Male,1,1
 cv,smotenc,1,11438,Female,0,0
 cv,smotenc,1,11439,Male,0,0
-cv,smotenc,1,11440,Female,0,0
+cv,smotenc,1,11440,Female,0,1
 cv,smotenc,1,11450,Male,1,1
 cv,smotenc,1,11451,Male,0,0
 cv,smotenc,1,11460,Male,0,0
@@ -67408,13 +67408,13 @@ cv,smotenc,1,11604,Male,1,1
 cv,smotenc,1,11609,Female,0,0
 cv,smotenc,1,11611,Male,0,0
 cv,smotenc,1,11631,Female,0,0
-cv,smotenc,1,11636,Female,0,1
+cv,smotenc,1,11636,Female,0,0
 cv,smotenc,1,11645,Male,0,0
 cv,smotenc,1,11651,Female,0,1
 cv,smotenc,1,11657,Male,1,1
 cv,smotenc,1,11661,Female,0,0
 cv,smotenc,1,11663,Female,0,0
-cv,smotenc,1,11665,Female,0,1
+cv,smotenc,1,11665,Female,0,0
 cv,smotenc,1,11667,Male,0,0
 cv,smotenc,1,11670,Male,0,1
 cv,smotenc,1,11675,Male,0,1
@@ -67446,10 +67446,10 @@ cv,smotenc,1,11821,Male,0,1
 cv,smotenc,1,11826,Male,1,1
 cv,smotenc,1,11827,Male,0,0
 cv,smotenc,1,11829,Male,1,1
-cv,smotenc,1,11831,Female,1,0
+cv,smotenc,1,11831,Female,1,1
 cv,smotenc,1,11840,Female,0,1
 cv,smotenc,1,11846,Male,0,0
-cv,smotenc,1,11858,Male,0,0
+cv,smotenc,1,11858,Male,0,1
 cv,smotenc,1,11859,Female,0,0
 cv,smotenc,1,11877,Male,1,1
 cv,smotenc,1,11879,Male,0,0
@@ -67496,7 +67496,7 @@ cv,smotenc,1,12031,Male,1,1
 cv,smotenc,1,12033,Female,0,0
 cv,smotenc,1,12037,Female,0,0
 cv,smotenc,1,12040,Male,0,1
-cv,smotenc,1,12043,Male,0,0
+cv,smotenc,1,12043,Male,0,1
 cv,smotenc,1,12048,Female,0,0
 cv,smotenc,1,12064,Male,0,1
 cv,smotenc,1,12065,Male,0,0
@@ -67551,7 +67551,7 @@ cv,smotenc,1,12310,Male,0,0
 cv,smotenc,1,12318,Female,0,0
 cv,smotenc,1,12319,Male,0,1
 cv,smotenc,1,12321,Female,0,0
-cv,smotenc,1,12322,Female,1,0
+cv,smotenc,1,12322,Female,1,1
 cv,smotenc,1,12328,Female,0,0
 cv,smotenc,1,12346,Female,0,0
 cv,smotenc,1,12351,Female,0,0
@@ -67580,7 +67580,7 @@ cv,smotenc,1,12454,Female,0,0
 cv,smotenc,1,12458,Male,0,0
 cv,smotenc,1,12460,Male,1,0
 cv,smotenc,1,12463,Male,1,1
-cv,smotenc,1,12465,Male,0,0
+cv,smotenc,1,12465,Male,0,1
 cv,smotenc,1,12467,Male,1,1
 cv,smotenc,1,12470,Male,0,1
 cv,smotenc,1,12471,Male,0,0
@@ -67688,7 +67688,7 @@ cv,smotenc,1,12960,Male,0,0
 cv,smotenc,1,12963,Male,0,0
 cv,smotenc,1,12970,Male,1,1
 cv,smotenc,1,12973,Male,1,0
-cv,smotenc,1,12985,Female,0,1
+cv,smotenc,1,12985,Female,0,0
 cv,smotenc,1,12986,Male,1,0
 cv,smotenc,1,12987,Male,0,0
 cv,smotenc,1,12991,Male,0,0
@@ -67701,7 +67701,7 @@ cv,smotenc,1,13032,Female,0,0
 cv,smotenc,1,13037,Male,0,0
 cv,smotenc,1,13048,Female,0,0
 cv,smotenc,1,13053,Female,0,0
-cv,smotenc,1,13055,Female,0,0
+cv,smotenc,1,13055,Female,0,1
 cv,smotenc,1,13060,Male,0,0
 cv,smotenc,1,13075,Female,0,0
 cv,smotenc,1,13079,Male,0,0
@@ -67734,13 +67734,13 @@ cv,smotenc,1,13187,Male,1,1
 cv,smotenc,1,13194,Male,1,1
 cv,smotenc,1,13198,Male,0,1
 cv,smotenc,1,13199,Male,1,1
-cv,smotenc,1,13213,Male,0,1
+cv,smotenc,1,13213,Male,0,0
 cv,smotenc,1,13221,Female,0,0
 cv,smotenc,1,13223,Male,0,0
 cv,smotenc,1,13224,Female,0,1
 cv,smotenc,1,13237,Male,0,0
 cv,smotenc,1,13249,Male,1,0
-cv,smotenc,1,13250,Female,0,0
+cv,smotenc,1,13250,Female,0,1
 cv,smotenc,1,13251,Male,0,1
 cv,smotenc,1,13261,Male,0,0
 cv,smotenc,1,13264,Male,0,0
@@ -67814,14 +67814,14 @@ cv,smotenc,1,13585,Female,0,0
 cv,smotenc,1,13586,Male,0,0
 cv,smotenc,1,13587,Male,0,0
 cv,smotenc,1,13589,Male,0,0
-cv,smotenc,1,13590,Male,1,1
+cv,smotenc,1,13590,Male,1,0
 cv,smotenc,1,13597,Male,0,1
 cv,smotenc,1,13598,Male,1,1
 cv,smotenc,1,13603,Male,0,0
 cv,smotenc,1,13605,Male,0,0
 cv,smotenc,1,13606,Female,0,0
 cv,smotenc,1,13610,Male,1,1
-cv,smotenc,1,13617,Male,0,0
+cv,smotenc,1,13617,Male,0,1
 cv,smotenc,1,13622,Male,0,1
 cv,smotenc,1,13625,Male,1,1
 cv,smotenc,1,13633,Male,0,0
@@ -67883,7 +67883,7 @@ cv,smotenc,1,13886,Male,0,1
 cv,smotenc,1,13891,Male,1,1
 cv,smotenc,1,13895,Male,1,1
 cv,smotenc,1,13898,Female,0,0
-cv,smotenc,1,13899,Female,1,1
+cv,smotenc,1,13899,Female,1,0
 cv,smotenc,1,13903,Female,0,0
 cv,smotenc,1,13904,Male,0,1
 cv,smotenc,1,13907,Female,0,0
@@ -67998,8 +67998,8 @@ cv,smotenc,1,14394,Female,1,1
 cv,smotenc,1,14395,Male,0,0
 cv,smotenc,1,14396,Male,1,1
 cv,smotenc,1,14397,Male,0,1
-cv,smotenc,1,14399,Female,0,0
-cv,smotenc,1,14401,Female,1,0
+cv,smotenc,1,14399,Female,0,1
+cv,smotenc,1,14401,Female,1,1
 cv,smotenc,1,14402,Male,0,0
 cv,smotenc,1,14407,Male,0,0
 cv,smotenc,1,14410,Male,1,1
@@ -68034,7 +68034,7 @@ cv,smotenc,1,14548,Female,0,0
 cv,smotenc,1,14549,Male,0,0
 cv,smotenc,1,14550,Male,1,1
 cv,smotenc,1,14561,Male,0,0
-cv,smotenc,1,14564,Male,0,1
+cv,smotenc,1,14564,Male,0,0
 cv,smotenc,1,14567,Female,0,0
 cv,smotenc,1,14569,Male,0,0
 cv,smotenc,1,14572,Male,0,0
@@ -68134,7 +68134,7 @@ cv,smotenc,1,15029,Female,0,0
 cv,smotenc,1,15030,Male,0,0
 cv,smotenc,1,15034,Male,1,1
 cv,smotenc,1,15036,Female,0,1
-cv,smotenc,1,15039,Female,0,1
+cv,smotenc,1,15039,Female,0,0
 cv,smotenc,1,15041,Female,0,0
 cv,smotenc,1,15042,Male,0,0
 cv,smotenc,1,15045,Female,0,0
@@ -68273,7 +68273,7 @@ cv,smotenc,1,15643,Female,0,0
 cv,smotenc,1,15650,Female,0,0
 cv,smotenc,1,15654,Male,1,1
 cv,smotenc,1,15659,Male,0,0
-cv,smotenc,1,15660,Male,1,0
+cv,smotenc,1,15660,Male,1,1
 cv,smotenc,1,15669,Male,1,1
 cv,smotenc,1,15671,Male,0,1
 cv,smotenc,1,15674,Female,0,1
@@ -68293,14 +68293,14 @@ cv,smotenc,1,15736,Male,0,1
 cv,smotenc,1,15744,Male,1,1
 cv,smotenc,1,15751,Male,0,0
 cv,smotenc,1,15760,Male,1,1
-cv,smotenc,1,15770,Female,0,0
+cv,smotenc,1,15770,Female,0,1
 cv,smotenc,1,15772,Male,0,0
 cv,smotenc,1,15774,Male,1,1
 cv,smotenc,1,15775,Male,1,1
 cv,smotenc,1,15791,Male,0,1
 cv,smotenc,1,15794,Male,0,0
 cv,smotenc,1,15797,Female,0,0
-cv,smotenc,1,15804,Male,1,0
+cv,smotenc,1,15804,Male,1,1
 cv,smotenc,1,15807,Male,0,0
 cv,smotenc,1,15818,Male,0,0
 cv,smotenc,1,15834,Male,0,1
@@ -68321,7 +68321,7 @@ cv,smotenc,1,15931,Male,0,1
 cv,smotenc,1,15933,Female,0,0
 cv,smotenc,1,15938,Male,0,1
 cv,smotenc,1,15945,Male,0,0
-cv,smotenc,1,15951,Female,0,0
+cv,smotenc,1,15951,Female,0,1
 cv,smotenc,1,15953,Male,0,0
 cv,smotenc,1,15956,Male,1,1
 cv,smotenc,1,15957,Female,0,0
@@ -68346,7 +68346,7 @@ cv,smotenc,1,16024,Female,0,0
 cv,smotenc,1,16053,Male,1,1
 cv,smotenc,1,16067,Female,0,0
 cv,smotenc,1,16071,Male,0,1
-cv,smotenc,1,16074,Female,0,0
+cv,smotenc,1,16074,Female,0,1
 cv,smotenc,1,16079,Male,1,1
 cv,smotenc,1,16084,Male,0,0
 cv,smotenc,1,16088,Male,0,0
@@ -68427,7 +68427,7 @@ cv,smotenc,1,16487,Male,0,0
 cv,smotenc,1,16488,Male,0,0
 cv,smotenc,1,16490,Male,0,1
 cv,smotenc,1,16495,Male,0,0
-cv,smotenc,1,16505,Male,0,1
+cv,smotenc,1,16505,Male,0,0
 cv,smotenc,1,16524,Female,0,0
 cv,smotenc,1,16525,Male,0,1
 cv,smotenc,1,16534,Male,0,0
@@ -68476,7 +68476,7 @@ cv,smotenc,1,16762,Male,0,0
 cv,smotenc,1,16763,Male,1,1
 cv,smotenc,1,16767,Female,0,0
 cv,smotenc,1,16769,Male,0,0
-cv,smotenc,1,16774,Female,0,0
+cv,smotenc,1,16774,Female,0,1
 cv,smotenc,1,16783,Male,0,0
 cv,smotenc,1,16799,Female,0,0
 cv,smotenc,1,16807,Male,0,0
@@ -68491,7 +68491,7 @@ cv,smotenc,1,16845,Male,0,0
 cv,smotenc,1,16846,Female,0,0
 cv,smotenc,1,16847,Male,1,1
 cv,smotenc,1,16848,Female,1,0
-cv,smotenc,1,16856,Male,1,0
+cv,smotenc,1,16856,Male,1,1
 cv,smotenc,1,16857,Male,0,0
 cv,smotenc,1,16858,Female,0,0
 cv,smotenc,1,16859,Female,0,0
@@ -68535,7 +68535,7 @@ cv,smotenc,1,17038,Female,0,0
 cv,smotenc,1,17040,Male,0,1
 cv,smotenc,1,17043,Male,0,0
 cv,smotenc,1,17052,Male,1,1
-cv,smotenc,1,17058,Male,1,1
+cv,smotenc,1,17058,Male,1,0
 cv,smotenc,1,17062,Female,0,0
 cv,smotenc,1,17063,Male,1,1
 cv,smotenc,1,17068,Male,0,0
@@ -68546,7 +68546,7 @@ cv,smotenc,1,17084,Male,0,0
 cv,smotenc,1,17089,Female,0,0
 cv,smotenc,1,17090,Male,0,0
 cv,smotenc,1,17095,Female,0,1
-cv,smotenc,1,17103,Female,0,0
+cv,smotenc,1,17103,Female,0,1
 cv,smotenc,1,17112,Female,0,1
 cv,smotenc,1,17115,Male,1,1
 cv,smotenc,1,17117,Male,0,1
@@ -68623,7 +68623,7 @@ cv,smotenc,1,17444,Female,0,1
 cv,smotenc,1,17451,Male,0,0
 cv,smotenc,1,17452,Male,0,0
 cv,smotenc,1,17459,Female,0,0
-cv,smotenc,1,17465,Female,0,1
+cv,smotenc,1,17465,Female,0,0
 cv,smotenc,1,17470,Female,0,0
 cv,smotenc,1,17477,Female,0,0
 cv,smotenc,1,17478,Female,0,0
@@ -68756,7 +68756,7 @@ cv,smotenc,1,18086,Male,0,0
 cv,smotenc,1,18088,Female,0,1
 cv,smotenc,1,18092,Female,0,0
 cv,smotenc,1,18096,Female,0,0
-cv,smotenc,1,18102,Male,0,0
+cv,smotenc,1,18102,Male,0,1
 cv,smotenc,1,18104,Female,0,0
 cv,smotenc,1,18109,Male,0,0
 cv,smotenc,1,18110,Female,0,0
@@ -68869,7 +68869,7 @@ cv,smotenc,1,18665,Male,1,1
 cv,smotenc,1,18666,Male,0,0
 cv,smotenc,1,18669,Male,1,1
 cv,smotenc,1,18671,Male,0,0
-cv,smotenc,1,18675,Female,1,0
+cv,smotenc,1,18675,Female,1,1
 cv,smotenc,1,18678,Male,1,1
 cv,smotenc,1,18682,Male,0,0
 cv,smotenc,1,18697,Male,0,1
@@ -68912,12 +68912,12 @@ cv,smotenc,1,18875,Male,0,1
 cv,smotenc,1,18882,Male,1,1
 cv,smotenc,1,18889,Male,0,0
 cv,smotenc,1,18895,Female,1,0
-cv,smotenc,1,18896,Female,0,0
+cv,smotenc,1,18896,Female,0,1
 cv,smotenc,1,18900,Male,0,0
 cv,smotenc,1,18905,Male,0,0
 cv,smotenc,1,18907,Male,0,1
 cv,smotenc,1,18908,Female,0,0
-cv,smotenc,1,18909,Female,0,0
+cv,smotenc,1,18909,Female,0,1
 cv,smotenc,1,18916,Male,1,1
 cv,smotenc,1,18923,Male,1,1
 cv,smotenc,1,18934,Female,0,1
@@ -68990,7 +68990,7 @@ cv,smotenc,1,19245,Male,0,0
 cv,smotenc,1,19247,Male,1,1
 cv,smotenc,1,19248,Male,0,0
 cv,smotenc,1,19249,Male,1,1
-cv,smotenc,1,19251,Female,0,0
+cv,smotenc,1,19251,Female,0,1
 cv,smotenc,1,19256,Male,0,0
 cv,smotenc,1,19261,Male,0,0
 cv,smotenc,1,19263,Female,0,0
@@ -68999,7 +68999,7 @@ cv,smotenc,1,19291,Male,1,1
 cv,smotenc,1,19301,Female,0,0
 cv,smotenc,1,19302,Male,0,1
 cv,smotenc,1,19305,Male,0,0
-cv,smotenc,1,19308,Male,0,0
+cv,smotenc,1,19308,Male,0,1
 cv,smotenc,1,19311,Male,0,0
 cv,smotenc,1,19314,Male,1,0
 cv,smotenc,1,19320,Female,0,0
@@ -69047,7 +69047,7 @@ cv,smotenc,1,19536,Male,0,0
 cv,smotenc,1,19546,Male,0,0
 cv,smotenc,1,19559,Male,1,1
 cv,smotenc,1,19562,Female,0,0
-cv,smotenc,1,19564,Female,0,0
+cv,smotenc,1,19564,Female,0,1
 cv,smotenc,1,19572,Female,0,0
 cv,smotenc,1,19580,Female,0,0
 cv,smotenc,1,19582,Female,0,0
@@ -69077,7 +69077,7 @@ cv,smotenc,1,19694,Female,0,1
 cv,smotenc,1,19695,Male,1,1
 cv,smotenc,1,19699,Male,1,1
 cv,smotenc,1,19707,Male,1,0
-cv,smotenc,1,19709,Female,1,1
+cv,smotenc,1,19709,Female,1,0
 cv,smotenc,1,19723,Female,0,0
 cv,smotenc,1,19730,Male,0,0
 cv,smotenc,1,19734,Female,0,0
@@ -69111,7 +69111,7 @@ cv,smotenc,1,19877,Female,0,0
 cv,smotenc,1,19881,Female,0,0
 cv,smotenc,1,19897,Female,0,1
 cv,smotenc,1,19903,Male,0,0
-cv,smotenc,1,19910,Male,0,0
+cv,smotenc,1,19910,Male,0,1
 cv,smotenc,1,19918,Male,0,0
 cv,smotenc,1,19921,Male,0,1
 cv,smotenc,1,19936,Male,0,1
@@ -69162,7 +69162,7 @@ cv,smotenc,1,20085,Male,0,0
 cv,smotenc,1,20092,Male,0,0
 cv,smotenc,1,20095,Male,0,1
 cv,smotenc,1,20103,Female,0,0
-cv,smotenc,1,20104,Female,0,1
+cv,smotenc,1,20104,Female,0,0
 cv,smotenc,1,20109,Male,0,0
 cv,smotenc,1,20112,Female,0,0
 cv,smotenc,1,20113,Female,0,0
@@ -69202,7 +69202,7 @@ cv,smotenc,1,20213,Male,0,0
 cv,smotenc,1,20226,Male,1,1
 cv,smotenc,1,20235,Male,0,0
 cv,smotenc,1,20240,Male,1,1
-cv,smotenc,1,20245,Female,0,0
+cv,smotenc,1,20245,Female,0,1
 cv,smotenc,1,20248,Female,1,1
 cv,smotenc,1,20263,Male,0,0
 cv,smotenc,1,20264,Female,0,0
@@ -69230,10 +69230,10 @@ cv,smotenc,1,20349,Male,0,0
 cv,smotenc,1,20357,Male,0,0
 cv,smotenc,1,20359,Male,0,0
 cv,smotenc,1,20363,Male,1,1
-cv,smotenc,1,20364,Female,0,0
+cv,smotenc,1,20364,Female,0,1
 cv,smotenc,1,20367,Male,0,1
 cv,smotenc,1,20379,Male,1,0
-cv,smotenc,1,20383,Female,0,1
+cv,smotenc,1,20383,Female,0,0
 cv,smotenc,1,20384,Female,0,0
 cv,smotenc,1,20387,Male,1,1
 cv,smotenc,1,20388,Male,0,0
@@ -69242,7 +69242,7 @@ cv,smotenc,1,20396,Female,0,0
 cv,smotenc,1,20407,Male,1,1
 cv,smotenc,1,20410,Male,0,0
 cv,smotenc,1,20412,Male,0,0
-cv,smotenc,1,20417,Male,1,1
+cv,smotenc,1,20417,Male,1,0
 cv,smotenc,1,20418,Male,0,0
 cv,smotenc,1,20419,Male,0,0
 cv,smotenc,1,20421,Male,0,0
@@ -69362,7 +69362,7 @@ cv,smotenc,1,21017,Male,0,0
 cv,smotenc,1,21027,Male,1,1
 cv,smotenc,1,21034,Male,0,1
 cv,smotenc,1,21039,Male,0,0
-cv,smotenc,1,21041,Female,0,1
+cv,smotenc,1,21041,Female,0,0
 cv,smotenc,1,21044,Male,1,1
 cv,smotenc,1,21045,Male,0,1
 cv,smotenc,1,21051,Male,0,1
@@ -69390,7 +69390,7 @@ cv,smotenc,1,21127,Male,0,0
 cv,smotenc,1,21128,Male,1,1
 cv,smotenc,1,21134,Male,0,0
 cv,smotenc,1,21142,Male,0,1
-cv,smotenc,1,21143,Female,0,0
+cv,smotenc,1,21143,Female,0,1
 cv,smotenc,1,21144,Female,0,0
 cv,smotenc,1,21164,Male,0,0
 cv,smotenc,1,21166,Female,0,0
@@ -69529,7 +69529,7 @@ cv,smotenc,1,21864,Female,0,0
 cv,smotenc,1,21865,Male,0,0
 cv,smotenc,1,21873,Male,0,0
 cv,smotenc,1,21875,Male,0,0
-cv,smotenc,1,21877,Female,0,0
+cv,smotenc,1,21877,Female,0,1
 cv,smotenc,1,21878,Male,0,0
 cv,smotenc,1,21879,Female,0,0
 cv,smotenc,1,21880,Female,0,0
@@ -69580,7 +69580,7 @@ cv,smotenc,1,22052,Male,0,1
 cv,smotenc,1,22053,Female,0,0
 cv,smotenc,1,22056,Male,0,1
 cv,smotenc,1,22058,Male,0,0
-cv,smotenc,1,22061,Female,0,1
+cv,smotenc,1,22061,Female,0,0
 cv,smotenc,1,22062,Male,0,1
 cv,smotenc,1,22073,Female,0,0
 cv,smotenc,1,22074,Male,0,0
@@ -69648,7 +69648,7 @@ cv,smotenc,1,22366,Male,0,1
 cv,smotenc,1,22368,Female,0,0
 cv,smotenc,1,22370,Male,0,0
 cv,smotenc,1,22372,Male,0,0
-cv,smotenc,1,22374,Female,0,0
+cv,smotenc,1,22374,Female,0,1
 cv,smotenc,1,22380,Male,0,0
 cv,smotenc,1,22388,Male,1,1
 cv,smotenc,1,22390,Male,1,1
@@ -69681,7 +69681,7 @@ cv,smotenc,1,22509,Female,0,0
 cv,smotenc,1,22510,Male,0,0
 cv,smotenc,1,22511,Female,0,0
 cv,smotenc,1,22516,Male,1,1
-cv,smotenc,1,22522,Female,0,0
+cv,smotenc,1,22522,Female,0,1
 cv,smotenc,1,22525,Male,0,1
 cv,smotenc,1,22528,Male,0,0
 cv,smotenc,1,22531,Male,0,0
@@ -69740,7 +69740,7 @@ cv,smotenc,1,22801,Female,0,0
 cv,smotenc,1,22805,Female,0,0
 cv,smotenc,1,22809,Male,0,0
 cv,smotenc,1,22816,Female,0,0
-cv,smotenc,1,22817,Female,1,1
+cv,smotenc,1,22817,Female,1,0
 cv,smotenc,1,22820,Female,0,0
 cv,smotenc,1,22826,Male,0,0
 cv,smotenc,1,22828,Male,0,0
@@ -69861,7 +69861,7 @@ cv,smotenc,1,23495,Male,0,0
 cv,smotenc,1,23505,Male,1,1
 cv,smotenc,1,23508,Male,0,0
 cv,smotenc,1,23513,Female,0,0
-cv,smotenc,1,23516,Female,0,0
+cv,smotenc,1,23516,Female,0,1
 cv,smotenc,1,23519,Male,1,1
 cv,smotenc,1,23520,Female,0,0
 cv,smotenc,1,23522,Male,0,0
@@ -69882,7 +69882,7 @@ cv,smotenc,1,23580,Male,0,1
 cv,smotenc,1,23582,Male,1,0
 cv,smotenc,1,23583,Male,0,0
 cv,smotenc,1,23596,Male,0,0
-cv,smotenc,1,23604,Female,0,0
+cv,smotenc,1,23604,Female,0,1
 cv,smotenc,1,23608,Female,0,0
 cv,smotenc,1,23613,Male,1,1
 cv,smotenc,1,23627,Male,1,0
@@ -69891,7 +69891,7 @@ cv,smotenc,1,23629,Male,0,0
 cv,smotenc,1,23633,Male,0,0
 cv,smotenc,1,23639,Female,0,1
 cv,smotenc,1,23646,Male,0,0
-cv,smotenc,1,23647,Female,0,0
+cv,smotenc,1,23647,Female,0,1
 cv,smotenc,1,23657,Female,0,0
 cv,smotenc,1,23664,Male,1,1
 cv,smotenc,1,23669,Male,0,0
@@ -69941,7 +69941,7 @@ cv,smotenc,1,23852,Male,1,1
 cv,smotenc,1,23854,Male,1,1
 cv,smotenc,1,23862,Male,0,0
 cv,smotenc,1,23863,Male,0,0
-cv,smotenc,1,23864,Female,0,0
+cv,smotenc,1,23864,Female,0,1
 cv,smotenc,1,23866,Female,0,0
 cv,smotenc,1,23870,Male,0,0
 cv,smotenc,1,23886,Male,0,0
@@ -70042,7 +70042,7 @@ cv,smotenc,1,24304,Male,0,0
 cv,smotenc,1,24305,Male,0,0
 cv,smotenc,1,24307,Female,0,0
 cv,smotenc,1,24331,Male,0,0
-cv,smotenc,1,24333,Male,0,0
+cv,smotenc,1,24333,Male,0,1
 cv,smotenc,1,24336,Male,0,0
 cv,smotenc,1,24338,Male,0,1
 cv,smotenc,1,24339,Male,1,1
@@ -70084,7 +70084,7 @@ cv,smotenc,1,24561,Male,0,1
 cv,smotenc,1,24562,Female,0,0
 cv,smotenc,1,24563,Female,0,0
 cv,smotenc,1,24572,Male,0,0
-cv,smotenc,1,24573,Male,0,1
+cv,smotenc,1,24573,Male,0,0
 cv,smotenc,1,24579,Female,0,0
 cv,smotenc,1,24580,Male,0,0
 cv,smotenc,1,24582,Male,0,0
@@ -70103,7 +70103,7 @@ cv,smotenc,1,24620,Male,0,1
 cv,smotenc,1,24623,Female,0,0
 cv,smotenc,1,24628,Male,0,0
 cv,smotenc,1,24636,Female,0,0
-cv,smotenc,1,24649,Female,0,1
+cv,smotenc,1,24649,Female,0,0
 cv,smotenc,1,24650,Male,0,0
 cv,smotenc,1,24652,Male,0,0
 cv,smotenc,1,24655,Male,0,0
@@ -70149,7 +70149,7 @@ cv,smotenc,1,24851,Male,0,0
 cv,smotenc,1,24865,Male,0,0
 cv,smotenc,1,24875,Female,0,0
 cv,smotenc,1,24876,Female,0,0
-cv,smotenc,1,24882,Female,0,0
+cv,smotenc,1,24882,Female,0,1
 cv,smotenc,1,24892,Male,0,0
 cv,smotenc,1,24897,Male,0,1
 cv,smotenc,1,24899,Female,0,0
@@ -70188,11 +70188,11 @@ cv,smotenc,1,25076,Male,0,0
 cv,smotenc,1,25083,Male,0,0
 cv,smotenc,1,25092,Female,0,0
 cv,smotenc,1,25094,Male,0,0
-cv,smotenc,1,25109,Female,0,0
+cv,smotenc,1,25109,Female,0,1
 cv,smotenc,1,25116,Male,0,0
 cv,smotenc,1,25117,Male,0,0
 cv,smotenc,1,25120,Male,1,1
-cv,smotenc,1,25121,Female,1,1
+cv,smotenc,1,25121,Female,1,0
 cv,smotenc,1,25122,Male,0,1
 cv,smotenc,1,25128,Female,0,0
 cv,smotenc,1,25133,Female,0,0
@@ -70211,7 +70211,7 @@ cv,smotenc,1,25198,Female,0,0
 cv,smotenc,1,25199,Male,0,0
 cv,smotenc,1,25203,Female,0,0
 cv,smotenc,1,25207,Female,0,0
-cv,smotenc,1,25213,Female,0,1
+cv,smotenc,1,25213,Female,0,0
 cv,smotenc,1,25214,Female,0,0
 cv,smotenc,1,25219,Male,0,0
 cv,smotenc,1,25226,Female,1,0
@@ -70248,7 +70248,7 @@ cv,smotenc,1,25359,Female,1,0
 cv,smotenc,1,25363,Male,0,0
 cv,smotenc,1,25366,Male,0,0
 cv,smotenc,1,25369,Male,1,1
-cv,smotenc,1,25379,Male,0,1
+cv,smotenc,1,25379,Male,0,0
 cv,smotenc,1,25392,Female,0,1
 cv,smotenc,1,25393,Female,0,0
 cv,smotenc,1,25394,Male,1,1
@@ -70281,9 +70281,9 @@ cv,smotenc,1,25541,Female,0,0
 cv,smotenc,1,25545,Male,0,0
 cv,smotenc,1,25546,Female,0,0
 cv,smotenc,1,25552,Female,0,0
-cv,smotenc,1,25555,Male,0,0
+cv,smotenc,1,25555,Male,0,1
 cv,smotenc,1,25561,Male,0,0
-cv,smotenc,1,25562,Female,0,0
+cv,smotenc,1,25562,Female,0,1
 cv,smotenc,1,25564,Female,0,0
 cv,smotenc,1,25565,Female,0,0
 cv,smotenc,1,25567,Female,0,0
@@ -70306,7 +70306,7 @@ cv,smotenc,1,25622,Male,1,1
 cv,smotenc,1,25638,Male,0,0
 cv,smotenc,1,25647,Male,0,0
 cv,smotenc,1,25648,Male,0,0
-cv,smotenc,1,25649,Female,0,1
+cv,smotenc,1,25649,Female,0,0
 cv,smotenc,1,25652,Male,0,0
 cv,smotenc,1,25664,Male,0,0
 cv,smotenc,1,25666,Male,0,1
@@ -70339,7 +70339,7 @@ cv,smotenc,1,25816,Male,0,0
 cv,smotenc,1,25823,Male,0,0
 cv,smotenc,1,25826,Female,0,0
 cv,smotenc,1,25827,Female,0,1
-cv,smotenc,1,25842,Female,0,1
+cv,smotenc,1,25842,Female,0,0
 cv,smotenc,1,25848,Female,0,0
 cv,smotenc,1,25853,Female,0,0
 cv,smotenc,1,25854,Male,0,0
@@ -70357,7 +70357,7 @@ cv,smotenc,1,25920,Male,0,0
 cv,smotenc,1,25924,Male,0,0
 cv,smotenc,1,25933,Male,1,1
 cv,smotenc,1,25945,Female,0,0
-cv,smotenc,1,25950,Female,0,0
+cv,smotenc,1,25950,Female,0,1
 cv,smotenc,1,25957,Female,0,0
 cv,smotenc,1,25964,Female,0,0
 cv,smotenc,1,25970,Male,0,0
@@ -70450,7 +70450,7 @@ cv,smotenc,1,26472,Male,0,0
 cv,smotenc,1,26473,Male,0,1
 cv,smotenc,1,26477,Male,1,1
 cv,smotenc,1,26482,Female,0,0
-cv,smotenc,1,26484,Female,0,1
+cv,smotenc,1,26484,Female,0,0
 cv,smotenc,1,26489,Female,0,0
 cv,smotenc,1,26492,Female,1,0
 cv,smotenc,1,26497,Male,0,1
@@ -70481,7 +70481,7 @@ cv,smotenc,1,26658,Male,0,0
 cv,smotenc,1,26665,Male,0,0
 cv,smotenc,1,26677,Male,1,0
 cv,smotenc,1,26680,Female,0,0
-cv,smotenc,1,26684,Male,0,1
+cv,smotenc,1,26684,Male,0,0
 cv,smotenc,1,26685,Female,0,0
 cv,smotenc,1,26693,Male,0,1
 cv,smotenc,1,26703,Male,0,0
@@ -70597,7 +70597,7 @@ cv,smotenc,1,27304,Male,0,0
 cv,smotenc,1,27313,Female,0,0
 cv,smotenc,1,27324,Male,1,0
 cv,smotenc,1,27325,Female,0,0
-cv,smotenc,1,27330,Male,0,1
+cv,smotenc,1,27330,Male,0,0
 cv,smotenc,1,27333,Male,0,0
 cv,smotenc,1,27338,Female,0,1
 cv,smotenc,1,27358,Male,1,1
@@ -70666,7 +70666,7 @@ cv,smotenc,1,27627,Male,0,0
 cv,smotenc,1,27630,Male,0,0
 cv,smotenc,1,27641,Male,1,1
 cv,smotenc,1,27645,Male,1,1
-cv,smotenc,1,27647,Male,0,1
+cv,smotenc,1,27647,Male,0,0
 cv,smotenc,1,27652,Male,0,1
 cv,smotenc,1,27653,Female,0,0
 cv,smotenc,1,27654,Male,0,0
@@ -70804,7 +70804,7 @@ cv,smotenc,1,28259,Male,0,1
 cv,smotenc,1,28262,Male,0,0
 cv,smotenc,1,28263,Male,0,0
 cv,smotenc,1,28270,Male,1,1
-cv,smotenc,1,28273,Female,0,1
+cv,smotenc,1,28273,Female,0,0
 cv,smotenc,1,28276,Female,0,0
 cv,smotenc,1,28277,Male,0,0
 cv,smotenc,1,28280,Female,0,0
@@ -71039,7 +71039,7 @@ cv,smotenc,1,29471,Male,1,1
 cv,smotenc,1,29472,Male,0,0
 cv,smotenc,1,29473,Female,0,0
 cv,smotenc,1,29478,Female,0,0
-cv,smotenc,1,29490,Female,0,0
+cv,smotenc,1,29490,Female,0,1
 cv,smotenc,1,29493,Male,0,0
 cv,smotenc,1,29495,Female,0,0
 cv,smotenc,1,29501,Male,1,1
@@ -71064,7 +71064,7 @@ cv,smotenc,1,29582,Male,0,0
 cv,smotenc,1,29586,Female,0,1
 cv,smotenc,1,29587,Male,1,1
 cv,smotenc,1,29589,Female,0,0
-cv,smotenc,1,29595,Female,0,0
+cv,smotenc,1,29595,Female,0,1
 cv,smotenc,1,29608,Female,1,1
 cv,smotenc,1,29612,Male,0,0
 cv,smotenc,1,29613,Female,0,0
@@ -71185,7 +71185,7 @@ cv,smotenc,1,30179,Male,0,0
 cv,smotenc,1,30185,Male,0,0
 cv,smotenc,1,30196,Female,0,0
 cv,smotenc,1,30211,Male,0,1
-cv,smotenc,1,30213,Female,0,0
+cv,smotenc,1,30213,Female,0,1
 cv,smotenc,1,30216,Male,1,1
 cv,smotenc,1,30218,Female,0,0
 cv,smotenc,1,30222,Male,0,1
@@ -71255,7 +71255,7 @@ cv,smotenc,1,30555,Male,0,0
 cv,smotenc,1,30563,Male,0,0
 cv,smotenc,1,30571,Male,1,1
 cv,smotenc,1,30582,Male,0,1
-cv,smotenc,1,30604,Female,0,0
+cv,smotenc,1,30604,Female,0,1
 cv,smotenc,1,30606,Male,1,0
 cv,smotenc,1,30610,Male,1,1
 cv,smotenc,1,30613,Female,0,0
@@ -71296,14 +71296,14 @@ cv,smotenc,1,30794,Male,0,0
 cv,smotenc,1,30795,Male,0,1
 cv,smotenc,1,30798,Female,0,0
 cv,smotenc,1,30799,Male,1,1
-cv,smotenc,1,30817,Female,0,1
+cv,smotenc,1,30817,Female,0,0
 cv,smotenc,1,30843,Female,1,1
 cv,smotenc,1,30844,Female,0,0
 cv,smotenc,1,30846,Male,0,1
 cv,smotenc,1,30847,Male,0,0
 cv,smotenc,1,30849,Male,0,1
 cv,smotenc,1,30863,Female,0,0
-cv,smotenc,1,30868,Female,0,1
+cv,smotenc,1,30868,Female,0,0
 cv,smotenc,1,30875,Male,0,0
 cv,smotenc,1,30876,Male,0,0
 cv,smotenc,1,30879,Male,0,0
@@ -71350,7 +71350,7 @@ cv,smotenc,1,31087,Female,0,0
 cv,smotenc,1,31093,Male,1,1
 cv,smotenc,1,31098,Male,0,0
 cv,smotenc,1,31110,Female,1,1
-cv,smotenc,1,31112,Male,0,0
+cv,smotenc,1,31112,Male,0,1
 cv,smotenc,1,31119,Male,0,0
 cv,smotenc,1,31136,Female,1,1
 cv,smotenc,1,31138,Female,0,0
@@ -71366,7 +71366,7 @@ cv,smotenc,1,31220,Male,0,0
 cv,smotenc,1,31223,Male,0,0
 cv,smotenc,1,31224,Female,0,1
 cv,smotenc,1,31225,Male,0,0
-cv,smotenc,1,31230,Male,0,1
+cv,smotenc,1,31230,Male,0,0
 cv,smotenc,1,31234,Male,0,0
 cv,smotenc,1,31235,Female,1,1
 cv,smotenc,1,31236,Male,0,0
@@ -71380,7 +71380,7 @@ cv,smotenc,1,31292,Male,0,0
 cv,smotenc,1,31302,Male,1,1
 cv,smotenc,1,31303,Male,0,0
 cv,smotenc,1,31314,Female,0,0
-cv,smotenc,1,31316,Male,0,0
+cv,smotenc,1,31316,Male,0,1
 cv,smotenc,1,31320,Female,0,0
 cv,smotenc,1,31324,Female,0,1
 cv,smotenc,1,31329,Female,0,0
@@ -71422,7 +71422,7 @@ cv,smotenc,1,31507,Male,1,1
 cv,smotenc,1,31509,Male,0,0
 cv,smotenc,1,31513,Male,1,1
 cv,smotenc,1,31517,Male,0,0
-cv,smotenc,1,31521,Female,0,0
+cv,smotenc,1,31521,Female,0,1
 cv,smotenc,1,31523,Male,1,1
 cv,smotenc,1,31526,Male,0,0
 cv,smotenc,1,31528,Male,0,1
@@ -71465,7 +71465,7 @@ cv,smotenc,1,31704,Male,0,1
 cv,smotenc,1,31706,Male,0,0
 cv,smotenc,1,31712,Female,0,0
 cv,smotenc,1,31716,Male,0,0
-cv,smotenc,1,31723,Female,0,0
+cv,smotenc,1,31723,Female,0,1
 cv,smotenc,1,31724,Female,0,0
 cv,smotenc,1,31729,Male,1,1
 cv,smotenc,1,31733,Male,1,1
@@ -71596,7 +71596,7 @@ cv,smotenc,1,32368,Male,0,0
 cv,smotenc,1,32371,Male,1,1
 cv,smotenc,1,32373,Female,0,0
 cv,smotenc,1,32375,Male,1,1
-cv,smotenc,1,32380,Female,0,0
+cv,smotenc,1,32380,Female,0,1
 cv,smotenc,1,32381,Male,0,0
 cv,smotenc,1,32387,Female,0,0
 cv,smotenc,1,32392,Male,0,0
@@ -71761,7 +71761,7 @@ cv,smotenc,2,643,Male,1,1
 cv,smotenc,2,649,Male,1,1
 cv,smotenc,2,661,Male,0,1
 cv,smotenc,2,663,Male,0,0
-cv,smotenc,2,670,Male,0,0
+cv,smotenc,2,670,Male,0,1
 cv,smotenc,2,679,Male,0,0
 cv,smotenc,2,691,Female,0,0
 cv,smotenc,2,693,Male,0,0
@@ -72041,7 +72041,7 @@ cv,smotenc,2,1916,Male,0,1
 cv,smotenc,2,1917,Male,0,1
 cv,smotenc,2,1918,Male,0,0
 cv,smotenc,2,1921,Male,1,1
-cv,smotenc,2,1922,Male,1,0
+cv,smotenc,2,1922,Male,1,1
 cv,smotenc,2,1923,Female,0,0
 cv,smotenc,2,1931,Female,0,0
 cv,smotenc,2,1947,Female,0,0
@@ -72070,11 +72070,11 @@ cv,smotenc,2,2028,Male,0,1
 cv,smotenc,2,2031,Female,1,1
 cv,smotenc,2,2038,Male,0,1
 cv,smotenc,2,2040,Male,0,0
-cv,smotenc,2,2042,Male,0,0
+cv,smotenc,2,2042,Male,0,1
 cv,smotenc,2,2051,Male,1,1
 cv,smotenc,2,2054,Female,0,0
 cv,smotenc,2,2066,Male,1,1
-cv,smotenc,2,2069,Male,0,0
+cv,smotenc,2,2069,Male,0,1
 cv,smotenc,2,2072,Male,0,1
 cv,smotenc,2,2076,Female,0,0
 cv,smotenc,2,2079,Male,0,1
@@ -72141,7 +72141,7 @@ cv,smotenc,2,2466,Female,0,0
 cv,smotenc,2,2467,Female,0,0
 cv,smotenc,2,2469,Female,1,0
 cv,smotenc,2,2482,Male,0,0
-cv,smotenc,2,2483,Male,0,1
+cv,smotenc,2,2483,Male,0,0
 cv,smotenc,2,2484,Male,1,1
 cv,smotenc,2,2485,Male,0,0
 cv,smotenc,2,2486,Male,0,0
@@ -72186,7 +72186,7 @@ cv,smotenc,2,2674,Male,0,0
 cv,smotenc,2,2675,Male,0,1
 cv,smotenc,2,2678,Female,0,0
 cv,smotenc,2,2680,Male,0,0
-cv,smotenc,2,2684,Male,0,1
+cv,smotenc,2,2684,Male,0,0
 cv,smotenc,2,2695,Male,1,1
 cv,smotenc,2,2699,Female,0,0
 cv,smotenc,2,2700,Male,0,0
@@ -72368,7 +72368,7 @@ cv,smotenc,2,3567,Male,0,1
 cv,smotenc,2,3572,Female,0,0
 cv,smotenc,2,3583,Male,1,1
 cv,smotenc,2,3593,Female,0,1
-cv,smotenc,2,3602,Male,1,1
+cv,smotenc,2,3602,Male,1,0
 cv,smotenc,2,3609,Female,0,0
 cv,smotenc,2,3615,Female,0,0
 cv,smotenc,2,3616,Male,0,0
@@ -72412,7 +72412,7 @@ cv,smotenc,2,3816,Male,0,1
 cv,smotenc,2,3830,Male,0,0
 cv,smotenc,2,3844,Male,0,0
 cv,smotenc,2,3857,Female,0,0
-cv,smotenc,2,3859,Female,0,0
+cv,smotenc,2,3859,Female,0,1
 cv,smotenc,2,3868,Male,0,0
 cv,smotenc,2,3870,Male,0,0
 cv,smotenc,2,3874,Male,0,0
@@ -72496,7 +72496,7 @@ cv,smotenc,2,4255,Male,1,1
 cv,smotenc,2,4259,Male,0,0
 cv,smotenc,2,4261,Male,0,0
 cv,smotenc,2,4284,Female,0,0
-cv,smotenc,2,4292,Female,0,0
+cv,smotenc,2,4292,Female,0,1
 cv,smotenc,2,4298,Female,0,0
 cv,smotenc,2,4299,Female,0,0
 cv,smotenc,2,4303,Male,0,0
@@ -72523,7 +72523,7 @@ cv,smotenc,2,4417,Male,1,1
 cv,smotenc,2,4418,Female,0,0
 cv,smotenc,2,4421,Male,1,1
 cv,smotenc,2,4424,Female,0,0
-cv,smotenc,2,4432,Male,0,1
+cv,smotenc,2,4432,Male,0,0
 cv,smotenc,2,4440,Male,1,1
 cv,smotenc,2,4445,Male,1,1
 cv,smotenc,2,4449,Male,0,0
@@ -72596,7 +72596,7 @@ cv,smotenc,2,4730,Female,0,0
 cv,smotenc,2,4739,Female,0,0
 cv,smotenc,2,4744,Male,0,0
 cv,smotenc,2,4752,Male,0,0
-cv,smotenc,2,4755,Male,0,1
+cv,smotenc,2,4755,Male,0,0
 cv,smotenc,2,4757,Male,0,1
 cv,smotenc,2,4762,Female,0,0
 cv,smotenc,2,4765,Male,1,1
@@ -72740,7 +72740,7 @@ cv,smotenc,2,5438,Male,0,1
 cv,smotenc,2,5443,Male,0,1
 cv,smotenc,2,5451,Female,0,0
 cv,smotenc,2,5452,Female,0,0
-cv,smotenc,2,5464,Female,0,0
+cv,smotenc,2,5464,Female,0,1
 cv,smotenc,2,5466,Male,0,0
 cv,smotenc,2,5473,Male,1,1
 cv,smotenc,2,5485,Male,0,0
@@ -72790,7 +72790,7 @@ cv,smotenc,2,5727,Male,1,1
 cv,smotenc,2,5730,Male,0,0
 cv,smotenc,2,5738,Male,0,0
 cv,smotenc,2,5744,Male,0,1
-cv,smotenc,2,5750,Female,1,0
+cv,smotenc,2,5750,Female,1,1
 cv,smotenc,2,5756,Male,1,1
 cv,smotenc,2,5758,Female,0,0
 cv,smotenc,2,5761,Male,0,1
@@ -72896,7 +72896,7 @@ cv,smotenc,2,6241,Female,0,0
 cv,smotenc,2,6257,Male,0,0
 cv,smotenc,2,6263,Male,0,1
 cv,smotenc,2,6273,Female,0,0
-cv,smotenc,2,6279,Male,0,1
+cv,smotenc,2,6279,Male,0,0
 cv,smotenc,2,6280,Male,0,0
 cv,smotenc,2,6285,Male,0,0
 cv,smotenc,2,6286,Female,0,0
@@ -72917,7 +72917,7 @@ cv,smotenc,2,6356,Male,0,0
 cv,smotenc,2,6357,Male,0,0
 cv,smotenc,2,6362,Male,0,1
 cv,smotenc,2,6368,Male,0,0
-cv,smotenc,2,6372,Male,0,0
+cv,smotenc,2,6372,Male,0,1
 cv,smotenc,2,6373,Male,1,1
 cv,smotenc,2,6381,Male,0,1
 cv,smotenc,2,6383,Male,1,1
@@ -72973,7 +72973,7 @@ cv,smotenc,2,6615,Female,0,1
 cv,smotenc,2,6620,Male,0,0
 cv,smotenc,2,6622,Male,0,1
 cv,smotenc,2,6624,Male,0,0
-cv,smotenc,2,6625,Male,1,1
+cv,smotenc,2,6625,Male,1,0
 cv,smotenc,2,6632,Female,0,0
 cv,smotenc,2,6637,Female,1,1
 cv,smotenc,2,6650,Female,0,0
@@ -72997,12 +72997,12 @@ cv,smotenc,2,6739,Male,0,1
 cv,smotenc,2,6741,Male,0,0
 cv,smotenc,2,6746,Male,1,1
 cv,smotenc,2,6747,Male,0,0
-cv,smotenc,2,6748,Male,0,0
+cv,smotenc,2,6748,Male,0,1
 cv,smotenc,2,6754,Male,0,0
 cv,smotenc,2,6755,Male,0,0
 cv,smotenc,2,6759,Male,0,0
 cv,smotenc,2,6764,Male,1,1
-cv,smotenc,2,6766,Male,0,0
+cv,smotenc,2,6766,Male,0,1
 cv,smotenc,2,6771,Male,0,0
 cv,smotenc,2,6777,Female,0,0
 cv,smotenc,2,6785,Male,1,1
@@ -73015,7 +73015,7 @@ cv,smotenc,2,6826,Male,0,0
 cv,smotenc,2,6827,Female,0,0
 cv,smotenc,2,6829,Male,0,0
 cv,smotenc,2,6830,Male,0,1
-cv,smotenc,2,6834,Male,1,0
+cv,smotenc,2,6834,Male,1,1
 cv,smotenc,2,6839,Female,0,1
 cv,smotenc,2,6840,Male,0,0
 cv,smotenc,2,6846,Female,0,1
@@ -73123,7 +73123,7 @@ cv,smotenc,2,7380,Male,1,1
 cv,smotenc,2,7381,Female,0,0
 cv,smotenc,2,7401,Female,0,1
 cv,smotenc,2,7402,Male,0,1
-cv,smotenc,2,7408,Female,0,0
+cv,smotenc,2,7408,Female,0,1
 cv,smotenc,2,7416,Male,1,1
 cv,smotenc,2,7424,Male,0,0
 cv,smotenc,2,7429,Male,0,0
@@ -73148,7 +73148,7 @@ cv,smotenc,2,7518,Male,0,0
 cv,smotenc,2,7524,Female,0,0
 cv,smotenc,2,7533,Male,0,0
 cv,smotenc,2,7541,Male,0,1
-cv,smotenc,2,7546,Female,0,0
+cv,smotenc,2,7546,Female,0,1
 cv,smotenc,2,7547,Female,0,0
 cv,smotenc,2,7549,Male,0,0
 cv,smotenc,2,7555,Male,1,1
@@ -73170,7 +73170,7 @@ cv,smotenc,2,7644,Male,0,0
 cv,smotenc,2,7651,Male,0,1
 cv,smotenc,2,7654,Male,0,1
 cv,smotenc,2,7659,Male,0,1
-cv,smotenc,2,7687,Male,0,1
+cv,smotenc,2,7687,Male,0,0
 cv,smotenc,2,7700,Male,0,1
 cv,smotenc,2,7711,Female,0,0
 cv,smotenc,2,7713,Female,0,0
@@ -73225,7 +73225,7 @@ cv,smotenc,2,7996,Male,0,1
 cv,smotenc,2,8003,Female,0,0
 cv,smotenc,2,8004,Male,0,0
 cv,smotenc,2,8008,Male,0,0
-cv,smotenc,2,8009,Male,0,1
+cv,smotenc,2,8009,Male,0,0
 cv,smotenc,2,8011,Female,0,0
 cv,smotenc,2,8014,Male,0,0
 cv,smotenc,2,8016,Female,0,0
@@ -73248,7 +73248,7 @@ cv,smotenc,2,8074,Male,1,1
 cv,smotenc,2,8075,Male,0,0
 cv,smotenc,2,8089,Female,0,1
 cv,smotenc,2,8091,Male,1,1
-cv,smotenc,2,8092,Female,0,0
+cv,smotenc,2,8092,Female,0,1
 cv,smotenc,2,8098,Female,0,0
 cv,smotenc,2,8101,Female,0,0
 cv,smotenc,2,8122,Male,0,0
@@ -73521,13 +73521,13 @@ cv,smotenc,2,9401,Female,0,0
 cv,smotenc,2,9415,Male,0,0
 cv,smotenc,2,9429,Male,0,1
 cv,smotenc,2,9441,Female,0,0
-cv,smotenc,2,9454,Male,1,1
+cv,smotenc,2,9454,Male,1,0
 cv,smotenc,2,9457,Female,0,0
 cv,smotenc,2,9461,Male,0,0
 cv,smotenc,2,9467,Male,0,0
 cv,smotenc,2,9472,Male,0,0
 cv,smotenc,2,9473,Female,0,0
-cv,smotenc,2,9475,Female,0,0
+cv,smotenc,2,9475,Female,0,1
 cv,smotenc,2,9477,Female,0,0
 cv,smotenc,2,9478,Male,0,0
 cv,smotenc,2,9487,Male,0,1
@@ -73554,10 +73554,10 @@ cv,smotenc,2,9588,Female,1,0
 cv,smotenc,2,9590,Female,0,0
 cv,smotenc,2,9593,Female,0,0
 cv,smotenc,2,9596,Male,0,0
-cv,smotenc,2,9606,Male,0,1
+cv,smotenc,2,9606,Male,0,0
 cv,smotenc,2,9607,Female,0,0
 cv,smotenc,2,9609,Female,0,0
-cv,smotenc,2,9617,Male,0,1
+cv,smotenc,2,9617,Male,0,0
 cv,smotenc,2,9621,Female,0,0
 cv,smotenc,2,9623,Female,0,0
 cv,smotenc,2,9632,Male,1,1
@@ -73570,7 +73570,7 @@ cv,smotenc,2,9657,Male,0,0
 cv,smotenc,2,9662,Male,0,0
 cv,smotenc,2,9668,Male,0,0
 cv,smotenc,2,9669,Male,0,1
-cv,smotenc,2,9676,Male,1,1
+cv,smotenc,2,9676,Male,1,0
 cv,smotenc,2,9680,Male,0,0
 cv,smotenc,2,9682,Male,0,0
 cv,smotenc,2,9684,Female,0,1
@@ -73581,7 +73581,7 @@ cv,smotenc,2,9697,Male,0,0
 cv,smotenc,2,9715,Female,1,1
 cv,smotenc,2,9720,Female,0,1
 cv,smotenc,2,9721,Female,0,0
-cv,smotenc,2,9722,Male,0,0
+cv,smotenc,2,9722,Male,0,1
 cv,smotenc,2,9724,Male,0,0
 cv,smotenc,2,9726,Male,0,0
 cv,smotenc,2,9727,Male,0,0
@@ -73651,7 +73651,7 @@ cv,smotenc,2,10066,Female,0,0
 cv,smotenc,2,10072,Female,0,0
 cv,smotenc,2,10073,Male,0,0
 cv,smotenc,2,10083,Male,0,0
-cv,smotenc,2,10084,Female,0,1
+cv,smotenc,2,10084,Female,0,0
 cv,smotenc,2,10087,Female,0,0
 cv,smotenc,2,10093,Male,0,1
 cv,smotenc,2,10094,Male,0,0
@@ -73682,7 +73682,7 @@ cv,smotenc,2,10198,Male,1,1
 cv,smotenc,2,10207,Male,0,0
 cv,smotenc,2,10213,Female,0,0
 cv,smotenc,2,10215,Male,0,0
-cv,smotenc,2,10217,Male,0,0
+cv,smotenc,2,10217,Male,0,1
 cv,smotenc,2,10220,Male,0,0
 cv,smotenc,2,10228,Female,0,1
 cv,smotenc,2,10233,Male,0,0
@@ -73694,7 +73694,7 @@ cv,smotenc,2,10265,Male,0,0
 cv,smotenc,2,10270,Male,0,0
 cv,smotenc,2,10275,Female,0,0
 cv,smotenc,2,10283,Male,0,0
-cv,smotenc,2,10284,Male,1,0
+cv,smotenc,2,10284,Male,1,1
 cv,smotenc,2,10289,Female,0,0
 cv,smotenc,2,10291,Male,1,0
 cv,smotenc,2,10298,Male,0,1
@@ -73709,7 +73709,7 @@ cv,smotenc,2,10332,Male,0,0
 cv,smotenc,2,10333,Female,0,0
 cv,smotenc,2,10334,Male,0,0
 cv,smotenc,2,10339,Male,1,1
-cv,smotenc,2,10352,Male,0,0
+cv,smotenc,2,10352,Male,0,1
 cv,smotenc,2,10361,Female,0,0
 cv,smotenc,2,10367,Male,1,1
 cv,smotenc,2,10369,Male,0,1
@@ -73725,7 +73725,7 @@ cv,smotenc,2,10409,Male,1,1
 cv,smotenc,2,10411,Male,0,0
 cv,smotenc,2,10412,Female,0,0
 cv,smotenc,2,10419,Female,0,0
-cv,smotenc,2,10424,Male,1,1
+cv,smotenc,2,10424,Male,1,0
 cv,smotenc,2,10431,Male,1,1
 cv,smotenc,2,10441,Male,0,0
 cv,smotenc,2,10443,Female,0,0
@@ -73837,7 +73837,7 @@ cv,smotenc,2,10946,Female,0,0
 cv,smotenc,2,10952,Male,0,1
 cv,smotenc,2,10958,Male,1,1
 cv,smotenc,2,10963,Male,0,1
-cv,smotenc,2,10966,Male,0,1
+cv,smotenc,2,10966,Male,0,0
 cv,smotenc,2,10970,Female,0,0
 cv,smotenc,2,10971,Male,0,0
 cv,smotenc,2,10974,Male,0,0
@@ -73932,11 +73932,11 @@ cv,smotenc,2,11325,Male,1,1
 cv,smotenc,2,11334,Male,1,1
 cv,smotenc,2,11350,Male,0,0
 cv,smotenc,2,11354,Female,0,0
-cv,smotenc,2,11370,Female,0,0
+cv,smotenc,2,11370,Female,0,1
 cv,smotenc,2,11373,Male,1,1
 cv,smotenc,2,11377,Male,0,1
 cv,smotenc,2,11378,Male,0,0
-cv,smotenc,2,11382,Male,0,0
+cv,smotenc,2,11382,Male,0,1
 cv,smotenc,2,11402,Female,0,0
 cv,smotenc,2,11404,Male,1,1
 cv,smotenc,2,11413,Female,0,0
@@ -73965,8 +73965,8 @@ cv,smotenc,2,11506,Male,0,1
 cv,smotenc,2,11512,Female,0,0
 cv,smotenc,2,11516,Male,0,0
 cv,smotenc,2,11520,Male,0,0
-cv,smotenc,2,11532,Male,0,1
-cv,smotenc,2,11540,Female,0,0
+cv,smotenc,2,11532,Male,0,0
+cv,smotenc,2,11540,Female,0,1
 cv,smotenc,2,11542,Female,0,0
 cv,smotenc,2,11543,Male,0,0
 cv,smotenc,2,11549,Male,0,0
@@ -74117,7 +74117,7 @@ cv,smotenc,2,12299,Male,1,1
 cv,smotenc,2,12317,Male,1,1
 cv,smotenc,2,12324,Male,1,1
 cv,smotenc,2,12325,Male,0,1
-cv,smotenc,2,12330,Male,0,1
+cv,smotenc,2,12330,Male,0,0
 cv,smotenc,2,12338,Male,1,1
 cv,smotenc,2,12343,Female,0,0
 cv,smotenc,2,12344,Male,0,0
@@ -74235,7 +74235,7 @@ cv,smotenc,2,12903,Male,1,1
 cv,smotenc,2,12907,Female,0,0
 cv,smotenc,2,12913,Female,0,0
 cv,smotenc,2,12914,Male,0,1
-cv,smotenc,2,12918,Male,1,0
+cv,smotenc,2,12918,Male,1,1
 cv,smotenc,2,12919,Male,0,0
 cv,smotenc,2,12920,Male,1,1
 cv,smotenc,2,12925,Male,0,0
@@ -74473,7 +74473,7 @@ cv,smotenc,2,14218,Male,0,1
 cv,smotenc,2,14223,Female,0,0
 cv,smotenc,2,14226,Female,1,1
 cv,smotenc,2,14229,Male,1,1
-cv,smotenc,2,14234,Female,1,0
+cv,smotenc,2,14234,Female,1,1
 cv,smotenc,2,14238,Male,1,1
 cv,smotenc,2,14243,Male,0,0
 cv,smotenc,2,14246,Male,0,0
@@ -74550,7 +74550,7 @@ cv,smotenc,2,14624,Male,1,1
 cv,smotenc,2,14647,Female,0,0
 cv,smotenc,2,14649,Female,0,0
 cv,smotenc,2,14662,Male,0,0
-cv,smotenc,2,14664,Female,0,1
+cv,smotenc,2,14664,Female,0,0
 cv,smotenc,2,14665,Male,1,1
 cv,smotenc,2,14669,Female,0,0
 cv,smotenc,2,14677,Male,0,0
@@ -74584,7 +74584,7 @@ cv,smotenc,2,14805,Female,0,0
 cv,smotenc,2,14806,Male,0,0
 cv,smotenc,2,14809,Female,0,0
 cv,smotenc,2,14811,Male,0,1
-cv,smotenc,2,14815,Male,1,1
+cv,smotenc,2,14815,Male,1,0
 cv,smotenc,2,14816,Female,1,0
 cv,smotenc,2,14822,Male,1,1
 cv,smotenc,2,14825,Male,0,0
@@ -74691,7 +74691,7 @@ cv,smotenc,2,15225,Male,1,1
 cv,smotenc,2,15229,Male,1,1
 cv,smotenc,2,15230,Male,1,1
 cv,smotenc,2,15231,Male,0,0
-cv,smotenc,2,15233,Male,0,0
+cv,smotenc,2,15233,Male,0,1
 cv,smotenc,2,15244,Male,1,1
 cv,smotenc,2,15248,Male,1,1
 cv,smotenc,2,15250,Male,1,1
@@ -74741,12 +74741,12 @@ cv,smotenc,2,15478,Female,0,1
 cv,smotenc,2,15480,Male,0,0
 cv,smotenc,2,15481,Female,1,1
 cv,smotenc,2,15483,Female,0,0
-cv,smotenc,2,15486,Female,0,0
+cv,smotenc,2,15486,Female,0,1
 cv,smotenc,2,15487,Male,1,1
 cv,smotenc,2,15505,Male,0,0
 cv,smotenc,2,15507,Male,1,1
 cv,smotenc,2,15522,Male,0,0
-cv,smotenc,2,15535,Male,0,0
+cv,smotenc,2,15535,Male,0,1
 cv,smotenc,2,15537,Male,0,0
 cv,smotenc,2,15542,Male,0,0
 cv,smotenc,2,15543,Male,1,1
@@ -74810,7 +74810,7 @@ cv,smotenc,2,15768,Female,1,0
 cv,smotenc,2,15769,Female,0,0
 cv,smotenc,2,15773,Female,0,0
 cv,smotenc,2,15776,Female,0,0
-cv,smotenc,2,15779,Male,0,0
+cv,smotenc,2,15779,Male,0,1
 cv,smotenc,2,15780,Male,0,1
 cv,smotenc,2,15784,Female,0,0
 cv,smotenc,2,15785,Male,1,1
@@ -74876,7 +74876,7 @@ cv,smotenc,2,16104,Male,0,0
 cv,smotenc,2,16110,Male,0,0
 cv,smotenc,2,16114,Male,0,0
 cv,smotenc,2,16115,Male,0,0
-cv,smotenc,2,16117,Male,1,0
+cv,smotenc,2,16117,Male,1,1
 cv,smotenc,2,16118,Male,0,0
 cv,smotenc,2,16120,Male,0,0
 cv,smotenc,2,16127,Male,0,1
@@ -74962,7 +74962,7 @@ cv,smotenc,2,16480,Male,0,0
 cv,smotenc,2,16481,Female,0,0
 cv,smotenc,2,16485,Male,0,1
 cv,smotenc,2,16491,Male,0,0
-cv,smotenc,2,16498,Female,0,1
+cv,smotenc,2,16498,Female,0,0
 cv,smotenc,2,16501,Female,0,0
 cv,smotenc,2,16504,Female,0,0
 cv,smotenc,2,16506,Female,0,0
@@ -75074,11 +75074,11 @@ cv,smotenc,2,17021,Male,0,0
 cv,smotenc,2,17022,Male,1,1
 cv,smotenc,2,17028,Female,1,1
 cv,smotenc,2,17036,Male,0,1
-cv,smotenc,2,17046,Female,0,0
+cv,smotenc,2,17046,Female,0,1
 cv,smotenc,2,17048,Female,0,1
 cv,smotenc,2,17049,Male,1,1
 cv,smotenc,2,17050,Male,0,1
-cv,smotenc,2,17054,Male,1,0
+cv,smotenc,2,17054,Male,1,1
 cv,smotenc,2,17056,Female,0,0
 cv,smotenc,2,17059,Male,0,1
 cv,smotenc,2,17065,Male,0,0
@@ -75093,7 +75093,7 @@ cv,smotenc,2,17109,Female,0,0
 cv,smotenc,2,17114,Female,0,0
 cv,smotenc,2,17118,Male,0,0
 cv,smotenc,2,17122,Female,1,1
-cv,smotenc,2,17123,Female,0,0
+cv,smotenc,2,17123,Female,0,1
 cv,smotenc,2,17127,Male,0,0
 cv,smotenc,2,17130,Male,1,1
 cv,smotenc,2,17131,Female,0,0
@@ -75192,7 +75192,7 @@ cv,smotenc,2,17570,Female,0,0
 cv,smotenc,2,17572,Female,0,0
 cv,smotenc,2,17577,Male,1,1
 cv,smotenc,2,17578,Female,1,1
-cv,smotenc,2,17581,Female,0,0
+cv,smotenc,2,17581,Female,0,1
 cv,smotenc,2,17590,Male,0,1
 cv,smotenc,2,17591,Male,1,1
 cv,smotenc,2,17600,Female,0,0
@@ -75312,7 +75312,7 @@ cv,smotenc,2,18236,Female,0,0
 cv,smotenc,2,18245,Male,0,0
 cv,smotenc,2,18256,Male,0,0
 cv,smotenc,2,18258,Male,1,1
-cv,smotenc,2,18260,Female,0,1
+cv,smotenc,2,18260,Female,0,0
 cv,smotenc,2,18261,Male,0,0
 cv,smotenc,2,18267,Female,0,1
 cv,smotenc,2,18268,Male,0,0
@@ -75463,7 +75463,7 @@ cv,smotenc,2,19004,Female,0,0
 cv,smotenc,2,19005,Female,1,0
 cv,smotenc,2,19009,Female,0,0
 cv,smotenc,2,19013,Male,0,1
-cv,smotenc,2,19031,Male,1,1
+cv,smotenc,2,19031,Male,1,0
 cv,smotenc,2,19032,Male,0,1
 cv,smotenc,2,19033,Male,0,0
 cv,smotenc,2,19035,Male,0,0
@@ -75635,7 +75635,7 @@ cv,smotenc,2,19766,Male,0,0
 cv,smotenc,2,19779,Female,0,0
 cv,smotenc,2,19785,Male,0,0
 cv,smotenc,2,19790,Male,0,1
-cv,smotenc,2,19791,Male,1,0
+cv,smotenc,2,19791,Male,1,1
 cv,smotenc,2,19810,Female,1,1
 cv,smotenc,2,19816,Male,0,0
 cv,smotenc,2,19822,Male,1,0
@@ -75760,7 +75760,7 @@ cv,smotenc,2,20428,Male,0,0
 cv,smotenc,2,20431,Male,0,0
 cv,smotenc,2,20450,Male,0,0
 cv,smotenc,2,20461,Female,0,0
-cv,smotenc,2,20462,Female,0,0
+cv,smotenc,2,20462,Female,0,1
 cv,smotenc,2,20471,Male,1,1
 cv,smotenc,2,20482,Female,0,0
 cv,smotenc,2,20486,Male,1,1
@@ -75866,8 +75866,8 @@ cv,smotenc,2,20988,Male,0,1
 cv,smotenc,2,20990,Female,0,0
 cv,smotenc,2,20994,Male,0,1
 cv,smotenc,2,20996,Male,1,1
-cv,smotenc,2,21004,Female,0,0
-cv,smotenc,2,21010,Male,0,0
+cv,smotenc,2,21004,Female,0,1
+cv,smotenc,2,21010,Male,0,1
 cv,smotenc,2,21012,Male,0,0
 cv,smotenc,2,21013,Male,1,1
 cv,smotenc,2,21018,Female,0,0
@@ -75898,7 +75898,7 @@ cv,smotenc,2,21149,Female,0,0
 cv,smotenc,2,21150,Male,1,1
 cv,smotenc,2,21152,Female,0,0
 cv,smotenc,2,21155,Male,0,0
-cv,smotenc,2,21159,Male,1,0
+cv,smotenc,2,21159,Male,1,1
 cv,smotenc,2,21162,Male,0,1
 cv,smotenc,2,21163,Male,1,1
 cv,smotenc,2,21171,Female,0,1
@@ -75944,7 +75944,7 @@ cv,smotenc,2,21339,Male,0,0
 cv,smotenc,2,21340,Male,0,0
 cv,smotenc,2,21348,Female,0,0
 cv,smotenc,2,21349,Female,0,0
-cv,smotenc,2,21358,Male,1,0
+cv,smotenc,2,21358,Male,1,1
 cv,smotenc,2,21359,Male,0,1
 cv,smotenc,2,21367,Male,0,1
 cv,smotenc,2,21379,Female,0,0
@@ -76010,7 +76010,7 @@ cv,smotenc,2,21619,Male,0,0
 cv,smotenc,2,21625,Male,0,0
 cv,smotenc,2,21639,Female,0,1
 cv,smotenc,2,21641,Male,1,1
-cv,smotenc,2,21654,Female,0,0
+cv,smotenc,2,21654,Female,0,1
 cv,smotenc,2,21658,Male,1,1
 cv,smotenc,2,21661,Female,0,0
 cv,smotenc,2,21663,Male,0,1
@@ -76054,7 +76054,7 @@ cv,smotenc,2,21816,Female,1,0
 cv,smotenc,2,21818,Female,0,0
 cv,smotenc,2,21826,Male,1,1
 cv,smotenc,2,21835,Male,0,1
-cv,smotenc,2,21839,Female,0,0
+cv,smotenc,2,21839,Female,0,1
 cv,smotenc,2,21840,Male,0,1
 cv,smotenc,2,21844,Female,0,0
 cv,smotenc,2,21845,Male,0,1
@@ -76113,7 +76113,7 @@ cv,smotenc,2,22097,Female,0,0
 cv,smotenc,2,22101,Female,0,1
 cv,smotenc,2,22102,Male,0,1
 cv,smotenc,2,22108,Female,0,0
-cv,smotenc,2,22111,Male,1,0
+cv,smotenc,2,22111,Male,1,1
 cv,smotenc,2,22119,Female,0,0
 cv,smotenc,2,22123,Male,1,1
 cv,smotenc,2,22134,Female,0,0
@@ -76145,7 +76145,7 @@ cv,smotenc,2,22321,Male,0,1
 cv,smotenc,2,22328,Female,1,1
 cv,smotenc,2,22336,Female,0,0
 cv,smotenc,2,22337,Male,1,1
-cv,smotenc,2,22340,Female,0,0
+cv,smotenc,2,22340,Female,0,1
 cv,smotenc,2,22345,Male,0,1
 cv,smotenc,2,22349,Male,0,0
 cv,smotenc,2,22351,Male,0,0
@@ -76329,7 +76329,7 @@ cv,smotenc,2,23117,Male,0,0
 cv,smotenc,2,23119,Male,0,1
 cv,smotenc,2,23130,Male,0,1
 cv,smotenc,2,23132,Male,0,0
-cv,smotenc,2,23134,Male,0,1
+cv,smotenc,2,23134,Male,0,0
 cv,smotenc,2,23139,Male,0,0
 cv,smotenc,2,23146,Female,0,0
 cv,smotenc,2,23147,Female,0,0
@@ -76354,7 +76354,7 @@ cv,smotenc,2,23224,Male,1,1
 cv,smotenc,2,23229,Male,0,1
 cv,smotenc,2,23242,Male,0,0
 cv,smotenc,2,23244,Male,1,1
-cv,smotenc,2,23248,Male,0,1
+cv,smotenc,2,23248,Male,0,0
 cv,smotenc,2,23252,Female,0,0
 cv,smotenc,2,23264,Male,0,0
 cv,smotenc,2,23266,Male,1,1
@@ -76385,7 +76385,7 @@ cv,smotenc,2,23405,Female,0,0
 cv,smotenc,2,23410,Male,0,0
 cv,smotenc,2,23422,Male,1,1
 cv,smotenc,2,23425,Male,0,1
-cv,smotenc,2,23426,Male,0,1
+cv,smotenc,2,23426,Male,0,0
 cv,smotenc,2,23429,Female,1,1
 cv,smotenc,2,23430,Male,0,1
 cv,smotenc,2,23432,Male,0,0
@@ -76424,14 +76424,14 @@ cv,smotenc,2,23575,Male,0,1
 cv,smotenc,2,23584,Female,0,0
 cv,smotenc,2,23590,Male,1,1
 cv,smotenc,2,23594,Female,0,0
-cv,smotenc,2,23597,Female,0,0
+cv,smotenc,2,23597,Female,0,1
 cv,smotenc,2,23600,Female,1,1
 cv,smotenc,2,23606,Female,0,0
 cv,smotenc,2,23617,Female,0,0
 cv,smotenc,2,23618,Male,1,1
 cv,smotenc,2,23620,Female,0,0
 cv,smotenc,2,23622,Male,0,0
-cv,smotenc,2,23623,Female,0,1
+cv,smotenc,2,23623,Female,0,0
 cv,smotenc,2,23624,Male,0,0
 cv,smotenc,2,23626,Male,0,0
 cv,smotenc,2,23630,Female,0,0
@@ -76517,7 +76517,7 @@ cv,smotenc,2,24029,Male,0,0
 cv,smotenc,2,24035,Male,0,1
 cv,smotenc,2,24036,Male,1,1
 cv,smotenc,2,24037,Male,1,1
-cv,smotenc,2,24043,Male,0,0
+cv,smotenc,2,24043,Male,0,1
 cv,smotenc,2,24065,Male,1,1
 cv,smotenc,2,24068,Male,0,0
 cv,smotenc,2,24075,Male,0,1
@@ -76650,7 +76650,7 @@ cv,smotenc,2,24667,Female,0,0
 cv,smotenc,2,24676,Female,1,1
 cv,smotenc,2,24682,Female,0,0
 cv,smotenc,2,24688,Female,0,0
-cv,smotenc,2,24690,Male,0,0
+cv,smotenc,2,24690,Male,0,1
 cv,smotenc,2,24691,Male,0,1
 cv,smotenc,2,24693,Male,0,0
 cv,smotenc,2,24707,Female,0,0
@@ -76823,7 +76823,7 @@ cv,smotenc,2,25658,Female,0,0
 cv,smotenc,2,25661,Male,1,0
 cv,smotenc,2,25663,Male,0,0
 cv,smotenc,2,25673,Male,1,1
-cv,smotenc,2,25676,Female,0,0
+cv,smotenc,2,25676,Female,0,1
 cv,smotenc,2,25678,Male,0,0
 cv,smotenc,2,25682,Male,0,0
 cv,smotenc,2,25695,Female,0,0
@@ -76852,7 +76852,7 @@ cv,smotenc,2,25805,Male,0,0
 cv,smotenc,2,25809,Male,1,1
 cv,smotenc,2,25835,Male,0,0
 cv,smotenc,2,25836,Male,0,1
-cv,smotenc,2,25837,Male,0,1
+cv,smotenc,2,25837,Male,0,0
 cv,smotenc,2,25839,Male,0,0
 cv,smotenc,2,25840,Male,1,1
 cv,smotenc,2,25847,Male,1,1
@@ -76901,13 +76901,13 @@ cv,smotenc,2,26105,Male,1,1
 cv,smotenc,2,26107,Male,0,0
 cv,smotenc,2,26109,Male,0,0
 cv,smotenc,2,26111,Male,0,0
-cv,smotenc,2,26114,Female,0,0
+cv,smotenc,2,26114,Female,0,1
 cv,smotenc,2,26116,Male,0,0
 cv,smotenc,2,26122,Male,1,1
 cv,smotenc,2,26132,Female,0,0
 cv,smotenc,2,26137,Female,0,0
 cv,smotenc,2,26138,Female,0,0
-cv,smotenc,2,26143,Male,0,1
+cv,smotenc,2,26143,Male,0,0
 cv,smotenc,2,26144,Male,0,1
 cv,smotenc,2,26145,Female,0,0
 cv,smotenc,2,26150,Male,1,1
@@ -76973,7 +76973,7 @@ cv,smotenc,2,26448,Male,0,0
 cv,smotenc,2,26449,Male,0,0
 cv,smotenc,2,26451,Male,0,1
 cv,smotenc,2,26454,Female,0,0
-cv,smotenc,2,26462,Male,0,1
+cv,smotenc,2,26462,Male,0,0
 cv,smotenc,2,26463,Male,0,1
 cv,smotenc,2,26471,Male,0,0
 cv,smotenc,2,26475,Female,0,0
@@ -76990,7 +76990,7 @@ cv,smotenc,2,26551,Female,1,1
 cv,smotenc,2,26552,Female,0,0
 cv,smotenc,2,26553,Male,0,0
 cv,smotenc,2,26554,Male,1,0
-cv,smotenc,2,26579,Female,0,1
+cv,smotenc,2,26579,Female,0,0
 cv,smotenc,2,26587,Female,0,0
 cv,smotenc,2,26590,Female,0,0
 cv,smotenc,2,26591,Female,1,1
@@ -77000,7 +77000,7 @@ cv,smotenc,2,26603,Male,1,1
 cv,smotenc,2,26615,Male,0,0
 cv,smotenc,2,26619,Female,0,0
 cv,smotenc,2,26623,Male,0,1
-cv,smotenc,2,26635,Male,0,1
+cv,smotenc,2,26635,Male,0,0
 cv,smotenc,2,26638,Male,0,1
 cv,smotenc,2,26649,Male,0,0
 cv,smotenc,2,26654,Male,1,1
@@ -77018,7 +77018,7 @@ cv,smotenc,2,26722,Male,0,1
 cv,smotenc,2,26732,Male,0,1
 cv,smotenc,2,26733,Male,0,0
 cv,smotenc,2,26736,Male,0,1
-cv,smotenc,2,26737,Female,0,0
+cv,smotenc,2,26737,Female,0,1
 cv,smotenc,2,26743,Female,0,0
 cv,smotenc,2,26744,Male,0,1
 cv,smotenc,2,26748,Male,1,1
@@ -77138,8 +77138,8 @@ cv,smotenc,2,27356,Male,0,1
 cv,smotenc,2,27364,Female,0,0
 cv,smotenc,2,27367,Female,0,0
 cv,smotenc,2,27370,Male,0,0
-cv,smotenc,2,27373,Male,0,1
-cv,smotenc,2,27379,Male,0,0
+cv,smotenc,2,27373,Male,0,0
+cv,smotenc,2,27379,Male,0,1
 cv,smotenc,2,27382,Female,0,0
 cv,smotenc,2,27389,Male,0,1
 cv,smotenc,2,27412,Male,0,0
@@ -77155,7 +77155,7 @@ cv,smotenc,2,27456,Male,1,1
 cv,smotenc,2,27465,Female,0,0
 cv,smotenc,2,27468,Male,0,0
 cv,smotenc,2,27469,Female,0,0
-cv,smotenc,2,27475,Male,0,0
+cv,smotenc,2,27475,Male,0,1
 cv,smotenc,2,27485,Male,0,0
 cv,smotenc,2,27492,Female,0,1
 cv,smotenc,2,27503,Female,0,0
@@ -77194,7 +77194,7 @@ cv,smotenc,2,27705,Male,0,0
 cv,smotenc,2,27708,Male,0,0
 cv,smotenc,2,27709,Male,1,1
 cv,smotenc,2,27716,Male,0,1
-cv,smotenc,2,27731,Female,0,0
+cv,smotenc,2,27731,Female,0,1
 cv,smotenc,2,27737,Male,0,0
 cv,smotenc,2,27740,Male,0,0
 cv,smotenc,2,27746,Female,0,0
@@ -77209,7 +77209,7 @@ cv,smotenc,2,27788,Male,0,0
 cv,smotenc,2,27790,Female,0,0
 cv,smotenc,2,27792,Female,0,0
 cv,smotenc,2,27796,Male,1,1
-cv,smotenc,2,27803,Male,0,0
+cv,smotenc,2,27803,Male,0,1
 cv,smotenc,2,27806,Female,0,0
 cv,smotenc,2,27812,Female,0,0
 cv,smotenc,2,27814,Male,0,0
@@ -77315,7 +77315,7 @@ cv,smotenc,2,28344,Female,0,1
 cv,smotenc,2,28351,Female,0,0
 cv,smotenc,2,28357,Male,0,0
 cv,smotenc,2,28359,Male,1,1
-cv,smotenc,2,28360,Male,0,0
+cv,smotenc,2,28360,Male,0,1
 cv,smotenc,2,28365,Male,0,0
 cv,smotenc,2,28382,Male,0,0
 cv,smotenc,2,28399,Female,0,0
@@ -77323,7 +77323,7 @@ cv,smotenc,2,28401,Female,0,1
 cv,smotenc,2,28402,Male,0,0
 cv,smotenc,2,28410,Male,0,0
 cv,smotenc,2,28412,Female,0,1
-cv,smotenc,2,28425,Male,0,0
+cv,smotenc,2,28425,Male,0,1
 cv,smotenc,2,28430,Female,0,0
 cv,smotenc,2,28432,Male,0,0
 cv,smotenc,2,28437,Female,0,0
@@ -77518,7 +77518,7 @@ cv,smotenc,2,29350,Female,0,0
 cv,smotenc,2,29358,Female,1,1
 cv,smotenc,2,29360,Female,0,0
 cv,smotenc,2,29368,Male,0,1
-cv,smotenc,2,29370,Male,0,1
+cv,smotenc,2,29370,Male,0,0
 cv,smotenc,2,29378,Male,0,0
 cv,smotenc,2,29379,Male,0,1
 cv,smotenc,2,29388,Male,0,0
@@ -77583,12 +77583,12 @@ cv,smotenc,2,29708,Male,1,1
 cv,smotenc,2,29711,Female,0,1
 cv,smotenc,2,29716,Male,0,1
 cv,smotenc,2,29719,Male,1,1
-cv,smotenc,2,29724,Male,1,1
+cv,smotenc,2,29724,Male,1,0
 cv,smotenc,2,29730,Female,0,0
 cv,smotenc,2,29739,Female,0,0
 cv,smotenc,2,29740,Male,0,1
 cv,smotenc,2,29749,Female,0,0
-cv,smotenc,2,29753,Male,0,1
+cv,smotenc,2,29753,Male,0,0
 cv,smotenc,2,29761,Female,0,0
 cv,smotenc,2,29770,Male,0,0
 cv,smotenc,2,29772,Male,1,1
@@ -77607,7 +77607,7 @@ cv,smotenc,2,29836,Female,0,1
 cv,smotenc,2,29837,Male,0,0
 cv,smotenc,2,29839,Male,1,1
 cv,smotenc,2,29846,Female,0,0
-cv,smotenc,2,29850,Male,0,1
+cv,smotenc,2,29850,Male,0,0
 cv,smotenc,2,29854,Female,0,1
 cv,smotenc,2,29864,Male,0,1
 cv,smotenc,2,29869,Female,0,0
@@ -77615,7 +77615,7 @@ cv,smotenc,2,29873,Male,1,1
 cv,smotenc,2,29876,Male,0,0
 cv,smotenc,2,29886,Male,0,0
 cv,smotenc,2,29888,Male,0,0
-cv,smotenc,2,29894,Female,0,0
+cv,smotenc,2,29894,Female,0,1
 cv,smotenc,2,29898,Male,0,0
 cv,smotenc,2,29899,Male,1,1
 cv,smotenc,2,29911,Female,0,1
@@ -77637,12 +77637,12 @@ cv,smotenc,2,30006,Male,1,1
 cv,smotenc,2,30010,Male,0,1
 cv,smotenc,2,30012,Male,1,1
 cv,smotenc,2,30016,Male,1,0
-cv,smotenc,2,30018,Female,0,0
+cv,smotenc,2,30018,Female,0,1
 cv,smotenc,2,30025,Male,0,0
 cv,smotenc,2,30031,Male,1,1
 cv,smotenc,2,30033,Male,0,0
 cv,smotenc,2,30040,Female,0,0
-cv,smotenc,2,30042,Male,0,0
+cv,smotenc,2,30042,Male,0,1
 cv,smotenc,2,30044,Male,0,1
 cv,smotenc,2,30048,Male,0,0
 cv,smotenc,2,30066,Female,1,1
@@ -77740,7 +77740,7 @@ cv,smotenc,2,30549,Male,1,0
 cv,smotenc,2,30551,Male,0,1
 cv,smotenc,2,30556,Male,1,1
 cv,smotenc,2,30565,Male,0,0
-cv,smotenc,2,30569,Male,0,0
+cv,smotenc,2,30569,Male,0,1
 cv,smotenc,2,30574,Female,0,0
 cv,smotenc,2,30579,Male,0,0
 cv,smotenc,2,30580,Male,0,0
@@ -77766,7 +77766,7 @@ cv,smotenc,2,30687,Male,0,0
 cv,smotenc,2,30689,Male,0,1
 cv,smotenc,2,30691,Male,0,0
 cv,smotenc,2,30700,Male,1,1
-cv,smotenc,2,30702,Female,0,0
+cv,smotenc,2,30702,Female,0,1
 cv,smotenc,2,30703,Male,0,0
 cv,smotenc,2,30705,Male,0,0
 cv,smotenc,2,30714,Female,0,0
@@ -77801,7 +77801,7 @@ cv,smotenc,2,30858,Male,1,1
 cv,smotenc,2,30862,Male,0,1
 cv,smotenc,2,30873,Male,1,1
 cv,smotenc,2,30874,Male,0,0
-cv,smotenc,2,30880,Male,1,0
+cv,smotenc,2,30880,Male,1,1
 cv,smotenc,2,30881,Male,0,0
 cv,smotenc,2,30882,Male,0,1
 cv,smotenc,2,30888,Male,1,1
@@ -77813,7 +77813,7 @@ cv,smotenc,2,30928,Male,1,1
 cv,smotenc,2,30929,Female,0,0
 cv,smotenc,2,30931,Male,0,1
 cv,smotenc,2,30934,Male,0,0
-cv,smotenc,2,30952,Male,0,0
+cv,smotenc,2,30952,Male,0,1
 cv,smotenc,2,30953,Male,0,0
 cv,smotenc,2,30956,Female,0,0
 cv,smotenc,2,30966,Male,0,1
@@ -77851,7 +77851,7 @@ cv,smotenc,2,31080,Male,1,1
 cv,smotenc,2,31091,Male,0,0
 cv,smotenc,2,31100,Male,0,0
 cv,smotenc,2,31102,Female,0,0
-cv,smotenc,2,31116,Female,0,0
+cv,smotenc,2,31116,Female,0,1
 cv,smotenc,2,31123,Male,0,0
 cv,smotenc,2,31124,Female,0,0
 cv,smotenc,2,31126,Male,1,1
@@ -77882,7 +77882,7 @@ cv,smotenc,2,31256,Male,1,1
 cv,smotenc,2,31260,Female,0,0
 cv,smotenc,2,31262,Male,0,0
 cv,smotenc,2,31270,Male,0,1
-cv,smotenc,2,31284,Female,0,0
+cv,smotenc,2,31284,Female,0,1
 cv,smotenc,2,31285,Male,0,0
 cv,smotenc,2,31293,Male,1,1
 cv,smotenc,2,31294,Female,0,0
@@ -78004,7 +78004,7 @@ cv,smotenc,2,31813,Male,0,1
 cv,smotenc,2,31822,Female,0,0
 cv,smotenc,2,31827,Male,0,1
 cv,smotenc,2,31831,Male,1,1
-cv,smotenc,2,31836,Male,0,0
+cv,smotenc,2,31836,Male,0,1
 cv,smotenc,2,31841,Female,0,0
 cv,smotenc,2,31846,Female,0,0
 cv,smotenc,2,31864,Female,0,0
@@ -78066,7 +78066,7 @@ cv,smotenc,2,32158,Male,0,0
 cv,smotenc,2,32159,Female,0,0
 cv,smotenc,2,32163,Male,0,1
 cv,smotenc,2,32164,Male,1,1
-cv,smotenc,2,32165,Female,0,0
+cv,smotenc,2,32165,Female,0,1
 cv,smotenc,2,32166,Female,0,0
 cv,smotenc,2,32182,Male,0,1
 cv,smotenc,2,32183,Male,1,1
@@ -78130,7 +78130,7 @@ cv,smotenc,2,32458,Male,1,1
 cv,smotenc,2,32463,Male,0,1
 cv,smotenc,2,32474,Male,1,1
 cv,smotenc,2,32481,Female,0,0
-cv,smotenc,2,32484,Female,0,0
+cv,smotenc,2,32484,Female,0,1
 cv,smotenc,2,32485,Female,0,1
 cv,smotenc,2,32486,Female,0,0
 cv,smotenc,2,32495,Male,0,0
@@ -78179,7 +78179,7 @@ cv,smotenc,3,168,Male,0,0
 cv,smotenc,3,178,Male,0,0
 cv,smotenc,3,183,Male,1,0
 cv,smotenc,3,184,Male,1,1
-cv,smotenc,3,187,Female,0,1
+cv,smotenc,3,187,Female,0,0
 cv,smotenc,3,188,Female,0,1
 cv,smotenc,3,195,Male,0,0
 cv,smotenc,3,201,Male,0,0
@@ -78200,7 +78200,7 @@ cv,smotenc,3,257,Female,0,0
 cv,smotenc,3,266,Male,0,0
 cv,smotenc,3,269,Female,1,1
 cv,smotenc,3,270,Male,1,1
-cv,smotenc,3,279,Female,1,0
+cv,smotenc,3,279,Female,1,1
 cv,smotenc,3,281,Male,1,1
 cv,smotenc,3,284,Male,0,0
 cv,smotenc,3,291,Female,0,0
@@ -78213,7 +78213,7 @@ cv,smotenc,3,322,Male,0,0
 cv,smotenc,3,327,Female,1,1
 cv,smotenc,3,343,Male,0,0
 cv,smotenc,3,344,Female,0,0
-cv,smotenc,3,345,Male,0,1
+cv,smotenc,3,345,Male,0,0
 cv,smotenc,3,346,Male,0,0
 cv,smotenc,3,353,Male,0,0
 cv,smotenc,3,354,Male,1,1
@@ -78221,13 +78221,13 @@ cv,smotenc,3,355,Male,1,1
 cv,smotenc,3,356,Male,0,0
 cv,smotenc,3,365,Male,0,0
 cv,smotenc,3,377,Male,0,0
-cv,smotenc,3,381,Female,0,1
+cv,smotenc,3,381,Female,0,0
 cv,smotenc,3,386,Male,0,0
 cv,smotenc,3,394,Female,0,0
 cv,smotenc,3,398,Male,1,1
 cv,smotenc,3,430,Male,0,0
 cv,smotenc,3,437,Female,0,0
-cv,smotenc,3,446,Female,0,0
+cv,smotenc,3,446,Female,0,1
 cv,smotenc,3,449,Female,0,0
 cv,smotenc,3,458,Male,0,0
 cv,smotenc,3,460,Male,0,0
@@ -78238,10 +78238,10 @@ cv,smotenc,3,491,Male,0,0
 cv,smotenc,3,492,Female,0,0
 cv,smotenc,3,494,Male,0,0
 cv,smotenc,3,495,Female,0,0
-cv,smotenc,3,503,Female,0,0
+cv,smotenc,3,503,Female,0,1
 cv,smotenc,3,516,Female,0,0
 cv,smotenc,3,521,Male,1,1
-cv,smotenc,3,524,Male,1,1
+cv,smotenc,3,524,Male,1,0
 cv,smotenc,3,527,Female,0,0
 cv,smotenc,3,530,Female,0,0
 cv,smotenc,3,541,Male,0,0
@@ -78287,7 +78287,7 @@ cv,smotenc,3,734,Female,0,1
 cv,smotenc,3,751,Male,0,0
 cv,smotenc,3,753,Male,0,0
 cv,smotenc,3,763,Male,1,1
-cv,smotenc,3,764,Male,1,1
+cv,smotenc,3,764,Male,1,0
 cv,smotenc,3,770,Female,0,0
 cv,smotenc,3,774,Male,0,0
 cv,smotenc,3,775,Male,0,0
@@ -78350,7 +78350,7 @@ cv,smotenc,3,1075,Male,0,0
 cv,smotenc,3,1076,Female,0,0
 cv,smotenc,3,1089,Male,0,0
 cv,smotenc,3,1090,Male,1,1
-cv,smotenc,3,1091,Male,1,1
+cv,smotenc,3,1091,Male,1,0
 cv,smotenc,3,1096,Male,0,0
 cv,smotenc,3,1099,Female,0,0
 cv,smotenc,3,1103,Male,0,1
@@ -78452,7 +78452,7 @@ cv,smotenc,3,1559,Female,0,0
 cv,smotenc,3,1564,Female,0,0
 cv,smotenc,3,1569,Male,0,0
 cv,smotenc,3,1579,Female,0,0
-cv,smotenc,3,1586,Male,0,0
+cv,smotenc,3,1586,Male,0,1
 cv,smotenc,3,1592,Male,0,0
 cv,smotenc,3,1594,Male,0,1
 cv,smotenc,3,1600,Male,0,0
@@ -78510,7 +78510,7 @@ cv,smotenc,3,1848,Female,0,1
 cv,smotenc,3,1861,Male,0,1
 cv,smotenc,3,1862,Male,1,1
 cv,smotenc,3,1869,Male,1,1
-cv,smotenc,3,1876,Male,1,0
+cv,smotenc,3,1876,Male,1,1
 cv,smotenc,3,1878,Male,0,0
 cv,smotenc,3,1883,Male,0,0
 cv,smotenc,3,1885,Female,0,0
@@ -78520,7 +78520,7 @@ cv,smotenc,3,1911,Male,0,0
 cv,smotenc,3,1919,Female,0,0
 cv,smotenc,3,1920,Female,0,0
 cv,smotenc,3,1924,Female,0,0
-cv,smotenc,3,1926,Male,0,1
+cv,smotenc,3,1926,Male,0,0
 cv,smotenc,3,1932,Female,0,0
 cv,smotenc,3,1936,Male,0,0
 cv,smotenc,3,1941,Male,0,0
@@ -78534,7 +78534,7 @@ cv,smotenc,3,1969,Male,1,1
 cv,smotenc,3,1974,Male,0,0
 cv,smotenc,3,1978,Male,1,0
 cv,smotenc,3,1984,Male,1,1
-cv,smotenc,3,1987,Female,0,0
+cv,smotenc,3,1987,Female,0,1
 cv,smotenc,3,1990,Female,0,0
 cv,smotenc,3,1998,Male,1,1
 cv,smotenc,3,1999,Male,0,0
@@ -78550,7 +78550,7 @@ cv,smotenc,3,2053,Male,0,0
 cv,smotenc,3,2059,Female,0,0
 cv,smotenc,3,2061,Male,0,0
 cv,smotenc,3,2065,Female,0,0
-cv,smotenc,3,2068,Female,1,0
+cv,smotenc,3,2068,Female,1,1
 cv,smotenc,3,2082,Female,0,0
 cv,smotenc,3,2086,Male,1,1
 cv,smotenc,3,2088,Female,1,1
@@ -78639,7 +78639,7 @@ cv,smotenc,3,2528,Male,0,1
 cv,smotenc,3,2533,Male,0,0
 cv,smotenc,3,2549,Female,0,1
 cv,smotenc,3,2558,Male,0,1
-cv,smotenc,3,2562,Male,0,0
+cv,smotenc,3,2562,Male,0,1
 cv,smotenc,3,2563,Female,0,0
 cv,smotenc,3,2569,Male,1,1
 cv,smotenc,3,2570,Male,1,1
@@ -78670,7 +78670,7 @@ cv,smotenc,3,2650,Female,0,0
 cv,smotenc,3,2653,Male,0,0
 cv,smotenc,3,2657,Female,0,0
 cv,smotenc,3,2658,Male,0,1
-cv,smotenc,3,2663,Female,1,1
+cv,smotenc,3,2663,Female,1,0
 cv,smotenc,3,2667,Male,0,0
 cv,smotenc,3,2668,Female,0,0
 cv,smotenc,3,2670,Male,1,1
@@ -78705,7 +78705,7 @@ cv,smotenc,3,2765,Female,0,0
 cv,smotenc,3,2768,Female,0,0
 cv,smotenc,3,2776,Male,0,0
 cv,smotenc,3,2778,Female,0,0
-cv,smotenc,3,2783,Male,1,1
+cv,smotenc,3,2783,Male,1,0
 cv,smotenc,3,2786,Male,0,0
 cv,smotenc,3,2801,Female,0,0
 cv,smotenc,3,2809,Female,0,0
@@ -78727,7 +78727,7 @@ cv,smotenc,3,2860,Male,1,1
 cv,smotenc,3,2872,Male,0,1
 cv,smotenc,3,2874,Female,1,1
 cv,smotenc,3,2884,Male,0,0
-cv,smotenc,3,2887,Female,0,0
+cv,smotenc,3,2887,Female,0,1
 cv,smotenc,3,2890,Female,0,0
 cv,smotenc,3,2898,Male,0,0
 cv,smotenc,3,2901,Male,1,1
@@ -78760,7 +78760,7 @@ cv,smotenc,3,3042,Male,0,0
 cv,smotenc,3,3047,Male,0,0
 cv,smotenc,3,3048,Male,0,0
 cv,smotenc,3,3050,Male,1,1
-cv,smotenc,3,3051,Female,0,1
+cv,smotenc,3,3051,Female,0,0
 cv,smotenc,3,3054,Male,0,1
 cv,smotenc,3,3056,Male,1,1
 cv,smotenc,3,3068,Male,0,0
@@ -78785,7 +78785,7 @@ cv,smotenc,3,3172,Male,0,0
 cv,smotenc,3,3175,Male,1,1
 cv,smotenc,3,3190,Male,1,0
 cv,smotenc,3,3196,Male,0,0
-cv,smotenc,3,3204,Male,1,1
+cv,smotenc,3,3204,Male,1,0
 cv,smotenc,3,3205,Male,0,0
 cv,smotenc,3,3209,Female,0,0
 cv,smotenc,3,3224,Female,1,1
@@ -78847,7 +78847,7 @@ cv,smotenc,3,3468,Female,1,1
 cv,smotenc,3,3469,Male,0,1
 cv,smotenc,3,3484,Male,0,0
 cv,smotenc,3,3486,Female,0,0
-cv,smotenc,3,3493,Female,1,0
+cv,smotenc,3,3493,Female,1,1
 cv,smotenc,3,3497,Male,1,1
 cv,smotenc,3,3501,Female,0,0
 cv,smotenc,3,3508,Male,0,1
@@ -78908,7 +78908,7 @@ cv,smotenc,3,3757,Female,0,1
 cv,smotenc,3,3768,Male,0,1
 cv,smotenc,3,3772,Male,0,1
 cv,smotenc,3,3774,Male,1,1
-cv,smotenc,3,3777,Male,0,1
+cv,smotenc,3,3777,Male,0,0
 cv,smotenc,3,3780,Female,0,0
 cv,smotenc,3,3783,Male,0,0
 cv,smotenc,3,3791,Male,0,0
@@ -78939,7 +78939,7 @@ cv,smotenc,3,3937,Female,0,0
 cv,smotenc,3,3940,Female,0,1
 cv,smotenc,3,3942,Male,0,0
 cv,smotenc,3,3946,Male,0,0
-cv,smotenc,3,3960,Male,0,0
+cv,smotenc,3,3960,Male,0,1
 cv,smotenc,3,3968,Male,0,0
 cv,smotenc,3,3978,Male,0,1
 cv,smotenc,3,3992,Male,1,0
@@ -78973,7 +78973,7 @@ cv,smotenc,3,4097,Male,1,1
 cv,smotenc,3,4101,Male,0,1
 cv,smotenc,3,4103,Male,0,0
 cv,smotenc,3,4104,Male,0,0
-cv,smotenc,3,4106,Female,0,1
+cv,smotenc,3,4106,Female,0,0
 cv,smotenc,3,4110,Female,0,0
 cv,smotenc,3,4113,Female,0,0
 cv,smotenc,3,4117,Male,0,0
@@ -78988,7 +78988,7 @@ cv,smotenc,3,4147,Male,0,1
 cv,smotenc,3,4149,Male,0,0
 cv,smotenc,3,4150,Male,0,0
 cv,smotenc,3,4160,Male,0,1
-cv,smotenc,3,4164,Female,1,0
+cv,smotenc,3,4164,Female,1,1
 cv,smotenc,3,4177,Male,1,1
 cv,smotenc,3,4184,Male,0,0
 cv,smotenc,3,4185,Male,0,0
@@ -79049,8 +79049,8 @@ cv,smotenc,3,4474,Male,1,1
 cv,smotenc,3,4475,Male,1,1
 cv,smotenc,3,4476,Male,0,0
 cv,smotenc,3,4479,Male,1,1
-cv,smotenc,3,4483,Male,0,1
-cv,smotenc,3,4490,Male,0,1
+cv,smotenc,3,4483,Male,0,0
+cv,smotenc,3,4490,Male,0,0
 cv,smotenc,3,4492,Female,1,1
 cv,smotenc,3,4494,Male,0,0
 cv,smotenc,3,4495,Male,1,1
@@ -79102,7 +79102,7 @@ cv,smotenc,3,4716,Female,0,0
 cv,smotenc,3,4720,Female,0,0
 cv,smotenc,3,4741,Female,0,0
 cv,smotenc,3,4745,Female,0,0
-cv,smotenc,3,4748,Male,0,0
+cv,smotenc,3,4748,Male,0,1
 cv,smotenc,3,4750,Male,1,0
 cv,smotenc,3,4753,Male,1,0
 cv,smotenc,3,4758,Male,1,1
@@ -79116,7 +79116,7 @@ cv,smotenc,3,4798,Male,0,0
 cv,smotenc,3,4801,Male,0,0
 cv,smotenc,3,4805,Female,1,1
 cv,smotenc,3,4806,Male,1,1
-cv,smotenc,3,4810,Male,1,1
+cv,smotenc,3,4810,Male,1,0
 cv,smotenc,3,4811,Female,0,0
 cv,smotenc,3,4814,Female,0,0
 cv,smotenc,3,4819,Female,0,0
@@ -79167,7 +79167,7 @@ cv,smotenc,3,5087,Male,0,0
 cv,smotenc,3,5089,Male,0,1
 cv,smotenc,3,5103,Male,0,1
 cv,smotenc,3,5104,Male,0,0
-cv,smotenc,3,5109,Male,0,1
+cv,smotenc,3,5109,Male,0,0
 cv,smotenc,3,5117,Male,0,0
 cv,smotenc,3,5120,Male,0,1
 cv,smotenc,3,5123,Female,0,1
@@ -79205,7 +79205,7 @@ cv,smotenc,3,5289,Male,0,0
 cv,smotenc,3,5293,Male,0,1
 cv,smotenc,3,5298,Female,0,1
 cv,smotenc,3,5302,Female,0,0
-cv,smotenc,3,5305,Male,0,1
+cv,smotenc,3,5305,Male,0,0
 cv,smotenc,3,5306,Male,0,0
 cv,smotenc,3,5311,Male,1,0
 cv,smotenc,3,5312,Male,0,0
@@ -79310,7 +79310,7 @@ cv,smotenc,3,5803,Male,0,0
 cv,smotenc,3,5804,Male,0,0
 cv,smotenc,3,5812,Male,0,0
 cv,smotenc,3,5814,Male,0,0
-cv,smotenc,3,5819,Female,0,0
+cv,smotenc,3,5819,Female,0,1
 cv,smotenc,3,5824,Male,0,1
 cv,smotenc,3,5827,Male,0,1
 cv,smotenc,3,5828,Female,0,0
@@ -79335,7 +79335,7 @@ cv,smotenc,3,5895,Female,0,0
 cv,smotenc,3,5896,Female,0,0
 cv,smotenc,3,5897,Male,0,0
 cv,smotenc,3,5907,Male,0,0
-cv,smotenc,3,5914,Female,0,0
+cv,smotenc,3,5914,Female,0,1
 cv,smotenc,3,5921,Female,0,0
 cv,smotenc,3,5923,Male,0,1
 cv,smotenc,3,5931,Female,1,1
@@ -79405,7 +79405,7 @@ cv,smotenc,3,6211,Female,0,0
 cv,smotenc,3,6215,Male,0,0
 cv,smotenc,3,6220,Male,1,1
 cv,smotenc,3,6221,Male,0,0
-cv,smotenc,3,6222,Male,0,1
+cv,smotenc,3,6222,Male,0,0
 cv,smotenc,3,6227,Male,1,1
 cv,smotenc,3,6230,Male,0,0
 cv,smotenc,3,6240,Male,0,0
@@ -79434,7 +79434,7 @@ cv,smotenc,3,6321,Male,0,0
 cv,smotenc,3,6325,Male,1,1
 cv,smotenc,3,6330,Male,1,1
 cv,smotenc,3,6337,Male,1,1
-cv,smotenc,3,6341,Male,0,1
+cv,smotenc,3,6341,Male,0,0
 cv,smotenc,3,6342,Male,0,0
 cv,smotenc,3,6350,Female,0,0
 cv,smotenc,3,6355,Male,0,1
@@ -79548,7 +79548,7 @@ cv,smotenc,3,6871,Male,0,0
 cv,smotenc,3,6873,Male,0,0
 cv,smotenc,3,6878,Female,0,0
 cv,smotenc,3,6883,Male,0,0
-cv,smotenc,3,6887,Male,0,1
+cv,smotenc,3,6887,Male,0,0
 cv,smotenc,3,6888,Male,0,0
 cv,smotenc,3,6902,Female,0,0
 cv,smotenc,3,6904,Male,1,1
@@ -79617,14 +79617,14 @@ cv,smotenc,3,7196,Female,0,1
 cv,smotenc,3,7198,Male,0,1
 cv,smotenc,3,7199,Female,1,0
 cv,smotenc,3,7221,Female,0,0
-cv,smotenc,3,7239,Female,0,0
+cv,smotenc,3,7239,Female,0,1
 cv,smotenc,3,7245,Male,0,0
 cv,smotenc,3,7247,Male,0,0
 cv,smotenc,3,7251,Male,0,0
 cv,smotenc,3,7254,Female,0,0
 cv,smotenc,3,7261,Male,1,1
 cv,smotenc,3,7269,Female,1,1
-cv,smotenc,3,7270,Female,0,1
+cv,smotenc,3,7270,Female,0,0
 cv,smotenc,3,7275,Female,1,1
 cv,smotenc,3,7279,Female,0,0
 cv,smotenc,3,7290,Female,1,1
@@ -79692,7 +79692,7 @@ cv,smotenc,3,7673,Male,1,0
 cv,smotenc,3,7678,Male,1,1
 cv,smotenc,3,7688,Male,0,1
 cv,smotenc,3,7694,Male,1,1
-cv,smotenc,3,7695,Female,1,0
+cv,smotenc,3,7695,Female,1,1
 cv,smotenc,3,7701,Male,1,1
 cv,smotenc,3,7702,Male,0,1
 cv,smotenc,3,7706,Male,0,1
@@ -79753,7 +79753,7 @@ cv,smotenc,3,7939,Male,0,0
 cv,smotenc,3,7941,Male,0,0
 cv,smotenc,3,7942,Female,0,0
 cv,smotenc,3,7949,Female,0,1
-cv,smotenc,3,7951,Female,0,0
+cv,smotenc,3,7951,Female,0,1
 cv,smotenc,3,7952,Female,0,1
 cv,smotenc,3,7955,Male,0,1
 cv,smotenc,3,7961,Male,0,0
@@ -79791,7 +79791,7 @@ cv,smotenc,3,8087,Male,0,0
 cv,smotenc,3,8088,Female,0,0
 cv,smotenc,3,8094,Male,0,0
 cv,smotenc,3,8106,Female,0,0
-cv,smotenc,3,8107,Male,0,0
+cv,smotenc,3,8107,Male,0,1
 cv,smotenc,3,8114,Male,0,0
 cv,smotenc,3,8118,Female,0,1
 cv,smotenc,3,8119,Male,1,1
@@ -79849,7 +79849,7 @@ cv,smotenc,3,8351,Male,1,1
 cv,smotenc,3,8353,Male,0,0
 cv,smotenc,3,8365,Male,0,1
 cv,smotenc,3,8368,Male,0,1
-cv,smotenc,3,8374,Male,0,1
+cv,smotenc,3,8374,Male,0,0
 cv,smotenc,3,8380,Female,0,0
 cv,smotenc,3,8381,Male,0,0
 cv,smotenc,3,8383,Female,0,0
@@ -79975,7 +79975,7 @@ cv,smotenc,3,8972,Female,1,0
 cv,smotenc,3,8973,Male,1,1
 cv,smotenc,3,8974,Female,0,0
 cv,smotenc,3,8977,Male,1,1
-cv,smotenc,3,8989,Male,1,1
+cv,smotenc,3,8989,Male,1,0
 cv,smotenc,3,8990,Male,0,0
 cv,smotenc,3,9003,Female,0,0
 cv,smotenc,3,9005,Male,1,1
@@ -80060,7 +80060,7 @@ cv,smotenc,3,9386,Male,1,0
 cv,smotenc,3,9392,Male,1,1
 cv,smotenc,3,9393,Male,1,1
 cv,smotenc,3,9404,Male,0,1
-cv,smotenc,3,9407,Male,0,1
+cv,smotenc,3,9407,Male,0,0
 cv,smotenc,3,9409,Male,0,0
 cv,smotenc,3,9410,Male,0,0
 cv,smotenc,3,9416,Male,1,1
@@ -80136,11 +80136,11 @@ cv,smotenc,3,9775,Female,0,0
 cv,smotenc,3,9781,Male,0,1
 cv,smotenc,3,9788,Male,0,1
 cv,smotenc,3,9789,Male,0,0
-cv,smotenc,3,9792,Male,0,1
+cv,smotenc,3,9792,Male,0,0
 cv,smotenc,3,9796,Male,0,1
 cv,smotenc,3,9802,Female,0,0
 cv,smotenc,3,9806,Female,0,0
-cv,smotenc,3,9807,Male,0,1
+cv,smotenc,3,9807,Male,0,0
 cv,smotenc,3,9817,Male,1,1
 cv,smotenc,3,9818,Male,0,1
 cv,smotenc,3,9823,Male,0,0
@@ -80233,7 +80233,7 @@ cv,smotenc,3,10238,Male,0,0
 cv,smotenc,3,10240,Female,0,0
 cv,smotenc,3,10246,Female,0,0
 cv,smotenc,3,10256,Female,0,0
-cv,smotenc,3,10263,Male,0,0
+cv,smotenc,3,10263,Male,0,1
 cv,smotenc,3,10264,Male,1,0
 cv,smotenc,3,10272,Female,0,0
 cv,smotenc,3,10274,Male,0,1
@@ -80253,7 +80253,7 @@ cv,smotenc,3,10335,Male,0,1
 cv,smotenc,3,10342,Male,1,1
 cv,smotenc,3,10345,Female,0,0
 cv,smotenc,3,10351,Female,0,0
-cv,smotenc,3,10353,Female,0,0
+cv,smotenc,3,10353,Female,0,1
 cv,smotenc,3,10364,Female,0,0
 cv,smotenc,3,10365,Male,1,0
 cv,smotenc,3,10376,Male,0,1
@@ -80268,7 +80268,7 @@ cv,smotenc,3,10432,Male,0,0
 cv,smotenc,3,10439,Female,0,0
 cv,smotenc,3,10451,Male,0,0
 cv,smotenc,3,10452,Female,0,0
-cv,smotenc,3,10453,Male,1,1
+cv,smotenc,3,10453,Male,1,0
 cv,smotenc,3,10455,Male,1,1
 cv,smotenc,3,10461,Male,1,1
 cv,smotenc,3,10463,Female,0,0
@@ -80286,9 +80286,9 @@ cv,smotenc,3,10527,Male,0,0
 cv,smotenc,3,10533,Male,1,1
 cv,smotenc,3,10538,Female,0,0
 cv,smotenc,3,10543,Male,1,0
-cv,smotenc,3,10544,Male,0,1
+cv,smotenc,3,10544,Male,0,0
 cv,smotenc,3,10545,Male,1,1
-cv,smotenc,3,10548,Male,0,1
+cv,smotenc,3,10548,Male,0,0
 cv,smotenc,3,10551,Male,0,0
 cv,smotenc,3,10555,Male,0,0
 cv,smotenc,3,10557,Male,1,1
@@ -80331,7 +80331,7 @@ cv,smotenc,3,10727,Male,1,1
 cv,smotenc,3,10728,Female,0,0
 cv,smotenc,3,10734,Male,0,1
 cv,smotenc,3,10743,Male,0,0
-cv,smotenc,3,10747,Female,0,0
+cv,smotenc,3,10747,Female,0,1
 cv,smotenc,3,10748,Male,0,1
 cv,smotenc,3,10749,Male,0,1
 cv,smotenc,3,10754,Female,1,0
@@ -80348,7 +80348,7 @@ cv,smotenc,3,10815,Male,1,1
 cv,smotenc,3,10826,Male,0,0
 cv,smotenc,3,10828,Male,0,0
 cv,smotenc,3,10831,Male,1,1
-cv,smotenc,3,10835,Female,0,0
+cv,smotenc,3,10835,Female,0,1
 cv,smotenc,3,10844,Female,0,0
 cv,smotenc,3,10847,Male,0,1
 cv,smotenc,3,10855,Male,1,1
@@ -80502,7 +80502,7 @@ cv,smotenc,3,11507,Female,0,0
 cv,smotenc,3,11513,Male,1,1
 cv,smotenc,3,11514,Male,1,1
 cv,smotenc,3,11519,Male,0,1
-cv,smotenc,3,11524,Male,0,1
+cv,smotenc,3,11524,Male,0,0
 cv,smotenc,3,11526,Female,0,0
 cv,smotenc,3,11528,Female,0,0
 cv,smotenc,3,11534,Female,0,0
@@ -80658,7 +80658,7 @@ cv,smotenc,3,12331,Male,0,0
 cv,smotenc,3,12332,Male,0,0
 cv,smotenc,3,12340,Male,0,1
 cv,smotenc,3,12352,Female,0,0
-cv,smotenc,3,12356,Male,0,1
+cv,smotenc,3,12356,Male,0,0
 cv,smotenc,3,12357,Male,1,0
 cv,smotenc,3,12358,Female,0,0
 cv,smotenc,3,12359,Female,0,0
@@ -80680,7 +80680,7 @@ cv,smotenc,3,12421,Female,0,0
 cv,smotenc,3,12424,Male,0,0
 cv,smotenc,3,12426,Female,0,0
 cv,smotenc,3,12447,Male,0,0
-cv,smotenc,3,12456,Male,0,1
+cv,smotenc,3,12456,Male,0,0
 cv,smotenc,3,12462,Male,0,1
 cv,smotenc,3,12478,Male,0,1
 cv,smotenc,3,12480,Female,0,0
@@ -80694,7 +80694,7 @@ cv,smotenc,3,12504,Male,1,0
 cv,smotenc,3,12505,Female,0,0
 cv,smotenc,3,12506,Female,1,0
 cv,smotenc,3,12514,Female,0,0
-cv,smotenc,3,12515,Female,0,0
+cv,smotenc,3,12515,Female,0,1
 cv,smotenc,3,12517,Female,0,0
 cv,smotenc,3,12519,Male,1,1
 cv,smotenc,3,12520,Male,0,0
@@ -80735,7 +80735,7 @@ cv,smotenc,3,12677,Male,1,1
 cv,smotenc,3,12680,Male,1,1
 cv,smotenc,3,12693,Male,1,1
 cv,smotenc,3,12698,Male,0,0
-cv,smotenc,3,12700,Male,0,1
+cv,smotenc,3,12700,Male,0,0
 cv,smotenc,3,12702,Male,0,0
 cv,smotenc,3,12712,Male,1,1
 cv,smotenc,3,12731,Male,0,0
@@ -80747,7 +80747,7 @@ cv,smotenc,3,12752,Male,0,1
 cv,smotenc,3,12761,Male,0,0
 cv,smotenc,3,12765,Male,0,1
 cv,smotenc,3,12769,Female,0,1
-cv,smotenc,3,12791,Female,0,0
+cv,smotenc,3,12791,Female,0,1
 cv,smotenc,3,12792,Male,0,0
 cv,smotenc,3,12801,Female,0,0
 cv,smotenc,3,12802,Female,0,0
@@ -80775,7 +80775,7 @@ cv,smotenc,3,12936,Female,0,0
 cv,smotenc,3,12937,Male,1,1
 cv,smotenc,3,12947,Male,0,0
 cv,smotenc,3,12951,Male,0,0
-cv,smotenc,3,12957,Female,0,1
+cv,smotenc,3,12957,Female,0,0
 cv,smotenc,3,12965,Female,0,0
 cv,smotenc,3,12966,Female,0,0
 cv,smotenc,3,12968,Female,0,0
@@ -80789,7 +80789,7 @@ cv,smotenc,3,13013,Female,0,0
 cv,smotenc,3,13015,Male,1,1
 cv,smotenc,3,13022,Male,0,0
 cv,smotenc,3,13025,Male,0,0
-cv,smotenc,3,13031,Male,0,1
+cv,smotenc,3,13031,Male,0,0
 cv,smotenc,3,13036,Male,0,0
 cv,smotenc,3,13041,Male,0,0
 cv,smotenc,3,13047,Male,1,0
@@ -80828,7 +80828,7 @@ cv,smotenc,3,13177,Male,0,0
 cv,smotenc,3,13179,Female,0,0
 cv,smotenc,3,13186,Female,1,1
 cv,smotenc,3,13188,Male,0,0
-cv,smotenc,3,13191,Female,0,1
+cv,smotenc,3,13191,Female,0,0
 cv,smotenc,3,13193,Male,0,1
 cv,smotenc,3,13201,Male,1,0
 cv,smotenc,3,13204,Male,1,1
@@ -80907,7 +80907,7 @@ cv,smotenc,3,13608,Female,0,0
 cv,smotenc,3,13609,Male,0,1
 cv,smotenc,3,13611,Male,0,0
 cv,smotenc,3,13620,Male,0,0
-cv,smotenc,3,13628,Male,0,1
+cv,smotenc,3,13628,Male,0,0
 cv,smotenc,3,13632,Male,0,0
 cv,smotenc,3,13636,Male,0,0
 cv,smotenc,3,13639,Male,1,1
@@ -80919,7 +80919,7 @@ cv,smotenc,3,13671,Female,0,0
 cv,smotenc,3,13672,Female,0,0
 cv,smotenc,3,13677,Male,0,0
 cv,smotenc,3,13685,Female,0,0
-cv,smotenc,3,13690,Male,0,1
+cv,smotenc,3,13690,Male,0,0
 cv,smotenc,3,13695,Male,1,1
 cv,smotenc,3,13704,Male,0,0
 cv,smotenc,3,13707,Male,0,1
@@ -80939,7 +80939,7 @@ cv,smotenc,3,13772,Male,0,1
 cv,smotenc,3,13785,Male,0,1
 cv,smotenc,3,13787,Male,1,1
 cv,smotenc,3,13792,Male,0,0
-cv,smotenc,3,13798,Male,0,1
+cv,smotenc,3,13798,Male,0,0
 cv,smotenc,3,13802,Female,0,0
 cv,smotenc,3,13804,Female,0,0
 cv,smotenc,3,13805,Male,0,1
@@ -81018,7 +81018,7 @@ cv,smotenc,3,14203,Female,0,0
 cv,smotenc,3,14208,Male,0,0
 cv,smotenc,3,14211,Female,0,0
 cv,smotenc,3,14213,Female,0,0
-cv,smotenc,3,14221,Female,0,0
+cv,smotenc,3,14221,Female,0,1
 cv,smotenc,3,14227,Female,0,0
 cv,smotenc,3,14228,Male,1,0
 cv,smotenc,3,14244,Male,0,1
@@ -81040,7 +81040,7 @@ cv,smotenc,3,14319,Male,0,0
 cv,smotenc,3,14324,Male,0,0
 cv,smotenc,3,14325,Male,0,1
 cv,smotenc,3,14328,Male,1,1
-cv,smotenc,3,14343,Male,0,1
+cv,smotenc,3,14343,Male,0,0
 cv,smotenc,3,14350,Male,0,0
 cv,smotenc,3,14357,Male,0,0
 cv,smotenc,3,14360,Female,0,0
@@ -81106,7 +81106,7 @@ cv,smotenc,3,14657,Female,0,0
 cv,smotenc,3,14666,Female,0,0
 cv,smotenc,3,14671,Male,1,1
 cv,smotenc,3,14689,Female,0,0
-cv,smotenc,3,14694,Female,0,0
+cv,smotenc,3,14694,Female,0,1
 cv,smotenc,3,14712,Male,0,1
 cv,smotenc,3,14713,Female,0,0
 cv,smotenc,3,14714,Male,1,1
@@ -81170,7 +81170,7 @@ cv,smotenc,3,14954,Male,0,0
 cv,smotenc,3,14961,Male,0,1
 cv,smotenc,3,14964,Female,0,0
 cv,smotenc,3,14969,Male,0,0
-cv,smotenc,3,14983,Male,0,0
+cv,smotenc,3,14983,Male,0,1
 cv,smotenc,3,14985,Female,0,1
 cv,smotenc,3,14988,Female,0,0
 cv,smotenc,3,14989,Female,0,0
@@ -81220,7 +81220,7 @@ cv,smotenc,3,15222,Male,0,1
 cv,smotenc,3,15224,Male,0,0
 cv,smotenc,3,15234,Female,0,0
 cv,smotenc,3,15242,Female,1,1
-cv,smotenc,3,15245,Male,0,0
+cv,smotenc,3,15245,Male,0,1
 cv,smotenc,3,15247,Male,0,1
 cv,smotenc,3,15257,Female,1,1
 cv,smotenc,3,15262,Male,0,1
@@ -81279,7 +81279,7 @@ cv,smotenc,3,15574,Male,0,0
 cv,smotenc,3,15575,Male,0,1
 cv,smotenc,3,15576,Male,1,1
 cv,smotenc,3,15601,Male,1,0
-cv,smotenc,3,15603,Male,0,1
+cv,smotenc,3,15603,Male,0,0
 cv,smotenc,3,15613,Female,0,0
 cv,smotenc,3,15615,Male,0,0
 cv,smotenc,3,15617,Female,0,0
@@ -81299,7 +81299,7 @@ cv,smotenc,3,15664,Male,1,1
 cv,smotenc,3,15667,Female,0,0
 cv,smotenc,3,15686,Male,0,1
 cv,smotenc,3,15698,Male,0,1
-cv,smotenc,3,15706,Male,0,1
+cv,smotenc,3,15706,Male,0,0
 cv,smotenc,3,15707,Male,0,0
 cv,smotenc,3,15718,Male,1,1
 cv,smotenc,3,15719,Male,0,1
@@ -81382,7 +81382,7 @@ cv,smotenc,3,16065,Male,0,0
 cv,smotenc,3,16068,Male,0,0
 cv,smotenc,3,16077,Male,0,1
 cv,smotenc,3,16078,Male,1,0
-cv,smotenc,3,16091,Female,0,0
+cv,smotenc,3,16091,Female,0,1
 cv,smotenc,3,16092,Female,1,1
 cv,smotenc,3,16093,Female,1,1
 cv,smotenc,3,16096,Female,0,0
@@ -81390,7 +81390,7 @@ cv,smotenc,3,16112,Female,0,1
 cv,smotenc,3,16116,Male,1,1
 cv,smotenc,3,16121,Male,0,0
 cv,smotenc,3,16150,Male,0,0
-cv,smotenc,3,16152,Male,1,1
+cv,smotenc,3,16152,Male,1,0
 cv,smotenc,3,16155,Female,0,0
 cv,smotenc,3,16157,Male,0,0
 cv,smotenc,3,16169,Male,0,0
@@ -81625,7 +81625,7 @@ cv,smotenc,3,17221,Female,0,0
 cv,smotenc,3,17233,Female,0,0
 cv,smotenc,3,17247,Male,0,0
 cv,smotenc,3,17249,Male,0,0
-cv,smotenc,3,17252,Female,0,1
+cv,smotenc,3,17252,Female,0,0
 cv,smotenc,3,17255,Female,0,0
 cv,smotenc,3,17261,Male,1,0
 cv,smotenc,3,17265,Male,1,1
@@ -81735,7 +81735,7 @@ cv,smotenc,3,17823,Male,1,1
 cv,smotenc,3,17825,Male,0,1
 cv,smotenc,3,17830,Male,0,0
 cv,smotenc,3,17832,Female,0,0
-cv,smotenc,3,17844,Female,0,0
+cv,smotenc,3,17844,Female,0,1
 cv,smotenc,3,17852,Male,0,1
 cv,smotenc,3,17853,Female,0,0
 cv,smotenc,3,17860,Male,0,0
@@ -81834,7 +81834,7 @@ cv,smotenc,3,18240,Female,1,0
 cv,smotenc,3,18242,Male,0,0
 cv,smotenc,3,18244,Female,0,0
 cv,smotenc,3,18247,Male,0,1
-cv,smotenc,3,18250,Male,1,1
+cv,smotenc,3,18250,Male,1,0
 cv,smotenc,3,18252,Female,1,1
 cv,smotenc,3,18265,Male,1,0
 cv,smotenc,3,18266,Female,0,0
@@ -81998,7 +81998,7 @@ cv,smotenc,3,19060,Female,0,0
 cv,smotenc,3,19075,Male,1,1
 cv,smotenc,3,19079,Male,0,0
 cv,smotenc,3,19080,Male,1,1
-cv,smotenc,3,19092,Female,0,0
+cv,smotenc,3,19092,Female,0,1
 cv,smotenc,3,19094,Male,0,0
 cv,smotenc,3,19096,Male,0,0
 cv,smotenc,3,19098,Male,0,1
@@ -82011,7 +82011,7 @@ cv,smotenc,3,19113,Male,0,0
 cv,smotenc,3,19120,Male,1,1
 cv,smotenc,3,19125,Male,0,0
 cv,smotenc,3,19127,Male,0,0
-cv,smotenc,3,19129,Female,0,0
+cv,smotenc,3,19129,Female,0,1
 cv,smotenc,3,19146,Male,0,0
 cv,smotenc,3,19151,Male,0,1
 cv,smotenc,3,19153,Female,0,0
@@ -82176,7 +82176,7 @@ cv,smotenc,3,19875,Male,0,0
 cv,smotenc,3,19885,Male,0,0
 cv,smotenc,3,19888,Female,0,0
 cv,smotenc,3,19902,Male,0,0
-cv,smotenc,3,19904,Male,1,1
+cv,smotenc,3,19904,Male,1,0
 cv,smotenc,3,19905,Female,0,0
 cv,smotenc,3,19915,Male,0,0
 cv,smotenc,3,19923,Male,1,1
@@ -82228,19 +82228,19 @@ cv,smotenc,3,20183,Female,0,0
 cv,smotenc,3,20195,Male,0,1
 cv,smotenc,3,20204,Female,0,0
 cv,smotenc,3,20205,Female,1,1
-cv,smotenc,3,20215,Male,0,0
+cv,smotenc,3,20215,Male,0,1
 cv,smotenc,3,20222,Male,0,1
 cv,smotenc,3,20224,Male,1,1
-cv,smotenc,3,20227,Female,0,1
+cv,smotenc,3,20227,Female,0,0
 cv,smotenc,3,20236,Male,0,0
 cv,smotenc,3,20238,Male,0,0
-cv,smotenc,3,20239,Female,0,0
+cv,smotenc,3,20239,Female,0,1
 cv,smotenc,3,20250,Male,0,0
 cv,smotenc,3,20251,Male,1,0
 cv,smotenc,3,20255,Male,1,1
 cv,smotenc,3,20266,Female,0,0
 cv,smotenc,3,20271,Male,0,0
-cv,smotenc,3,20275,Male,0,0
+cv,smotenc,3,20275,Male,0,1
 cv,smotenc,3,20293,Male,0,0
 cv,smotenc,3,20307,Male,1,1
 cv,smotenc,3,20311,Male,1,0
@@ -82281,7 +82281,7 @@ cv,smotenc,3,20472,Female,0,0
 cv,smotenc,3,20478,Female,0,0
 cv,smotenc,3,20484,Male,1,1
 cv,smotenc,3,20488,Female,1,1
-cv,smotenc,3,20492,Female,0,1
+cv,smotenc,3,20492,Female,0,0
 cv,smotenc,3,20497,Male,0,0
 cv,smotenc,3,20509,Male,0,0
 cv,smotenc,3,20521,Female,0,0
@@ -82298,7 +82298,7 @@ cv,smotenc,3,20571,Male,0,0
 cv,smotenc,3,20574,Male,0,0
 cv,smotenc,3,20576,Male,0,1
 cv,smotenc,3,20578,Male,1,0
-cv,smotenc,3,20582,Male,0,1
+cv,smotenc,3,20582,Male,0,0
 cv,smotenc,3,20585,Female,0,0
 cv,smotenc,3,20588,Female,0,0
 cv,smotenc,3,20591,Male,0,0
@@ -82351,7 +82351,7 @@ cv,smotenc,3,20826,Male,0,0
 cv,smotenc,3,20827,Female,0,0
 cv,smotenc,3,20837,Male,0,1
 cv,smotenc,3,20839,Male,0,0
-cv,smotenc,3,20846,Female,0,1
+cv,smotenc,3,20846,Female,0,0
 cv,smotenc,3,20847,Female,0,0
 cv,smotenc,3,20852,Male,0,0
 cv,smotenc,3,20861,Male,0,0
@@ -82388,7 +82388,7 @@ cv,smotenc,3,21047,Male,0,1
 cv,smotenc,3,21048,Female,0,0
 cv,smotenc,3,21056,Male,0,1
 cv,smotenc,3,21059,Male,0,0
-cv,smotenc,3,21067,Female,1,0
+cv,smotenc,3,21067,Female,1,1
 cv,smotenc,3,21075,Female,0,0
 cv,smotenc,3,21080,Male,0,1
 cv,smotenc,3,21087,Male,0,1
@@ -82414,7 +82414,7 @@ cv,smotenc,3,21185,Male,0,1
 cv,smotenc,3,21187,Male,0,0
 cv,smotenc,3,21196,Female,0,0
 cv,smotenc,3,21215,Male,1,1
-cv,smotenc,3,21221,Female,0,0
+cv,smotenc,3,21221,Female,0,1
 cv,smotenc,3,21225,Female,0,0
 cv,smotenc,3,21237,Female,0,0
 cv,smotenc,3,21239,Male,0,1
@@ -82639,7 +82639,7 @@ cv,smotenc,3,22322,Male,0,1
 cv,smotenc,3,22324,Female,0,1
 cv,smotenc,3,22325,Male,0,1
 cv,smotenc,3,22326,Male,0,0
-cv,smotenc,3,22343,Female,0,1
+cv,smotenc,3,22343,Female,0,0
 cv,smotenc,3,22344,Male,0,0
 cv,smotenc,3,22348,Female,0,0
 cv,smotenc,3,22355,Male,0,0
@@ -82748,7 +82748,7 @@ cv,smotenc,3,22899,Male,0,0
 cv,smotenc,3,22904,Male,0,0
 cv,smotenc,3,22905,Male,1,1
 cv,smotenc,3,22907,Male,0,0
-cv,smotenc,3,22914,Male,0,0
+cv,smotenc,3,22914,Male,0,1
 cv,smotenc,3,22919,Male,1,1
 cv,smotenc,3,22927,Female,0,0
 cv,smotenc,3,22932,Male,0,0
@@ -82778,7 +82778,7 @@ cv,smotenc,3,23049,Male,0,1
 cv,smotenc,3,23058,Male,0,1
 cv,smotenc,3,23063,Female,0,0
 cv,smotenc,3,23065,Female,0,1
-cv,smotenc,3,23066,Male,0,1
+cv,smotenc,3,23066,Male,0,0
 cv,smotenc,3,23068,Female,0,0
 cv,smotenc,3,23071,Male,0,0
 cv,smotenc,3,23074,Male,0,1
@@ -82791,7 +82791,7 @@ cv,smotenc,3,23098,Male,0,0
 cv,smotenc,3,23101,Male,1,1
 cv,smotenc,3,23108,Male,0,0
 cv,smotenc,3,23123,Male,0,0
-cv,smotenc,3,23124,Male,0,1
+cv,smotenc,3,23124,Male,0,0
 cv,smotenc,3,23133,Male,0,1
 cv,smotenc,3,23135,Female,0,0
 cv,smotenc,3,23140,Male,0,1
@@ -82804,7 +82804,7 @@ cv,smotenc,3,23183,Male,1,1
 cv,smotenc,3,23185,Female,0,0
 cv,smotenc,3,23187,Male,0,0
 cv,smotenc,3,23189,Male,0,0
-cv,smotenc,3,23191,Male,1,1
+cv,smotenc,3,23191,Male,1,0
 cv,smotenc,3,23200,Male,0,1
 cv,smotenc,3,23201,Male,0,0
 cv,smotenc,3,23203,Female,0,0
@@ -82831,7 +82831,7 @@ cv,smotenc,3,23280,Male,1,1
 cv,smotenc,3,23287,Female,0,0
 cv,smotenc,3,23290,Male,1,1
 cv,smotenc,3,23296,Male,0,1
-cv,smotenc,3,23301,Male,1,1
+cv,smotenc,3,23301,Male,1,0
 cv,smotenc,3,23307,Female,0,0
 cv,smotenc,3,23308,Male,1,1
 cv,smotenc,3,23314,Female,0,0
@@ -82850,7 +82850,7 @@ cv,smotenc,3,23370,Male,1,0
 cv,smotenc,3,23378,Male,0,1
 cv,smotenc,3,23379,Male,0,0
 cv,smotenc,3,23384,Male,1,0
-cv,smotenc,3,23386,Female,0,1
+cv,smotenc,3,23386,Female,0,0
 cv,smotenc,3,23389,Male,1,1
 cv,smotenc,3,23390,Male,0,0
 cv,smotenc,3,23397,Male,0,1
@@ -82928,7 +82928,7 @@ cv,smotenc,3,23802,Female,0,0
 cv,smotenc,3,23803,Female,0,0
 cv,smotenc,3,23807,Female,0,0
 cv,smotenc,3,23808,Female,0,0
-cv,smotenc,3,23817,Male,0,1
+cv,smotenc,3,23817,Male,0,0
 cv,smotenc,3,23821,Male,0,0
 cv,smotenc,3,23826,Female,0,0
 cv,smotenc,3,23837,Male,0,1
@@ -82969,11 +82969,11 @@ cv,smotenc,3,24008,Male,1,1
 cv,smotenc,3,24013,Male,0,0
 cv,smotenc,3,24027,Female,0,0
 cv,smotenc,3,24031,Male,1,0
-cv,smotenc,3,24044,Female,1,0
+cv,smotenc,3,24044,Female,1,1
 cv,smotenc,3,24045,Male,0,1
 cv,smotenc,3,24046,Female,0,0
 cv,smotenc,3,24052,Male,0,0
-cv,smotenc,3,24055,Male,0,1
+cv,smotenc,3,24055,Male,0,0
 cv,smotenc,3,24056,Male,0,0
 cv,smotenc,3,24058,Male,0,0
 cv,smotenc,3,24059,Female,0,0
@@ -83025,7 +83025,7 @@ cv,smotenc,3,24332,Male,0,0
 cv,smotenc,3,24334,Female,1,1
 cv,smotenc,3,24341,Female,0,0
 cv,smotenc,3,24342,Male,0,1
-cv,smotenc,3,24349,Female,0,1
+cv,smotenc,3,24349,Female,0,0
 cv,smotenc,3,24354,Female,0,0
 cv,smotenc,3,24358,Male,0,0
 cv,smotenc,3,24367,Female,0,0
@@ -83110,7 +83110,7 @@ cv,smotenc,3,24849,Male,0,0
 cv,smotenc,3,24855,Male,0,0
 cv,smotenc,3,24856,Female,0,0
 cv,smotenc,3,24861,Male,0,0
-cv,smotenc,3,24867,Male,0,0
+cv,smotenc,3,24867,Male,0,1
 cv,smotenc,3,24871,Female,0,0
 cv,smotenc,3,24872,Male,0,0
 cv,smotenc,3,24873,Male,0,0
@@ -83143,7 +83143,7 @@ cv,smotenc,3,24960,Male,0,0
 cv,smotenc,3,24974,Female,0,0
 cv,smotenc,3,24979,Female,0,0
 cv,smotenc,3,24983,Male,1,1
-cv,smotenc,3,24990,Male,0,1
+cv,smotenc,3,24990,Male,0,0
 cv,smotenc,3,24997,Female,0,0
 cv,smotenc,3,25002,Male,0,0
 cv,smotenc,3,25007,Male,0,0
@@ -83246,7 +83246,7 @@ cv,smotenc,3,25494,Female,0,0
 cv,smotenc,3,25501,Male,1,1
 cv,smotenc,3,25504,Female,0,0
 cv,smotenc,3,25507,Male,0,0
-cv,smotenc,3,25520,Male,0,1
+cv,smotenc,3,25520,Male,0,0
 cv,smotenc,3,25531,Female,0,1
 cv,smotenc,3,25537,Male,0,0
 cv,smotenc,3,25538,Male,0,1
@@ -83368,7 +83368,7 @@ cv,smotenc,3,26126,Female,0,0
 cv,smotenc,3,26128,Male,1,1
 cv,smotenc,3,26129,Male,1,1
 cv,smotenc,3,26133,Male,0,0
-cv,smotenc,3,26140,Male,0,1
+cv,smotenc,3,26140,Male,0,0
 cv,smotenc,3,26146,Male,0,0
 cv,smotenc,3,26147,Male,0,1
 cv,smotenc,3,26148,Male,0,0
@@ -83424,7 +83424,7 @@ cv,smotenc,3,26382,Male,1,1
 cv,smotenc,3,26383,Female,0,0
 cv,smotenc,3,26392,Female,0,0
 cv,smotenc,3,26393,Male,0,0
-cv,smotenc,3,26394,Female,0,0
+cv,smotenc,3,26394,Female,0,1
 cv,smotenc,3,26402,Male,0,0
 cv,smotenc,3,26409,Male,0,1
 cv,smotenc,3,26412,Male,0,0
@@ -83450,7 +83450,7 @@ cv,smotenc,3,26541,Female,1,1
 cv,smotenc,3,26544,Female,0,0
 cv,smotenc,3,26550,Female,0,0
 cv,smotenc,3,26561,Female,0,1
-cv,smotenc,3,26563,Female,0,0
+cv,smotenc,3,26563,Female,0,1
 cv,smotenc,3,26566,Female,0,0
 cv,smotenc,3,26568,Female,0,0
 cv,smotenc,3,26571,Female,0,0
@@ -83646,17 +83646,17 @@ cv,smotenc,3,27526,Female,0,0
 cv,smotenc,3,27529,Male,0,0
 cv,smotenc,3,27534,Male,0,1
 cv,smotenc,3,27542,Female,0,0
-cv,smotenc,3,27544,Female,0,0
+cv,smotenc,3,27544,Female,0,1
 cv,smotenc,3,27549,Female,0,0
 cv,smotenc,3,27551,Male,0,0
 cv,smotenc,3,27552,Female,0,0
 cv,smotenc,3,27563,Female,0,0
-cv,smotenc,3,27565,Male,0,1
+cv,smotenc,3,27565,Male,0,0
 cv,smotenc,3,27567,Male,1,1
 cv,smotenc,3,27568,Male,0,0
 cv,smotenc,3,27570,Female,0,0
 cv,smotenc,3,27572,Male,0,1
-cv,smotenc,3,27579,Female,0,1
+cv,smotenc,3,27579,Female,0,0
 cv,smotenc,3,27581,Male,0,1
 cv,smotenc,3,27591,Female,0,0
 cv,smotenc,3,27593,Male,1,0
@@ -83688,7 +83688,7 @@ cv,smotenc,3,27694,Male,0,0
 cv,smotenc,3,27700,Female,0,0
 cv,smotenc,3,27711,Female,0,0
 cv,smotenc,3,27715,Male,0,0
-cv,smotenc,3,27717,Male,0,0
+cv,smotenc,3,27717,Male,0,1
 cv,smotenc,3,27719,Male,0,0
 cv,smotenc,3,27729,Female,0,1
 cv,smotenc,3,27733,Male,0,0
@@ -83799,7 +83799,7 @@ cv,smotenc,3,28336,Female,0,0
 cv,smotenc,3,28343,Male,0,1
 cv,smotenc,3,28345,Female,0,0
 cv,smotenc,3,28348,Male,1,1
-cv,smotenc,3,28358,Male,0,0
+cv,smotenc,3,28358,Male,0,1
 cv,smotenc,3,28364,Male,0,1
 cv,smotenc,3,28366,Male,1,0
 cv,smotenc,3,28367,Female,0,1
@@ -83866,7 +83866,7 @@ cv,smotenc,3,28635,Female,0,0
 cv,smotenc,3,28637,Male,0,0
 cv,smotenc,3,28640,Male,0,1
 cv,smotenc,3,28644,Female,0,0
-cv,smotenc,3,28648,Female,0,1
+cv,smotenc,3,28648,Female,0,0
 cv,smotenc,3,28652,Male,1,1
 cv,smotenc,3,28653,Female,0,0
 cv,smotenc,3,28657,Male,0,0
@@ -83885,7 +83885,7 @@ cv,smotenc,3,28698,Male,1,1
 cv,smotenc,3,28713,Male,0,0
 cv,smotenc,3,28719,Female,0,0
 cv,smotenc,3,28720,Male,1,0
-cv,smotenc,3,28730,Male,1,1
+cv,smotenc,3,28730,Male,1,0
 cv,smotenc,3,28732,Female,1,1
 cv,smotenc,3,28735,Male,1,1
 cv,smotenc,3,28736,Female,0,0
@@ -83955,7 +83955,7 @@ cv,smotenc,3,29032,Male,1,1
 cv,smotenc,3,29043,Male,0,0
 cv,smotenc,3,29047,Male,0,0
 cv,smotenc,3,29052,Male,0,1
-cv,smotenc,3,29055,Male,1,1
+cv,smotenc,3,29055,Male,1,0
 cv,smotenc,3,29059,Male,0,1
 cv,smotenc,3,29064,Female,0,0
 cv,smotenc,3,29068,Female,0,0
@@ -83980,7 +83980,7 @@ cv,smotenc,3,29157,Male,1,1
 cv,smotenc,3,29177,Male,0,1
 cv,smotenc,3,29178,Male,0,0
 cv,smotenc,3,29182,Male,1,1
-cv,smotenc,3,29188,Female,1,1
+cv,smotenc,3,29188,Female,1,0
 cv,smotenc,3,29191,Female,0,0
 cv,smotenc,3,29194,Female,0,1
 cv,smotenc,3,29199,Male,0,0
@@ -84091,7 +84091,7 @@ cv,smotenc,3,29776,Male,0,1
 cv,smotenc,3,29784,Male,1,1
 cv,smotenc,3,29795,Female,0,0
 cv,smotenc,3,29799,Male,0,1
-cv,smotenc,3,29800,Male,1,1
+cv,smotenc,3,29800,Male,1,0
 cv,smotenc,3,29801,Female,0,0
 cv,smotenc,3,29805,Male,0,1
 cv,smotenc,3,29806,Male,1,1
@@ -84115,7 +84115,7 @@ cv,smotenc,3,29875,Female,0,0
 cv,smotenc,3,29879,Female,0,1
 cv,smotenc,3,29881,Male,0,1
 cv,smotenc,3,29883,Female,1,1
-cv,smotenc,3,29889,Female,1,0
+cv,smotenc,3,29889,Female,1,1
 cv,smotenc,3,29890,Male,0,0
 cv,smotenc,3,29897,Male,0,0
 cv,smotenc,3,29901,Male,1,1
@@ -84161,7 +84161,7 @@ cv,smotenc,3,30099,Male,1,1
 cv,smotenc,3,30108,Male,0,0
 cv,smotenc,3,30111,Male,1,1
 cv,smotenc,3,30118,Male,1,1
-cv,smotenc,3,30120,Female,0,1
+cv,smotenc,3,30120,Female,0,0
 cv,smotenc,3,30123,Male,1,1
 cv,smotenc,3,30124,Male,0,0
 cv,smotenc,3,30125,Female,0,0
@@ -84199,7 +84199,7 @@ cv,smotenc,3,30264,Male,0,1
 cv,smotenc,3,30270,Male,0,0
 cv,smotenc,3,30276,Female,0,0
 cv,smotenc,3,30277,Female,1,1
-cv,smotenc,3,30281,Male,0,1
+cv,smotenc,3,30281,Male,0,0
 cv,smotenc,3,30284,Male,1,1
 cv,smotenc,3,30293,Female,0,0
 cv,smotenc,3,30295,Male,0,1
@@ -84377,7 +84377,7 @@ cv,smotenc,3,31117,Male,0,0
 cv,smotenc,3,31121,Male,0,0
 cv,smotenc,3,31125,Male,1,1
 cv,smotenc,3,31129,Female,0,0
-cv,smotenc,3,31137,Male,0,1
+cv,smotenc,3,31137,Male,0,0
 cv,smotenc,3,31141,Female,0,0
 cv,smotenc,3,31144,Male,0,1
 cv,smotenc,3,31146,Male,0,1
@@ -84398,7 +84398,7 @@ cv,smotenc,3,31204,Male,1,1
 cv,smotenc,3,31206,Male,1,1
 cv,smotenc,3,31207,Male,1,1
 cv,smotenc,3,31209,Male,0,0
-cv,smotenc,3,31215,Female,0,0
+cv,smotenc,3,31215,Female,0,1
 cv,smotenc,3,31217,Male,0,1
 cv,smotenc,3,31231,Male,1,1
 cv,smotenc,3,31232,Male,1,1
@@ -84457,7 +84457,7 @@ cv,smotenc,3,31481,Male,1,1
 cv,smotenc,3,31493,Male,0,0
 cv,smotenc,3,31494,Female,0,0
 cv,smotenc,3,31499,Male,0,0
-cv,smotenc,3,31514,Female,0,0
+cv,smotenc,3,31514,Female,0,1
 cv,smotenc,3,31516,Male,1,1
 cv,smotenc,3,31522,Female,0,0
 cv,smotenc,3,31542,Male,1,1
@@ -84542,7 +84542,7 @@ cv,smotenc,3,31982,Male,0,1
 cv,smotenc,3,31983,Male,0,1
 cv,smotenc,3,31984,Female,0,0
 cv,smotenc,3,31986,Male,1,1
-cv,smotenc,3,31991,Male,0,0
+cv,smotenc,3,31991,Male,0,1
 cv,smotenc,3,31992,Male,1,1
 cv,smotenc,3,31996,Male,1,1
 cv,smotenc,3,31998,Female,1,0
@@ -84576,7 +84576,7 @@ cv,smotenc,3,32154,Male,0,1
 cv,smotenc,3,32155,Male,0,0
 cv,smotenc,3,32169,Male,0,0
 cv,smotenc,3,32170,Male,0,0
-cv,smotenc,3,32174,Male,0,1
+cv,smotenc,3,32174,Male,0,0
 cv,smotenc,3,32176,Male,0,1
 cv,smotenc,3,32178,Female,0,0
 cv,smotenc,3,32185,Male,1,1
@@ -84636,7 +84636,7 @@ cv,smotenc,3,32442,Male,0,0
 cv,smotenc,3,32456,Male,0,0
 cv,smotenc,3,32461,Female,0,0
 cv,smotenc,3,32464,Male,1,1
-cv,smotenc,3,32465,Female,0,1
+cv,smotenc,3,32465,Female,0,0
 cv,smotenc,3,32466,Male,1,1
 cv,smotenc,3,32478,Male,0,0
 cv,smotenc,3,32483,Female,0,0
@@ -84648,7 +84648,7 @@ cv,smotenc,3,32503,Male,0,1
 cv,smotenc,3,32506,Male,1,1
 cv,smotenc,3,32509,Female,0,0
 cv,smotenc,3,32515,Male,0,0
-cv,smotenc,3,32531,Female,0,1
+cv,smotenc,3,32531,Female,0,0
 cv,smotenc,3,32532,Male,1,1
 cv,smotenc,3,32533,Male,1,1
 cv,smotenc,3,32536,Female,1,1
@@ -84817,7 +84817,7 @@ cv,smotenc,4,800,Male,0,0
 cv,smotenc,4,803,Female,0,0
 cv,smotenc,4,808,Male,1,1
 cv,smotenc,4,813,Male,0,0
-cv,smotenc,4,816,Female,0,0
+cv,smotenc,4,816,Female,0,1
 cv,smotenc,4,817,Male,1,1
 cv,smotenc,4,825,Male,1,0
 cv,smotenc,4,831,Female,1,1
@@ -84831,13 +84831,13 @@ cv,smotenc,4,865,Female,0,0
 cv,smotenc,4,878,Male,1,1
 cv,smotenc,4,880,Female,0,0
 cv,smotenc,4,883,Male,1,1
-cv,smotenc,4,889,Female,0,0
+cv,smotenc,4,889,Female,0,1
 cv,smotenc,4,890,Female,0,0
 cv,smotenc,4,896,Male,0,0
 cv,smotenc,4,905,Female,0,0
 cv,smotenc,4,921,Male,0,0
 cv,smotenc,4,925,Male,0,1
-cv,smotenc,4,936,Female,0,0
+cv,smotenc,4,936,Female,0,1
 cv,smotenc,4,941,Male,0,1
 cv,smotenc,4,943,Female,0,0
 cv,smotenc,4,944,Male,0,0
@@ -84866,7 +84866,7 @@ cv,smotenc,4,1045,Male,0,0
 cv,smotenc,4,1050,Male,0,1
 cv,smotenc,4,1060,Male,0,1
 cv,smotenc,4,1062,Male,0,1
-cv,smotenc,4,1069,Female,0,1
+cv,smotenc,4,1069,Female,0,0
 cv,smotenc,4,1079,Female,1,1
 cv,smotenc,4,1081,Female,0,0
 cv,smotenc,4,1082,Male,0,1
@@ -85010,7 +85010,7 @@ cv,smotenc,4,1797,Male,0,0
 cv,smotenc,4,1810,Male,0,1
 cv,smotenc,4,1813,Female,0,0
 cv,smotenc,4,1827,Female,0,0
-cv,smotenc,4,1833,Female,0,1
+cv,smotenc,4,1833,Female,0,0
 cv,smotenc,4,1835,Female,0,0
 cv,smotenc,4,1845,Male,0,0
 cv,smotenc,4,1851,Male,0,1
@@ -85246,10 +85246,10 @@ cv,smotenc,4,2992,Female,0,0
 cv,smotenc,4,2993,Female,0,0
 cv,smotenc,4,2996,Male,0,1
 cv,smotenc,4,2997,Female,0,0
-cv,smotenc,4,3006,Female,0,1
+cv,smotenc,4,3006,Female,0,0
 cv,smotenc,4,3009,Male,0,1
 cv,smotenc,4,3011,Male,1,1
-cv,smotenc,4,3013,Female,1,1
+cv,smotenc,4,3013,Female,1,0
 cv,smotenc,4,3019,Female,0,1
 cv,smotenc,4,3020,Male,1,1
 cv,smotenc,4,3022,Male,1,1
@@ -85419,7 +85419,7 @@ cv,smotenc,4,3858,Female,0,0
 cv,smotenc,4,3860,Male,1,1
 cv,smotenc,4,3888,Male,0,0
 cv,smotenc,4,3894,Male,1,1
-cv,smotenc,4,3905,Male,0,1
+cv,smotenc,4,3905,Male,0,0
 cv,smotenc,4,3906,Male,0,1
 cv,smotenc,4,3907,Male,0,0
 cv,smotenc,4,3916,Male,0,0
@@ -85524,10 +85524,10 @@ cv,smotenc,4,4419,Male,0,1
 cv,smotenc,4,4426,Male,0,0
 cv,smotenc,4,4428,Male,0,1
 cv,smotenc,4,4431,Female,0,0
-cv,smotenc,4,4434,Male,0,1
+cv,smotenc,4,4434,Male,0,0
 cv,smotenc,4,4447,Female,0,0
 cv,smotenc,4,4448,Male,0,0
-cv,smotenc,4,4459,Male,0,1
+cv,smotenc,4,4459,Male,0,0
 cv,smotenc,4,4462,Male,0,0
 cv,smotenc,4,4469,Male,0,0
 cv,smotenc,4,4470,Male,1,0
@@ -86279,7 +86279,7 @@ cv,smotenc,4,8212,Female,0,0
 cv,smotenc,4,8213,Male,1,1
 cv,smotenc,4,8221,Female,0,0
 cv,smotenc,4,8226,Male,1,1
-cv,smotenc,4,8229,Male,0,1
+cv,smotenc,4,8229,Male,0,0
 cv,smotenc,4,8230,Male,0,1
 cv,smotenc,4,8233,Female,0,0
 cv,smotenc,4,8238,Male,0,0
@@ -86438,7 +86438,7 @@ cv,smotenc,4,8978,Male,0,0
 cv,smotenc,4,8980,Male,0,0
 cv,smotenc,4,8985,Female,0,0
 cv,smotenc,4,8996,Male,0,0
-cv,smotenc,4,9000,Male,0,1
+cv,smotenc,4,9000,Male,0,0
 cv,smotenc,4,9022,Male,1,1
 cv,smotenc,4,9026,Male,1,1
 cv,smotenc,4,9027,Male,0,1
@@ -86530,7 +86530,7 @@ cv,smotenc,4,9418,Male,1,1
 cv,smotenc,4,9419,Female,0,1
 cv,smotenc,4,9421,Female,0,0
 cv,smotenc,4,9432,Male,0,0
-cv,smotenc,4,9434,Female,0,1
+cv,smotenc,4,9434,Female,0,0
 cv,smotenc,4,9437,Male,0,1
 cv,smotenc,4,9442,Male,0,1
 cv,smotenc,4,9444,Male,0,0
@@ -86619,7 +86619,7 @@ cv,smotenc,4,9860,Female,0,0
 cv,smotenc,4,9872,Female,0,0
 cv,smotenc,4,9874,Female,1,0
 cv,smotenc,4,9878,Male,0,0
-cv,smotenc,4,9882,Female,0,1
+cv,smotenc,4,9882,Female,0,0
 cv,smotenc,4,9885,Male,0,1
 cv,smotenc,4,9890,Male,1,1
 cv,smotenc,4,9895,Male,0,0
@@ -86711,7 +86711,7 @@ cv,smotenc,4,10251,Female,0,0
 cv,smotenc,4,10255,Male,1,1
 cv,smotenc,4,10257,Female,0,0
 cv,smotenc,4,10259,Male,0,0
-cv,smotenc,4,10261,Female,0,1
+cv,smotenc,4,10261,Female,0,0
 cv,smotenc,4,10268,Male,1,1
 cv,smotenc,4,10269,Male,1,1
 cv,smotenc,4,10277,Male,0,0
@@ -86764,7 +86764,7 @@ cv,smotenc,4,10484,Female,0,0
 cv,smotenc,4,10491,Male,0,0
 cv,smotenc,4,10494,Male,1,1
 cv,smotenc,4,10498,Male,0,0
-cv,smotenc,4,10499,Male,1,1
+cv,smotenc,4,10499,Male,1,0
 cv,smotenc,4,10502,Female,1,1
 cv,smotenc,4,10521,Male,0,1
 cv,smotenc,4,10524,Female,1,0
@@ -86775,7 +86775,7 @@ cv,smotenc,4,10540,Male,1,1
 cv,smotenc,4,10546,Male,0,0
 cv,smotenc,4,10562,Male,0,1
 cv,smotenc,4,10571,Female,0,0
-cv,smotenc,4,10575,Female,0,0
+cv,smotenc,4,10575,Female,0,1
 cv,smotenc,4,10588,Male,0,0
 cv,smotenc,4,10590,Male,1,1
 cv,smotenc,4,10592,Female,0,0
@@ -86802,7 +86802,7 @@ cv,smotenc,4,10691,Male,1,1
 cv,smotenc,4,10692,Female,1,1
 cv,smotenc,4,10694,Male,0,0
 cv,smotenc,4,10704,Male,0,0
-cv,smotenc,4,10708,Female,1,1
+cv,smotenc,4,10708,Female,1,0
 cv,smotenc,4,10710,Female,0,0
 cv,smotenc,4,10722,Male,0,1
 cv,smotenc,4,10729,Male,1,1
@@ -86923,7 +86923,7 @@ cv,smotenc,4,11405,Male,0,0
 cv,smotenc,4,11409,Male,1,1
 cv,smotenc,4,11425,Male,0,0
 cv,smotenc,4,11431,Female,0,1
-cv,smotenc,4,11432,Male,0,0
+cv,smotenc,4,11432,Male,0,1
 cv,smotenc,4,11442,Female,0,0
 cv,smotenc,4,11445,Male,0,1
 cv,smotenc,4,11448,Male,0,0
@@ -87128,7 +87128,7 @@ cv,smotenc,4,12406,Male,0,1
 cv,smotenc,4,12407,Male,0,0
 cv,smotenc,4,12410,Female,0,0
 cv,smotenc,4,12411,Male,0,0
-cv,smotenc,4,12412,Male,1,1
+cv,smotenc,4,12412,Male,1,0
 cv,smotenc,4,12415,Male,0,0
 cv,smotenc,4,12416,Male,1,0
 cv,smotenc,4,12435,Male,1,1
@@ -87275,7 +87275,7 @@ cv,smotenc,4,13152,Female,0,0
 cv,smotenc,4,13153,Female,0,0
 cv,smotenc,4,13154,Male,0,1
 cv,smotenc,4,13167,Male,0,0
-cv,smotenc,4,13172,Male,0,1
+cv,smotenc,4,13172,Male,0,0
 cv,smotenc,4,13180,Male,0,1
 cv,smotenc,4,13190,Male,0,1
 cv,smotenc,4,13196,Female,0,0
@@ -87789,7 +87789,7 @@ cv,smotenc,4,15763,Male,0,0
 cv,smotenc,4,15766,Male,0,0
 cv,smotenc,4,15777,Male,1,1
 cv,smotenc,4,15782,Female,0,0
-cv,smotenc,4,15783,Female,1,0
+cv,smotenc,4,15783,Female,1,1
 cv,smotenc,4,15786,Male,0,1
 cv,smotenc,4,15792,Male,0,0
 cv,smotenc,4,15801,Male,0,1
@@ -87814,7 +87814,7 @@ cv,smotenc,4,15909,Male,1,1
 cv,smotenc,4,15915,Female,1,1
 cv,smotenc,4,15929,Male,0,0
 cv,smotenc,4,15932,Male,1,1
-cv,smotenc,4,15940,Female,1,1
+cv,smotenc,4,15940,Female,1,0
 cv,smotenc,4,15941,Male,0,1
 cv,smotenc,4,15942,Male,0,0
 cv,smotenc,4,15943,Male,0,0
@@ -87909,7 +87909,7 @@ cv,smotenc,4,16425,Female,0,0
 cv,smotenc,4,16427,Male,0,0
 cv,smotenc,4,16433,Male,0,1
 cv,smotenc,4,16436,Male,0,0
-cv,smotenc,4,16443,Female,0,1
+cv,smotenc,4,16443,Female,0,0
 cv,smotenc,4,16453,Female,0,1
 cv,smotenc,4,16463,Male,0,0
 cv,smotenc,4,16465,Male,0,0
@@ -88058,7 +88058,7 @@ cv,smotenc,4,17188,Male,0,0
 cv,smotenc,4,17190,Female,0,0
 cv,smotenc,4,17199,Male,0,0
 cv,smotenc,4,17200,Male,1,1
-cv,smotenc,4,17201,Female,0,0
+cv,smotenc,4,17201,Female,0,1
 cv,smotenc,4,17207,Male,1,1
 cv,smotenc,4,17208,Male,0,1
 cv,smotenc,4,17211,Female,0,0
@@ -88257,7 +88257,7 @@ cv,smotenc,4,18161,Male,0,0
 cv,smotenc,4,18164,Female,0,1
 cv,smotenc,4,18171,Male,0,0
 cv,smotenc,4,18177,Male,0,0
-cv,smotenc,4,18182,Female,0,0
+cv,smotenc,4,18182,Female,0,1
 cv,smotenc,4,18183,Male,1,1
 cv,smotenc,4,18184,Female,0,0
 cv,smotenc,4,18185,Male,0,0
@@ -88289,7 +88289,7 @@ cv,smotenc,4,18306,Female,0,0
 cv,smotenc,4,18310,Male,0,0
 cv,smotenc,4,18315,Female,1,1
 cv,smotenc,4,18325,Female,0,0
-cv,smotenc,4,18328,Male,1,1
+cv,smotenc,4,18328,Male,1,0
 cv,smotenc,4,18332,Male,1,1
 cv,smotenc,4,18341,Male,1,1
 cv,smotenc,4,18343,Male,0,0
@@ -88311,7 +88311,7 @@ cv,smotenc,4,18395,Female,0,1
 cv,smotenc,4,18401,Female,1,1
 cv,smotenc,4,18404,Male,0,0
 cv,smotenc,4,18406,Male,0,1
-cv,smotenc,4,18413,Female,0,0
+cv,smotenc,4,18413,Female,0,1
 cv,smotenc,4,18417,Female,0,0
 cv,smotenc,4,18451,Male,0,0
 cv,smotenc,4,18457,Male,1,1
@@ -88493,7 +88493,7 @@ cv,smotenc,4,19336,Female,0,0
 cv,smotenc,4,19339,Male,0,0
 cv,smotenc,4,19344,Female,0,0
 cv,smotenc,4,19349,Male,0,1
-cv,smotenc,4,19358,Female,0,1
+cv,smotenc,4,19358,Female,0,0
 cv,smotenc,4,19362,Male,0,0
 cv,smotenc,4,19370,Male,1,1
 cv,smotenc,4,19372,Male,0,0
@@ -88658,7 +88658,7 @@ cv,smotenc,4,20170,Male,1,1
 cv,smotenc,4,20174,Male,0,0
 cv,smotenc,4,20182,Male,0,0
 cv,smotenc,4,20187,Female,0,0
-cv,smotenc,4,20188,Female,0,0
+cv,smotenc,4,20188,Female,0,1
 cv,smotenc,4,20200,Male,1,1
 cv,smotenc,4,20203,Male,0,0
 cv,smotenc,4,20206,Male,0,0
@@ -88682,7 +88682,7 @@ cv,smotenc,4,20282,Male,0,1
 cv,smotenc,4,20283,Male,1,1
 cv,smotenc,4,20286,Male,0,0
 cv,smotenc,4,20288,Female,1,1
-cv,smotenc,4,20297,Female,1,0
+cv,smotenc,4,20297,Female,1,1
 cv,smotenc,4,20313,Male,0,0
 cv,smotenc,4,20318,Male,0,1
 cv,smotenc,4,20320,Male,0,0
@@ -88931,7 +88931,7 @@ cv,smotenc,4,21452,Male,0,0
 cv,smotenc,4,21456,Female,1,0
 cv,smotenc,4,21461,Female,0,0
 cv,smotenc,4,21466,Female,0,0
-cv,smotenc,4,21473,Male,1,0
+cv,smotenc,4,21473,Male,1,1
 cv,smotenc,4,21475,Female,1,0
 cv,smotenc,4,21476,Female,1,1
 cv,smotenc,4,21505,Male,1,1
@@ -89203,7 +89203,7 @@ cv,smotenc,4,22962,Male,0,1
 cv,smotenc,4,22972,Male,0,1
 cv,smotenc,4,22973,Male,0,0
 cv,smotenc,4,22979,Male,0,0
-cv,smotenc,4,22981,Female,0,1
+cv,smotenc,4,22981,Female,0,0
 cv,smotenc,4,22986,Female,0,0
 cv,smotenc,4,23000,Female,0,0
 cv,smotenc,4,23003,Male,0,0
@@ -89293,7 +89293,7 @@ cv,smotenc,4,23413,Female,0,0
 cv,smotenc,4,23414,Female,0,0
 cv,smotenc,4,23415,Female,0,0
 cv,smotenc,4,23416,Male,1,0
-cv,smotenc,4,23424,Female,0,1
+cv,smotenc,4,23424,Female,0,0
 cv,smotenc,4,23435,Female,0,0
 cv,smotenc,4,23439,Male,1,1
 cv,smotenc,4,23440,Male,0,0
@@ -89340,7 +89340,7 @@ cv,smotenc,4,23651,Male,1,1
 cv,smotenc,4,23663,Male,0,1
 cv,smotenc,4,23666,Female,0,0
 cv,smotenc,4,23668,Male,0,1
-cv,smotenc,4,23673,Male,0,1
+cv,smotenc,4,23673,Male,0,0
 cv,smotenc,4,23679,Male,0,0
 cv,smotenc,4,23682,Female,1,1
 cv,smotenc,4,23683,Female,0,1
@@ -89409,7 +89409,7 @@ cv,smotenc,4,23983,Male,1,1
 cv,smotenc,4,23986,Male,1,1
 cv,smotenc,4,23990,Female,1,0
 cv,smotenc,4,23992,Female,0,1
-cv,smotenc,4,23994,Male,1,1
+cv,smotenc,4,23994,Male,1,0
 cv,smotenc,4,24001,Male,0,0
 cv,smotenc,4,24007,Male,1,1
 cv,smotenc,4,24016,Male,0,0
@@ -89630,7 +89630,7 @@ cv,smotenc,4,25055,Male,1,1
 cv,smotenc,4,25062,Male,0,1
 cv,smotenc,4,25064,Male,0,1
 cv,smotenc,4,25065,Male,1,1
-cv,smotenc,4,25075,Female,0,0
+cv,smotenc,4,25075,Female,0,1
 cv,smotenc,4,25077,Male,0,0
 cv,smotenc,4,25078,Female,0,0
 cv,smotenc,4,25085,Male,0,1
@@ -89671,7 +89671,7 @@ cv,smotenc,4,25231,Female,0,0
 cv,smotenc,4,25236,Female,1,0
 cv,smotenc,4,25270,Female,0,0
 cv,smotenc,4,25272,Female,0,1
-cv,smotenc,4,25275,Male,1,1
+cv,smotenc,4,25275,Male,1,0
 cv,smotenc,4,25280,Male,1,0
 cv,smotenc,4,25281,Male,1,1
 cv,smotenc,4,25288,Male,1,1
@@ -89742,7 +89742,7 @@ cv,smotenc,4,25600,Female,0,0
 cv,smotenc,4,25610,Male,1,1
 cv,smotenc,4,25616,Female,0,0
 cv,smotenc,4,25624,Male,0,1
-cv,smotenc,4,25627,Male,1,1
+cv,smotenc,4,25627,Male,1,0
 cv,smotenc,4,25639,Male,0,1
 cv,smotenc,4,25641,Male,1,1
 cv,smotenc,4,25642,Female,0,0
@@ -89774,7 +89774,7 @@ cv,smotenc,4,25763,Male,0,0
 cv,smotenc,4,25773,Male,0,0
 cv,smotenc,4,25777,Male,1,1
 cv,smotenc,4,25782,Male,1,1
-cv,smotenc,4,25786,Male,0,1
+cv,smotenc,4,25786,Male,0,0
 cv,smotenc,4,25788,Female,0,0
 cv,smotenc,4,25791,Male,0,0
 cv,smotenc,4,25801,Male,0,1
@@ -89978,7 +89978,7 @@ cv,smotenc,4,26723,Female,0,1
 cv,smotenc,4,26728,Male,0,0
 cv,smotenc,4,26729,Male,1,1
 cv,smotenc,4,26730,Male,0,1
-cv,smotenc,4,26749,Female,0,0
+cv,smotenc,4,26749,Female,0,1
 cv,smotenc,4,26752,Male,1,1
 cv,smotenc,4,26763,Male,0,1
 cv,smotenc,4,26764,Male,0,0
@@ -90099,7 +90099,7 @@ cv,smotenc,4,27243,Male,0,0
 cv,smotenc,4,27245,Female,1,1
 cv,smotenc,4,27248,Male,0,0
 cv,smotenc,4,27252,Male,0,1
-cv,smotenc,4,27255,Male,0,1
+cv,smotenc,4,27255,Male,0,0
 cv,smotenc,4,27263,Female,0,0
 cv,smotenc,4,27266,Male,0,1
 cv,smotenc,4,27268,Male,0,0
@@ -90193,7 +90193,7 @@ cv,smotenc,4,27675,Female,0,0
 cv,smotenc,4,27682,Female,0,0
 cv,smotenc,4,27689,Male,0,1
 cv,smotenc,4,27698,Male,0,0
-cv,smotenc,4,27701,Female,0,1
+cv,smotenc,4,27701,Female,0,0
 cv,smotenc,4,27703,Male,0,0
 cv,smotenc,4,27704,Male,0,1
 cv,smotenc,4,27718,Male,0,1
@@ -90310,7 +90310,7 @@ cv,smotenc,4,28222,Female,0,0
 cv,smotenc,4,28224,Male,1,1
 cv,smotenc,4,28226,Male,0,1
 cv,smotenc,4,28235,Female,0,0
-cv,smotenc,4,28238,Female,0,0
+cv,smotenc,4,28238,Female,0,1
 cv,smotenc,4,28240,Female,0,1
 cv,smotenc,4,28242,Female,0,0
 cv,smotenc,4,28250,Male,0,1
@@ -90373,7 +90373,7 @@ cv,smotenc,4,28523,Male,1,1
 cv,smotenc,4,28533,Female,0,1
 cv,smotenc,4,28540,Female,0,0
 cv,smotenc,4,28545,Male,1,1
-cv,smotenc,4,28548,Female,0,1
+cv,smotenc,4,28548,Female,0,0
 cv,smotenc,4,28552,Female,0,0
 cv,smotenc,4,28568,Male,0,0
 cv,smotenc,4,28576,Female,0,0
@@ -90473,7 +90473,7 @@ cv,smotenc,4,29175,Male,0,0
 cv,smotenc,4,29183,Male,1,1
 cv,smotenc,4,29185,Female,1,0
 cv,smotenc,4,29186,Female,0,0
-cv,smotenc,4,29189,Male,0,0
+cv,smotenc,4,29189,Male,0,1
 cv,smotenc,4,29190,Male,0,0
 cv,smotenc,4,29195,Female,0,0
 cv,smotenc,4,29196,Female,0,0
@@ -90562,7 +90562,7 @@ cv,smotenc,4,29526,Male,1,1
 cv,smotenc,4,29528,Male,0,0
 cv,smotenc,4,29529,Female,0,0
 cv,smotenc,4,29533,Male,0,0
-cv,smotenc,4,29534,Female,0,1
+cv,smotenc,4,29534,Female,0,0
 cv,smotenc,4,29548,Male,1,1
 cv,smotenc,4,29549,Male,1,0
 cv,smotenc,4,29552,Male,0,1
@@ -90632,7 +90632,7 @@ cv,smotenc,4,29844,Female,0,0
 cv,smotenc,4,29845,Male,0,1
 cv,smotenc,4,29847,Male,1,1
 cv,smotenc,4,29852,Male,1,1
-cv,smotenc,4,29862,Female,0,1
+cv,smotenc,4,29862,Female,0,0
 cv,smotenc,4,29866,Female,0,0
 cv,smotenc,4,29868,Male,0,0
 cv,smotenc,4,29874,Male,0,1
@@ -90652,7 +90652,7 @@ cv,smotenc,4,29919,Male,1,0
 cv,smotenc,4,29924,Male,0,1
 cv,smotenc,4,29925,Male,0,1
 cv,smotenc,4,29926,Male,0,1
-cv,smotenc,4,29948,Female,0,1
+cv,smotenc,4,29948,Female,0,0
 cv,smotenc,4,29950,Male,0,0
 cv,smotenc,4,29959,Male,0,1
 cv,smotenc,4,29960,Male,0,1
@@ -90732,7 +90732,7 @@ cv,smotenc,4,30353,Male,0,1
 cv,smotenc,4,30359,Male,0,0
 cv,smotenc,4,30367,Male,0,0
 cv,smotenc,4,30371,Male,0,0
-cv,smotenc,4,30374,Male,0,1
+cv,smotenc,4,30374,Male,0,0
 cv,smotenc,4,30400,Male,0,1
 cv,smotenc,4,30404,Female,1,1
 cv,smotenc,4,30408,Female,0,0
@@ -90920,7 +90920,7 @@ cv,smotenc,4,31291,Female,0,1
 cv,smotenc,4,31295,Female,1,1
 cv,smotenc,4,31301,Male,1,1
 cv,smotenc,4,31305,Female,0,0
-cv,smotenc,4,31309,Female,0,1
+cv,smotenc,4,31309,Female,0,0
 cv,smotenc,4,31312,Male,0,1
 cv,smotenc,4,31313,Female,0,0
 cv,smotenc,4,31315,Female,0,0
@@ -91050,7 +91050,7 @@ cv,smotenc,4,31880,Male,0,0
 cv,smotenc,4,31885,Male,0,0
 cv,smotenc,4,31886,Female,0,1
 cv,smotenc,4,31889,Male,0,1
-cv,smotenc,4,31893,Female,0,0
+cv,smotenc,4,31893,Female,0,1
 cv,smotenc,4,31903,Male,1,1
 cv,smotenc,4,31906,Female,1,1
 cv,smotenc,4,31907,Male,1,1
@@ -91307,7 +91307,7 @@ cv,smotenc,5,610,Female,0,1
 cv,smotenc,5,614,Female,0,0
 cv,smotenc,5,615,Male,0,0
 cv,smotenc,5,617,Male,0,0
-cv,smotenc,5,633,Female,1,0
+cv,smotenc,5,633,Female,1,1
 cv,smotenc,5,636,Male,0,0
 cv,smotenc,5,641,Male,0,1
 cv,smotenc,5,646,Female,0,0
@@ -91471,7 +91471,7 @@ cv,smotenc,5,1493,Male,1,1
 cv,smotenc,5,1498,Male,1,1
 cv,smotenc,5,1514,Male,1,1
 cv,smotenc,5,1516,Male,1,1
-cv,smotenc,5,1522,Female,0,0
+cv,smotenc,5,1522,Female,0,1
 cv,smotenc,5,1530,Male,0,1
 cv,smotenc,5,1532,Female,1,1
 cv,smotenc,5,1536,Male,0,0
@@ -91527,7 +91527,7 @@ cv,smotenc,5,1787,Male,1,1
 cv,smotenc,5,1799,Female,0,0
 cv,smotenc,5,1800,Male,0,1
 cv,smotenc,5,1801,Female,0,0
-cv,smotenc,5,1805,Male,0,0
+cv,smotenc,5,1805,Male,0,1
 cv,smotenc,5,1807,Male,0,0
 cv,smotenc,5,1812,Male,1,1
 cv,smotenc,5,1815,Male,0,0
@@ -91579,7 +91579,7 @@ cv,smotenc,5,2090,Male,1,1
 cv,smotenc,5,2095,Male,1,1
 cv,smotenc,5,2114,Male,0,0
 cv,smotenc,5,2116,Male,0,0
-cv,smotenc,5,2118,Female,0,0
+cv,smotenc,5,2118,Female,0,1
 cv,smotenc,5,2126,Female,0,0
 cv,smotenc,5,2133,Female,0,0
 cv,smotenc,5,2134,Male,0,1
@@ -91706,7 +91706,7 @@ cv,smotenc,5,2795,Female,0,0
 cv,smotenc,5,2796,Male,1,1
 cv,smotenc,5,2798,Male,0,0
 cv,smotenc,5,2799,Male,0,1
-cv,smotenc,5,2804,Female,0,1
+cv,smotenc,5,2804,Female,0,0
 cv,smotenc,5,2807,Female,0,0
 cv,smotenc,5,2810,Male,0,1
 cv,smotenc,5,2817,Male,1,0
@@ -91803,7 +91803,7 @@ cv,smotenc,5,3232,Male,0,0
 cv,smotenc,5,3235,Male,0,0
 cv,smotenc,5,3242,Male,0,0
 cv,smotenc,5,3250,Male,0,0
-cv,smotenc,5,3259,Female,0,1
+cv,smotenc,5,3259,Female,0,0
 cv,smotenc,5,3268,Male,1,1
 cv,smotenc,5,3270,Female,0,0
 cv,smotenc,5,3271,Male,1,1
@@ -92077,7 +92077,7 @@ cv,smotenc,5,4555,Male,1,1
 cv,smotenc,5,4558,Male,0,1
 cv,smotenc,5,4563,Male,0,0
 cv,smotenc,5,4571,Male,1,1
-cv,smotenc,5,4575,Female,1,0
+cv,smotenc,5,4575,Female,1,1
 cv,smotenc,5,4576,Female,0,0
 cv,smotenc,5,4583,Female,0,0
 cv,smotenc,5,4592,Female,1,1
@@ -92086,7 +92086,7 @@ cv,smotenc,5,4615,Male,0,0
 cv,smotenc,5,4623,Female,0,0
 cv,smotenc,5,4629,Female,1,1
 cv,smotenc,5,4630,Male,0,0
-cv,smotenc,5,4632,Male,1,1
+cv,smotenc,5,4632,Male,1,0
 cv,smotenc,5,4639,Male,1,1
 cv,smotenc,5,4640,Male,0,0
 cv,smotenc,5,4643,Female,0,0
@@ -92115,7 +92115,7 @@ cv,smotenc,5,4754,Female,0,0
 cv,smotenc,5,4756,Male,0,1
 cv,smotenc,5,4760,Female,0,1
 cv,smotenc,5,4761,Male,1,1
-cv,smotenc,5,4764,Male,0,0
+cv,smotenc,5,4764,Male,0,1
 cv,smotenc,5,4766,Male,0,1
 cv,smotenc,5,4768,Male,1,1
 cv,smotenc,5,4772,Female,1,1
@@ -92152,7 +92152,7 @@ cv,smotenc,5,4901,Male,0,0
 cv,smotenc,5,4919,Female,0,0
 cv,smotenc,5,4920,Female,0,1
 cv,smotenc,5,4925,Male,0,0
-cv,smotenc,5,4928,Male,1,0
+cv,smotenc,5,4928,Male,1,1
 cv,smotenc,5,4934,Male,0,0
 cv,smotenc,5,4939,Female,0,0
 cv,smotenc,5,4942,Female,0,0
@@ -92174,7 +92174,7 @@ cv,smotenc,5,5003,Female,0,0
 cv,smotenc,5,5014,Male,1,0
 cv,smotenc,5,5017,Female,0,0
 cv,smotenc,5,5028,Male,0,1
-cv,smotenc,5,5031,Male,1,0
+cv,smotenc,5,5031,Male,1,1
 cv,smotenc,5,5034,Male,0,1
 cv,smotenc,5,5035,Female,0,1
 cv,smotenc,5,5036,Female,0,1
@@ -92250,7 +92250,7 @@ cv,smotenc,5,5398,Male,0,0
 cv,smotenc,5,5402,Female,0,0
 cv,smotenc,5,5404,Male,0,0
 cv,smotenc,5,5407,Female,1,0
-cv,smotenc,5,5411,Female,0,0
+cv,smotenc,5,5411,Female,0,1
 cv,smotenc,5,5414,Male,1,1
 cv,smotenc,5,5416,Male,0,0
 cv,smotenc,5,5417,Male,0,1
@@ -92274,7 +92274,7 @@ cv,smotenc,5,5516,Male,0,0
 cv,smotenc,5,5522,Male,0,0
 cv,smotenc,5,5528,Female,0,0
 cv,smotenc,5,5529,Male,0,1
-cv,smotenc,5,5530,Female,1,0
+cv,smotenc,5,5530,Female,1,1
 cv,smotenc,5,5545,Male,0,0
 cv,smotenc,5,5550,Male,0,0
 cv,smotenc,5,5557,Female,0,0
@@ -92339,7 +92339,7 @@ cv,smotenc,5,5833,Female,0,0
 cv,smotenc,5,5834,Male,0,0
 cv,smotenc,5,5837,Male,0,0
 cv,smotenc,5,5838,Female,0,0
-cv,smotenc,5,5848,Male,1,0
+cv,smotenc,5,5848,Male,1,1
 cv,smotenc,5,5858,Male,0,0
 cv,smotenc,5,5865,Female,0,0
 cv,smotenc,5,5870,Male,0,0
@@ -92420,7 +92420,7 @@ cv,smotenc,5,6196,Male,1,0
 cv,smotenc,5,6208,Male,1,1
 cv,smotenc,5,6209,Male,0,0
 cv,smotenc,5,6218,Male,0,0
-cv,smotenc,5,6228,Female,0,0
+cv,smotenc,5,6228,Female,0,1
 cv,smotenc,5,6229,Female,0,0
 cv,smotenc,5,6235,Female,0,0
 cv,smotenc,5,6236,Male,1,1
@@ -92445,7 +92445,7 @@ cv,smotenc,5,6328,Male,0,0
 cv,smotenc,5,6346,Male,0,0
 cv,smotenc,5,6351,Female,0,0
 cv,smotenc,5,6352,Male,1,1
-cv,smotenc,5,6359,Male,1,1
+cv,smotenc,5,6359,Male,1,0
 cv,smotenc,5,6366,Male,0,0
 cv,smotenc,5,6367,Female,0,0
 cv,smotenc,5,6374,Female,0,0
@@ -92634,7 +92634,7 @@ cv,smotenc,5,7320,Male,0,1
 cv,smotenc,5,7330,Male,0,1
 cv,smotenc,5,7335,Female,0,0
 cv,smotenc,5,7340,Male,0,0
-cv,smotenc,5,7343,Male,1,1
+cv,smotenc,5,7343,Male,1,0
 cv,smotenc,5,7345,Female,0,0
 cv,smotenc,5,7357,Male,0,0
 cv,smotenc,5,7362,Female,1,1
@@ -92697,7 +92697,7 @@ cv,smotenc,5,7612,Male,0,0
 cv,smotenc,5,7614,Male,0,0
 cv,smotenc,5,7615,Female,0,0
 cv,smotenc,5,7627,Female,0,0
-cv,smotenc,5,7634,Female,0,0
+cv,smotenc,5,7634,Female,0,1
 cv,smotenc,5,7635,Male,0,0
 cv,smotenc,5,7641,Male,1,0
 cv,smotenc,5,7643,Male,1,0
@@ -92713,7 +92713,7 @@ cv,smotenc,5,7682,Male,0,0
 cv,smotenc,5,7683,Female,0,0
 cv,smotenc,5,7692,Female,0,0
 cv,smotenc,5,7693,Male,0,0
-cv,smotenc,5,7696,Male,1,1
+cv,smotenc,5,7696,Male,1,0
 cv,smotenc,5,7699,Male,1,1
 cv,smotenc,5,7703,Female,0,0
 cv,smotenc,5,7708,Female,0,1
@@ -92819,7 +92819,7 @@ cv,smotenc,5,8217,Male,0,0
 cv,smotenc,5,8220,Female,0,1
 cv,smotenc,5,8225,Male,1,0
 cv,smotenc,5,8231,Male,0,0
-cv,smotenc,5,8232,Female,0,0
+cv,smotenc,5,8232,Female,0,1
 cv,smotenc,5,8236,Male,0,1
 cv,smotenc,5,8240,Male,0,0
 cv,smotenc,5,8243,Male,1,0
@@ -92875,7 +92875,7 @@ cv,smotenc,5,8456,Female,0,0
 cv,smotenc,5,8459,Male,0,1
 cv,smotenc,5,8460,Male,0,0
 cv,smotenc,5,8462,Male,0,0
-cv,smotenc,5,8464,Female,0,0
+cv,smotenc,5,8464,Female,0,1
 cv,smotenc,5,8471,Male,1,1
 cv,smotenc,5,8473,Male,0,0
 cv,smotenc,5,8474,Male,0,1
@@ -92975,7 +92975,7 @@ cv,smotenc,5,8947,Female,0,0
 cv,smotenc,5,8948,Female,0,0
 cv,smotenc,5,8949,Female,0,0
 cv,smotenc,5,8955,Female,1,1
-cv,smotenc,5,8961,Male,0,0
+cv,smotenc,5,8961,Male,0,1
 cv,smotenc,5,8963,Female,0,0
 cv,smotenc,5,8966,Male,1,1
 cv,smotenc,5,8979,Female,1,1
@@ -93091,7 +93091,7 @@ cv,smotenc,5,9581,Female,0,0
 cv,smotenc,5,9582,Male,1,1
 cv,smotenc,5,9611,Female,0,0
 cv,smotenc,5,9613,Male,1,1
-cv,smotenc,5,9626,Female,0,0
+cv,smotenc,5,9626,Female,0,1
 cv,smotenc,5,9627,Female,0,0
 cv,smotenc,5,9629,Male,1,1
 cv,smotenc,5,9630,Male,0,0
@@ -93112,7 +93112,7 @@ cv,smotenc,5,9738,Female,0,0
 cv,smotenc,5,9742,Male,0,1
 cv,smotenc,5,9745,Female,0,0
 cv,smotenc,5,9750,Male,0,1
-cv,smotenc,5,9751,Male,1,1
+cv,smotenc,5,9751,Male,1,0
 cv,smotenc,5,9755,Male,0,1
 cv,smotenc,5,9760,Male,1,1
 cv,smotenc,5,9771,Male,0,0
@@ -93202,7 +93202,7 @@ cv,smotenc,5,10197,Male,0,1
 cv,smotenc,5,10201,Male,0,0
 cv,smotenc,5,10206,Female,0,0
 cv,smotenc,5,10224,Male,0,0
-cv,smotenc,5,10226,Female,0,0
+cv,smotenc,5,10226,Female,0,1
 cv,smotenc,5,10227,Male,0,0
 cv,smotenc,5,10241,Male,1,1
 cv,smotenc,5,10247,Male,0,0
@@ -93473,7 +93473,7 @@ cv,smotenc,5,11572,Female,0,1
 cv,smotenc,5,11578,Male,1,0
 cv,smotenc,5,11592,Male,0,0
 cv,smotenc,5,11595,Female,0,0
-cv,smotenc,5,11597,Female,1,0
+cv,smotenc,5,11597,Female,1,1
 cv,smotenc,5,11607,Male,0,0
 cv,smotenc,5,11612,Male,1,1
 cv,smotenc,5,11614,Female,0,0
@@ -93604,7 +93604,7 @@ cv,smotenc,5,12211,Male,0,0
 cv,smotenc,5,12222,Male,0,0
 cv,smotenc,5,12229,Male,0,0
 cv,smotenc,5,12241,Male,1,0
-cv,smotenc,5,12242,Male,0,1
+cv,smotenc,5,12242,Male,0,0
 cv,smotenc,5,12245,Male,0,0
 cv,smotenc,5,12246,Male,1,1
 cv,smotenc,5,12247,Male,0,0
@@ -93623,11 +93623,11 @@ cv,smotenc,5,12308,Female,0,0
 cv,smotenc,5,12309,Female,0,0
 cv,smotenc,5,12311,Male,1,1
 cv,smotenc,5,12313,Female,0,0
-cv,smotenc,5,12314,Female,1,0
+cv,smotenc,5,12314,Female,1,1
 cv,smotenc,5,12315,Male,0,0
 cv,smotenc,5,12326,Male,1,1
 cv,smotenc,5,12329,Female,0,0
-cv,smotenc,5,12337,Female,1,0
+cv,smotenc,5,12337,Female,1,1
 cv,smotenc,5,12342,Female,0,0
 cv,smotenc,5,12345,Female,0,0
 cv,smotenc,5,12348,Male,1,1
@@ -93837,7 +93837,7 @@ cv,smotenc,5,13354,Female,0,0
 cv,smotenc,5,13360,Male,0,0
 cv,smotenc,5,13363,Male,0,0
 cv,smotenc,5,13368,Female,0,0
-cv,smotenc,5,13370,Female,1,0
+cv,smotenc,5,13370,Female,1,1
 cv,smotenc,5,13373,Male,0,0
 cv,smotenc,5,13379,Female,0,0
 cv,smotenc,5,13385,Male,1,1
@@ -93845,9 +93845,9 @@ cv,smotenc,5,13387,Male,0,0
 cv,smotenc,5,13389,Male,0,1
 cv,smotenc,5,13402,Female,0,0
 cv,smotenc,5,13403,Male,0,0
-cv,smotenc,5,13410,Female,1,1
+cv,smotenc,5,13410,Female,1,0
 cv,smotenc,5,13415,Male,0,0
-cv,smotenc,5,13426,Female,1,1
+cv,smotenc,5,13426,Female,1,0
 cv,smotenc,5,13427,Male,1,1
 cv,smotenc,5,13432,Male,0,0
 cv,smotenc,5,13441,Male,0,0
@@ -93925,7 +93925,7 @@ cv,smotenc,5,13799,Female,0,0
 cv,smotenc,5,13808,Female,0,0
 cv,smotenc,5,13819,Male,0,0
 cv,smotenc,5,13822,Male,0,0
-cv,smotenc,5,13830,Male,1,1
+cv,smotenc,5,13830,Male,1,0
 cv,smotenc,5,13831,Male,0,0
 cv,smotenc,5,13832,Male,0,1
 cv,smotenc,5,13833,Female,0,0
@@ -93969,7 +93969,7 @@ cv,smotenc,5,13994,Male,0,0
 cv,smotenc,5,13999,Male,0,0
 cv,smotenc,5,14001,Male,1,1
 cv,smotenc,5,14007,Male,0,0
-cv,smotenc,5,14010,Female,1,1
+cv,smotenc,5,14010,Female,1,0
 cv,smotenc,5,14015,Male,1,1
 cv,smotenc,5,14018,Female,0,0
 cv,smotenc,5,14020,Male,0,0
@@ -93990,7 +93990,7 @@ cv,smotenc,5,14069,Female,0,0
 cv,smotenc,5,14071,Male,0,1
 cv,smotenc,5,14073,Male,0,0
 cv,smotenc,5,14079,Female,0,0
-cv,smotenc,5,14081,Female,0,0
+cv,smotenc,5,14081,Female,0,1
 cv,smotenc,5,14084,Male,0,0
 cv,smotenc,5,14085,Male,0,0
 cv,smotenc,5,14093,Male,0,1
@@ -94006,10 +94006,10 @@ cv,smotenc,5,14136,Male,0,0
 cv,smotenc,5,14148,Male,1,1
 cv,smotenc,5,14152,Male,1,1
 cv,smotenc,5,14154,Male,1,1
-cv,smotenc,5,14155,Male,0,1
+cv,smotenc,5,14155,Male,0,0
 cv,smotenc,5,14162,Male,0,0
 cv,smotenc,5,14177,Male,0,0
-cv,smotenc,5,14180,Male,1,0
+cv,smotenc,5,14180,Male,1,1
 cv,smotenc,5,14186,Male,0,0
 cv,smotenc,5,14195,Female,0,1
 cv,smotenc,5,14200,Male,0,0
@@ -94253,7 +94253,7 @@ cv,smotenc,5,15496,Female,1,1
 cv,smotenc,5,15498,Female,0,0
 cv,smotenc,5,15518,Male,0,0
 cv,smotenc,5,15520,Female,0,0
-cv,smotenc,5,15523,Female,0,0
+cv,smotenc,5,15523,Female,0,1
 cv,smotenc,5,15528,Female,1,1
 cv,smotenc,5,15529,Male,0,0
 cv,smotenc,5,15530,Male,0,0
@@ -94297,7 +94297,7 @@ cv,smotenc,5,15749,Male,1,1
 cv,smotenc,5,15750,Male,0,1
 cv,smotenc,5,15752,Male,0,1
 cv,smotenc,5,15755,Male,0,0
-cv,smotenc,5,15757,Male,1,0
+cv,smotenc,5,15757,Male,1,1
 cv,smotenc,5,15778,Female,0,0
 cv,smotenc,5,15781,Male,0,0
 cv,smotenc,5,15788,Male,0,0
@@ -94534,7 +94534,7 @@ cv,smotenc,5,16927,Female,0,0
 cv,smotenc,5,16931,Male,0,0
 cv,smotenc,5,16942,Male,0,0
 cv,smotenc,5,16944,Male,1,1
-cv,smotenc,5,16948,Female,0,0
+cv,smotenc,5,16948,Female,0,1
 cv,smotenc,5,16951,Male,0,1
 cv,smotenc,5,16967,Male,0,0
 cv,smotenc,5,16969,Male,0,1
@@ -94978,7 +94978,7 @@ cv,smotenc,5,19253,Male,0,0
 cv,smotenc,5,19258,Male,0,0
 cv,smotenc,5,19268,Female,0,0
 cv,smotenc,5,19273,Female,0,0
-cv,smotenc,5,19289,Female,0,0
+cv,smotenc,5,19289,Female,0,1
 cv,smotenc,5,19312,Male,0,0
 cv,smotenc,5,19313,Female,0,0
 cv,smotenc,5,19315,Female,0,0
@@ -95088,7 +95088,7 @@ cv,smotenc,5,19927,Male,0,0
 cv,smotenc,5,19932,Male,0,0
 cv,smotenc,5,19933,Female,0,0
 cv,smotenc,5,19935,Female,0,0
-cv,smotenc,5,19937,Male,0,1
+cv,smotenc,5,19937,Male,0,0
 cv,smotenc,5,19947,Female,0,1
 cv,smotenc,5,19952,Male,0,0
 cv,smotenc,5,19956,Female,0,0
@@ -95113,7 +95113,7 @@ cv,smotenc,5,20052,Male,1,1
 cv,smotenc,5,20055,Male,1,1
 cv,smotenc,5,20059,Male,0,0
 cv,smotenc,5,20078,Female,0,0
-cv,smotenc,5,20082,Male,0,0
+cv,smotenc,5,20082,Male,0,1
 cv,smotenc,5,20084,Male,0,0
 cv,smotenc,5,20089,Male,1,1
 cv,smotenc,5,20100,Male,0,0
@@ -95287,7 +95287,7 @@ cv,smotenc,5,20971,Male,0,0
 cv,smotenc,5,20973,Male,0,0
 cv,smotenc,5,20977,Female,0,0
 cv,smotenc,5,20978,Male,1,1
-cv,smotenc,5,20979,Female,0,1
+cv,smotenc,5,20979,Female,0,0
 cv,smotenc,5,20981,Female,0,0
 cv,smotenc,5,20983,Male,0,1
 cv,smotenc,5,20989,Male,0,0
@@ -95539,7 +95539,7 @@ cv,smotenc,5,22258,Female,0,0
 cv,smotenc,5,22259,Female,0,0
 cv,smotenc,5,22265,Male,0,1
 cv,smotenc,5,22271,Male,0,1
-cv,smotenc,5,22273,Female,0,0
+cv,smotenc,5,22273,Female,0,1
 cv,smotenc,5,22275,Male,1,1
 cv,smotenc,5,22279,Male,1,1
 cv,smotenc,5,22285,Male,1,1
@@ -95595,7 +95595,7 @@ cv,smotenc,5,22553,Male,0,0
 cv,smotenc,5,22559,Male,0,0
 cv,smotenc,5,22560,Male,0,0
 cv,smotenc,5,22563,Female,0,0
-cv,smotenc,5,22564,Female,1,0
+cv,smotenc,5,22564,Female,1,1
 cv,smotenc,5,22565,Female,0,0
 cv,smotenc,5,22573,Male,1,1
 cv,smotenc,5,22578,Male,1,1
@@ -95647,7 +95647,7 @@ cv,smotenc,5,22799,Female,0,0
 cv,smotenc,5,22802,Male,0,1
 cv,smotenc,5,22814,Male,0,0
 cv,smotenc,5,22818,Female,0,0
-cv,smotenc,5,22838,Male,0,0
+cv,smotenc,5,22838,Male,0,1
 cv,smotenc,5,22839,Male,0,1
 cv,smotenc,5,22842,Female,0,0
 cv,smotenc,5,22850,Male,1,0
@@ -95705,7 +95705,7 @@ cv,smotenc,5,23089,Male,1,1
 cv,smotenc,5,23094,Male,0,0
 cv,smotenc,5,23096,Male,0,0
 cv,smotenc,5,23097,Male,0,1
-cv,smotenc,5,23103,Female,1,0
+cv,smotenc,5,23103,Female,1,1
 cv,smotenc,5,23105,Male,0,0
 cv,smotenc,5,23106,Male,1,1
 cv,smotenc,5,23111,Male,0,0
@@ -95737,13 +95737,13 @@ cv,smotenc,5,23232,Male,0,0
 cv,smotenc,5,23237,Female,0,0
 cv,smotenc,5,23239,Female,0,0
 cv,smotenc,5,23246,Male,0,0
-cv,smotenc,5,23254,Male,0,0
+cv,smotenc,5,23254,Male,0,1
 cv,smotenc,5,23257,Male,0,0
 cv,smotenc,5,23261,Male,0,0
 cv,smotenc,5,23262,Male,1,1
 cv,smotenc,5,23265,Female,0,0
 cv,smotenc,5,23269,Female,0,0
-cv,smotenc,5,23271,Female,0,0
+cv,smotenc,5,23271,Female,0,1
 cv,smotenc,5,23281,Female,0,0
 cv,smotenc,5,23305,Female,1,1
 cv,smotenc,5,23310,Male,1,1
@@ -95809,7 +95809,7 @@ cv,smotenc,5,23595,Male,0,1
 cv,smotenc,5,23602,Female,0,0
 cv,smotenc,5,23607,Female,0,1
 cv,smotenc,5,23612,Female,0,0
-cv,smotenc,5,23616,Female,0,0
+cv,smotenc,5,23616,Female,0,1
 cv,smotenc,5,23619,Male,1,0
 cv,smotenc,5,23621,Male,0,0
 cv,smotenc,5,23625,Male,0,0
@@ -95839,7 +95839,7 @@ cv,smotenc,5,23784,Male,1,1
 cv,smotenc,5,23787,Female,0,0
 cv,smotenc,5,23790,Female,0,0
 cv,smotenc,5,23792,Male,1,1
-cv,smotenc,5,23800,Male,0,0
+cv,smotenc,5,23800,Male,0,1
 cv,smotenc,5,23804,Male,0,0
 cv,smotenc,5,23812,Male,0,0
 cv,smotenc,5,23813,Female,0,0
@@ -95858,7 +95858,7 @@ cv,smotenc,5,23869,Female,0,0
 cv,smotenc,5,23871,Male,0,0
 cv,smotenc,5,23888,Female,0,0
 cv,smotenc,5,23889,Male,1,1
-cv,smotenc,5,23890,Female,1,0
+cv,smotenc,5,23890,Female,1,1
 cv,smotenc,5,23891,Male,0,1
 cv,smotenc,5,23894,Male,1,0
 cv,smotenc,5,23899,Female,0,1
@@ -95969,7 +95969,7 @@ cv,smotenc,5,24405,Female,0,0
 cv,smotenc,5,24407,Male,1,1
 cv,smotenc,5,24408,Female,0,0
 cv,smotenc,5,24409,Male,1,1
-cv,smotenc,5,24415,Female,1,0
+cv,smotenc,5,24415,Female,1,1
 cv,smotenc,5,24416,Male,0,1
 cv,smotenc,5,24419,Male,1,0
 cv,smotenc,5,24428,Male,0,0
@@ -96031,7 +96031,7 @@ cv,smotenc,5,24699,Male,0,0
 cv,smotenc,5,24700,Female,0,0
 cv,smotenc,5,24701,Male,1,1
 cv,smotenc,5,24704,Male,0,1
-cv,smotenc,5,24708,Male,0,0
+cv,smotenc,5,24708,Male,0,1
 cv,smotenc,5,24709,Male,1,1
 cv,smotenc,5,24715,Female,0,0
 cv,smotenc,5,24716,Male,0,0
@@ -96049,7 +96049,7 @@ cv,smotenc,5,24752,Male,0,0
 cv,smotenc,5,24763,Female,0,0
 cv,smotenc,5,24765,Female,0,1
 cv,smotenc,5,24768,Male,0,1
-cv,smotenc,5,24770,Male,1,1
+cv,smotenc,5,24770,Male,1,0
 cv,smotenc,5,24773,Male,0,0
 cv,smotenc,5,24780,Male,1,1
 cv,smotenc,5,24785,Female,0,1
@@ -96090,7 +96090,7 @@ cv,smotenc,5,24928,Male,0,0
 cv,smotenc,5,24930,Male,0,0
 cv,smotenc,5,24934,Female,0,0
 cv,smotenc,5,24936,Male,1,1
-cv,smotenc,5,24945,Male,0,1
+cv,smotenc,5,24945,Male,0,0
 cv,smotenc,5,24950,Female,0,0
 cv,smotenc,5,24952,Male,0,0
 cv,smotenc,5,24965,Male,0,0
@@ -96219,7 +96219,7 @@ cv,smotenc,5,25530,Male,0,0
 cv,smotenc,5,25536,Male,0,0
 cv,smotenc,5,25539,Male,0,0
 cv,smotenc,5,25544,Male,0,0
-cv,smotenc,5,25549,Male,0,1
+cv,smotenc,5,25549,Male,0,0
 cv,smotenc,5,25553,Male,1,1
 cv,smotenc,5,25554,Male,1,1
 cv,smotenc,5,25566,Male,0,0
@@ -96563,7 +96563,7 @@ cv,smotenc,5,27102,Male,0,1
 cv,smotenc,5,27103,Male,0,0
 cv,smotenc,5,27108,Male,0,1
 cv,smotenc,5,27111,Male,0,0
-cv,smotenc,5,27113,Male,0,0
+cv,smotenc,5,27113,Male,0,1
 cv,smotenc,5,27115,Male,0,0
 cv,smotenc,5,27125,Male,0,1
 cv,smotenc,5,27135,Female,0,0
@@ -96597,7 +96597,7 @@ cv,smotenc,5,27295,Male,0,1
 cv,smotenc,5,27300,Male,1,1
 cv,smotenc,5,27310,Male,0,0
 cv,smotenc,5,27314,Male,1,1
-cv,smotenc,5,27317,Male,1,1
+cv,smotenc,5,27317,Male,1,0
 cv,smotenc,5,27319,Male,0,0
 cv,smotenc,5,27322,Male,1,1
 cv,smotenc,5,27331,Male,1,0
@@ -96636,7 +96636,7 @@ cv,smotenc,5,27453,Male,0,0
 cv,smotenc,5,27462,Male,0,0
 cv,smotenc,5,27463,Female,0,0
 cv,smotenc,5,27471,Male,1,1
-cv,smotenc,5,27473,Female,0,1
+cv,smotenc,5,27473,Female,0,0
 cv,smotenc,5,27478,Male,0,1
 cv,smotenc,5,27482,Female,0,0
 cv,smotenc,5,27484,Male,1,1
@@ -96771,7 +96771,7 @@ cv,smotenc,5,28107,Female,1,1
 cv,smotenc,5,28108,Female,0,0
 cv,smotenc,5,28110,Male,0,0
 cv,smotenc,5,28115,Male,1,0
-cv,smotenc,5,28119,Female,0,0
+cv,smotenc,5,28119,Female,0,1
 cv,smotenc,5,28124,Male,0,0
 cv,smotenc,5,28133,Male,0,0
 cv,smotenc,5,28134,Male,1,1
@@ -96972,7 +96972,7 @@ cv,smotenc,5,29010,Female,0,0
 cv,smotenc,5,29014,Male,0,0
 cv,smotenc,5,29015,Male,0,0
 cv,smotenc,5,29019,Female,0,0
-cv,smotenc,5,29039,Female,1,1
+cv,smotenc,5,29039,Female,1,0
 cv,smotenc,5,29048,Female,0,0
 cv,smotenc,5,29053,Male,1,1
 cv,smotenc,5,29054,Male,0,1
@@ -97008,11 +97008,11 @@ cv,smotenc,5,29192,Male,1,1
 cv,smotenc,5,29205,Female,0,0
 cv,smotenc,5,29210,Female,0,0
 cv,smotenc,5,29211,Female,0,0
-cv,smotenc,5,29213,Female,1,1
+cv,smotenc,5,29213,Female,1,0
 cv,smotenc,5,29225,Male,0,0
 cv,smotenc,5,29228,Male,1,1
 cv,smotenc,5,29234,Male,0,0
-cv,smotenc,5,29235,Male,0,0
+cv,smotenc,5,29235,Male,0,1
 cv,smotenc,5,29242,Male,0,1
 cv,smotenc,5,29244,Male,0,0
 cv,smotenc,5,29245,Male,0,1
@@ -97130,14 +97130,14 @@ cv,smotenc,5,29891,Female,1,1
 cv,smotenc,5,29907,Male,0,1
 cv,smotenc,5,29910,Female,0,1
 cv,smotenc,5,29920,Male,0,0
-cv,smotenc,5,29922,Female,0,1
+cv,smotenc,5,29922,Female,0,0
 cv,smotenc,5,29923,Female,0,1
 cv,smotenc,5,29930,Male,0,0
 cv,smotenc,5,29932,Male,0,1
 cv,smotenc,5,29934,Male,1,1
 cv,smotenc,5,29935,Female,0,0
 cv,smotenc,5,29940,Female,0,0
-cv,smotenc,5,29942,Male,0,1
+cv,smotenc,5,29942,Male,0,0
 cv,smotenc,5,29944,Male,1,1
 cv,smotenc,5,29947,Male,0,0
 cv,smotenc,5,29961,Female,0,0
@@ -97159,7 +97159,7 @@ cv,smotenc,5,30030,Female,0,0
 cv,smotenc,5,30032,Male,0,0
 cv,smotenc,5,30045,Male,0,1
 cv,smotenc,5,30046,Male,0,1
-cv,smotenc,5,30049,Female,0,0
+cv,smotenc,5,30049,Female,0,1
 cv,smotenc,5,30054,Female,0,0
 cv,smotenc,5,30061,Female,0,0
 cv,smotenc,5,30064,Female,0,0
@@ -97294,7 +97294,7 @@ cv,smotenc,5,30602,Male,0,0
 cv,smotenc,5,30611,Female,0,0
 cv,smotenc,5,30612,Male,0,0
 cv,smotenc,5,30614,Female,0,0
-cv,smotenc,5,30619,Female,0,1
+cv,smotenc,5,30619,Female,0,0
 cv,smotenc,5,30627,Male,0,0
 cv,smotenc,5,30631,Male,0,1
 cv,smotenc,5,30632,Male,1,1
@@ -97325,7 +97325,7 @@ cv,smotenc,5,30744,Male,0,1
 cv,smotenc,5,30754,Female,0,1
 cv,smotenc,5,30761,Male,0,0
 cv,smotenc,5,30767,Male,0,0
-cv,smotenc,5,30772,Female,0,1
+cv,smotenc,5,30772,Female,0,0
 cv,smotenc,5,30773,Male,1,1
 cv,smotenc,5,30779,Female,0,0
 cv,smotenc,5,30780,Male,0,0
@@ -97338,7 +97338,7 @@ cv,smotenc,5,30807,Male,1,1
 cv,smotenc,5,30812,Female,0,0
 cv,smotenc,5,30815,Male,1,1
 cv,smotenc,5,30823,Female,0,0
-cv,smotenc,5,30833,Female,1,1
+cv,smotenc,5,30833,Female,1,0
 cv,smotenc,5,30835,Male,1,1
 cv,smotenc,5,30845,Female,0,0
 cv,smotenc,5,30859,Female,0,0
@@ -97464,7 +97464,7 @@ cv,smotenc,5,31524,Male,1,1
 cv,smotenc,5,31527,Male,0,0
 cv,smotenc,5,31530,Male,0,0
 cv,smotenc,5,31531,Female,1,1
-cv,smotenc,5,31538,Male,0,0
+cv,smotenc,5,31538,Male,0,1
 cv,smotenc,5,31543,Male,0,1
 cv,smotenc,5,31546,Male,0,0
 cv,smotenc,5,31556,Female,0,0
@@ -97589,7 +97589,7 @@ cv,smotenc,5,32086,Male,0,0
 cv,smotenc,5,32088,Female,0,0
 cv,smotenc,5,32098,Male,1,1
 cv,smotenc,5,32100,Male,0,0
-cv,smotenc,5,32102,Female,1,0
+cv,smotenc,5,32102,Female,1,1
 cv,smotenc,5,32107,Female,0,0
 cv,smotenc,5,32109,Male,1,1
 cv,smotenc,5,32115,Female,1,1
